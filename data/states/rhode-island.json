@@ -1,0 +1,315 @@
+{
+  "state": "Rhode Island",
+  "abbr": "RI",
+  "slug": "rhode-island",
+  "page": "https://the-calendar.net/holidays/by-state/rhode-island/",
+  "feed": "https://the-calendar.net/downloads/states/rhode-island-holidays.ics",
+  "source": {
+    "url": "https://www.courts.ri.gov/Public-Resources/Documents/StateHolidays2.pdf",
+    "title": "2027 Payroll & Holiday Calendar, 'State Holiday Celebrations' (RI Department of Administration, Division of Human Resources; hosted on courts.ri.gov); R.I. Gen. Laws 25-1-1; Council 94 master agreement Art. 9 (2013-2017)",
+    "year": 2027
+  },
+  "confidence": "high",
+  "verified": true,
+  "weekendRule": "Sat->Mon and Sun->Mon: statute 25-1-1 says state employees celebrate New Year's Day, Juneteenth, Independence Day, Veterans' Day and Christmas on the FOLLOWING MONDAY when the date falls on a Saturday or Sunday (2027: Juneteenth Sat -> Mon Jun 21; Jul 4 Sun -> Mon Jul 5; Christmas Sat -> Mon Dec 27).",
+  "renamedFederalHolidays": [],
+  "excludedConfederateHolidays": [],
+  "years": {
+    "2026": {
+      "paidHolidays": 12,
+      "federal": [
+        {
+          "date": "2026-01-01",
+          "observed": "2026-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-01-19",
+          "observed": "2026-01-19",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-02-16",
+          "observed": "2026-02-16",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2026-05-25",
+          "observed": "2026-05-25",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-06-19",
+          "observed": "2026-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-07-04",
+          "observed": "2026-07-03",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-09-07",
+          "observed": "2026-09-07",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-10-12",
+          "observed": "2026-10-12",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-11-11",
+          "observed": "2026-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-11-26",
+          "observed": "2026-11-26",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-12-25",
+          "observed": "2026-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2026-08-10",
+          "weekday": "Monday",
+          "name": "Victory Day",
+          "rule": "nth:2:MON:08",
+          "note": "Rhode Island's own holiday (end of WWII), second Monday in August (Mon Aug 9, 2027); statute and the 2027 HR calendar still use the name Victory Day."
+        },
+        {
+          "date": "2026-11-03",
+          "weekday": "Tuesday",
+          "name": "Election Day",
+          "rule": "electionDay",
+          "note": "State holiday (even years)."
+        }
+      ],
+      "floatingDays": 0,
+      "partialOrLocal": [
+        {
+          "date": "2026-05-04",
+          "name": "Rhode Island Independence Day",
+          "kind": "commemorative",
+          "note": "Listed in R.I. Gen. Laws 25-1-1 but absent from the Division of Human Resources holiday calendars (2026, 2027) and from the state union contract holiday list; state offices are open."
+        }
+      ],
+      "electionDay": {
+        "rule": "electionDay",
+        "holidayThisYear": true,
+        "date": "2026-11-03"
+      }
+    },
+    "2027": {
+      "paidHolidays": 11,
+      "federal": [
+        {
+          "date": "2027-01-01",
+          "observed": "2027-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-01-18",
+          "observed": "2027-01-18",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-02-15",
+          "observed": "2027-02-15",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2027-05-31",
+          "observed": "2027-05-31",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-06-19",
+          "observed": "2027-06-18",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-07-04",
+          "observed": "2027-07-05",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-09-06",
+          "observed": "2027-09-06",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-10-11",
+          "observed": "2027-10-11",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-11-11",
+          "observed": "2027-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-11-25",
+          "observed": "2027-11-25",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-12-25",
+          "observed": "2027-12-24",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2027-08-09",
+          "weekday": "Monday",
+          "name": "Victory Day",
+          "rule": "nth:2:MON:08",
+          "note": "Rhode Island's own holiday (end of WWII), second Monday in August (Mon Aug 9, 2027); statute and the 2027 HR calendar still use the name Victory Day."
+        }
+      ],
+      "floatingDays": 0,
+      "partialOrLocal": [
+        {
+          "date": "2027-05-04",
+          "name": "Rhode Island Independence Day",
+          "kind": "commemorative",
+          "note": "Listed in R.I. Gen. Laws 25-1-1 but absent from the Division of Human Resources holiday calendars (2026, 2027) and from the state union contract holiday list; state offices are open."
+        }
+      ],
+      "electionDay": {
+        "rule": "electionDay",
+        "holidayThisYear": false,
+        "date": "2027-11-02"
+      }
+    },
+    "2028": {
+      "paidHolidays": 12,
+      "federal": [
+        {
+          "date": "2028-01-01",
+          "observed": "2027-12-31",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-01-17",
+          "observed": "2028-01-17",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-02-21",
+          "observed": "2028-02-21",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2028-05-29",
+          "observed": "2028-05-29",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-06-19",
+          "observed": "2028-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-07-04",
+          "observed": "2028-07-04",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-09-04",
+          "observed": "2028-09-04",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-10-09",
+          "observed": "2028-10-09",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-11-11",
+          "observed": "2028-11-10",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-11-23",
+          "observed": "2028-11-23",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-12-25",
+          "observed": "2028-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2028-08-14",
+          "weekday": "Monday",
+          "name": "Victory Day",
+          "rule": "nth:2:MON:08",
+          "note": "Rhode Island's own holiday (end of WWII), second Monday in August (Mon Aug 9, 2027); statute and the 2027 HR calendar still use the name Victory Day."
+        },
+        {
+          "date": "2028-11-07",
+          "weekday": "Tuesday",
+          "name": "Election Day",
+          "rule": "electionDay",
+          "note": "State holiday (even years)."
+        }
+      ],
+      "floatingDays": 0,
+      "partialOrLocal": [
+        {
+          "date": "2028-05-04",
+          "name": "Rhode Island Independence Day",
+          "kind": "commemorative",
+          "note": "Listed in R.I. Gen. Laws 25-1-1 but absent from the Division of Human Resources holiday calendars (2026, 2027) and from the state union contract holiday list; state offices are open."
+        }
+      ],
+      "electionDay": {
+        "rule": "electionDay",
+        "holidayThisYear": true,
+        "date": "2028-11-07"
+      }
+    }
+  }
+}

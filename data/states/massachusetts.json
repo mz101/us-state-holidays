@@ -1,0 +1,330 @@
+{
+  "state": "Massachusetts",
+  "abbr": "MA",
+  "slug": "massachusetts",
+  "page": "https://the-calendar.net/holidays/by-state/massachusetts/",
+  "feed": "https://the-calendar.net/downloads/states/massachusetts-holidays.ics",
+  "source": {
+    "url": "https://www.mass.gov/guides/absence-and-leave-policies",
+    "title": "Absence and Leave Policies (Holiday Leave) - Mass.gov / HRD; HRD memo 'Legal Holidays at the Commonwealth of Massachusetts' dated Dec 30, 2024 (calendar years 2025 and 2026); 2027 dates cross-checked against MA DESE 'Massachusetts Legal Holiday Calendar 2026, 2027, 2028, 2029' (Sep 10, 2026)",
+    "year": 2026
+  },
+  "confidence": "high",
+  "verified": true,
+  "weekendRule": "Sun->Mon; Saturday holiday stays on Saturday (offices must be open the preceding Friday; managers/confidential staff get as many Fridays off as possible or the following Monday as alternative day, bargaining units per CBA)",
+  "renamedFederalHolidays": [
+    {
+      "name": "Indigenous Peoples' Day (Columbus Day)",
+      "federal": "Columbus Day"
+    }
+  ],
+  "excludedConfederateHolidays": [],
+  "years": {
+    "2026": {
+      "paidHolidays": 12,
+      "federal": [
+        {
+          "date": "2026-01-01",
+          "observed": "2026-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-01-19",
+          "observed": "2026-01-19",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-02-16",
+          "observed": "2026-02-16",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-05-25",
+          "observed": "2026-05-25",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-06-19",
+          "observed": "2026-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-07-04",
+          "observed": "2026-07-03",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-09-07",
+          "observed": "2026-09-07",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-10-12",
+          "observed": "2026-10-12",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-11-11",
+          "observed": "2026-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-11-26",
+          "observed": "2026-11-26",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-12-25",
+          "observed": "2026-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2026-04-20",
+          "weekday": "Monday",
+          "name": "Patriots' Day",
+          "rule": "nth:3:MON:04",
+          "note": "Statutory legal holiday under M.G.L. c.4 s.7 cl.18; listed on the HRD Holiday Leave list and in the HRD memo (Apr 19, 2027 per DESE list)."
+        }
+      ],
+      "floatingDays": 3,
+      "partialOrLocal": [
+        {
+          "date": "2026-03-17",
+          "name": "Evacuation Day",
+          "kind": "local",
+          "note": "Legal holiday in Suffolk County only. Per secondary descriptions of M.G.L. c.4 s.7 cl.18 (statute text itself not retrievable) state and municipal offices in Suffolk County must stay open and staffed, so it is not a paid state-employee holiday. Not on the HRD state holiday list."
+        },
+        {
+          "date": "2026-06-17",
+          "name": "Bunker Hill Day",
+          "kind": "local",
+          "note": "Legal holiday in Suffolk County only; same treatment as Evacuation Day (offices open). Not on the HRD state holiday list."
+        },
+        {
+          "date": null,
+          "name": "Personal days",
+          "kind": "floating",
+          "note": "Mass.gov HRD guide 'Holiday, Personal, and Vacation Leave'. Personal Days do not carry over."
+        }
+      ],
+      "electionDay": null
+    },
+    "2027": {
+      "paidHolidays": 12,
+      "federal": [
+        {
+          "date": "2027-01-01",
+          "observed": "2027-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-01-18",
+          "observed": "2027-01-18",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-02-15",
+          "observed": "2027-02-15",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-05-31",
+          "observed": "2027-05-31",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-06-19",
+          "observed": "2027-06-18",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-07-04",
+          "observed": "2027-07-05",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-09-06",
+          "observed": "2027-09-06",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-10-11",
+          "observed": "2027-10-11",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-11-11",
+          "observed": "2027-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-11-25",
+          "observed": "2027-11-25",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-12-25",
+          "observed": "2027-12-24",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2027-04-19",
+          "weekday": "Monday",
+          "name": "Patriots' Day",
+          "rule": "nth:3:MON:04",
+          "note": "Statutory legal holiday under M.G.L. c.4 s.7 cl.18; listed on the HRD Holiday Leave list and in the HRD memo (Apr 19, 2027 per DESE list)."
+        }
+      ],
+      "floatingDays": 3,
+      "partialOrLocal": [
+        {
+          "date": "2027-03-17",
+          "name": "Evacuation Day",
+          "kind": "local",
+          "note": "Legal holiday in Suffolk County only. Per secondary descriptions of M.G.L. c.4 s.7 cl.18 (statute text itself not retrievable) state and municipal offices in Suffolk County must stay open and staffed, so it is not a paid state-employee holiday. Not on the HRD state holiday list."
+        },
+        {
+          "date": "2027-06-17",
+          "name": "Bunker Hill Day",
+          "kind": "local",
+          "note": "Legal holiday in Suffolk County only; same treatment as Evacuation Day (offices open). Not on the HRD state holiday list."
+        },
+        {
+          "date": null,
+          "name": "Personal days",
+          "kind": "floating",
+          "note": "Mass.gov HRD guide 'Holiday, Personal, and Vacation Leave'. Personal Days do not carry over."
+        }
+      ],
+      "electionDay": null
+    },
+    "2028": {
+      "paidHolidays": 12,
+      "federal": [
+        {
+          "date": "2028-01-01",
+          "observed": "2027-12-31",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-01-17",
+          "observed": "2028-01-17",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-02-21",
+          "observed": "2028-02-21",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-05-29",
+          "observed": "2028-05-29",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-06-19",
+          "observed": "2028-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-07-04",
+          "observed": "2028-07-04",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-09-04",
+          "observed": "2028-09-04",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-10-09",
+          "observed": "2028-10-09",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-11-11",
+          "observed": "2028-11-10",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-11-23",
+          "observed": "2028-11-23",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-12-25",
+          "observed": "2028-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2028-04-17",
+          "weekday": "Monday",
+          "name": "Patriots' Day",
+          "rule": "nth:3:MON:04",
+          "note": "Statutory legal holiday under M.G.L. c.4 s.7 cl.18; listed on the HRD Holiday Leave list and in the HRD memo (Apr 19, 2027 per DESE list)."
+        }
+      ],
+      "floatingDays": 3,
+      "partialOrLocal": [
+        {
+          "date": "2028-03-17",
+          "name": "Evacuation Day",
+          "kind": "local",
+          "note": "Legal holiday in Suffolk County only. Per secondary descriptions of M.G.L. c.4 s.7 cl.18 (statute text itself not retrievable) state and municipal offices in Suffolk County must stay open and staffed, so it is not a paid state-employee holiday. Not on the HRD state holiday list."
+        },
+        {
+          "date": "2028-06-17",
+          "name": "Bunker Hill Day",
+          "kind": "local",
+          "note": "Legal holiday in Suffolk County only; same treatment as Evacuation Day (offices open). Not on the HRD state holiday list."
+        },
+        {
+          "date": null,
+          "name": "Personal days",
+          "kind": "floating",
+          "note": "Mass.gov HRD guide 'Holiday, Personal, and Vacation Leave'. Personal Days do not carry over."
+        }
+      ],
+      "electionDay": null
+    }
+  }
+}

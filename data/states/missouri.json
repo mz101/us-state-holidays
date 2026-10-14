@@ -1,0 +1,310 @@
+{
+  "state": "Missouri",
+  "abbr": "MO",
+  "slug": "missouri",
+  "page": "https://the-calendar.net/holidays/by-state/missouri/",
+  "feed": "https://the-calendar.net/downloads/states/missouri-holidays.ics",
+  "source": {
+    "url": "https://oa.mo.gov/commissioner/state-holidays",
+    "title": "State Holidays - Missouri Office of Administration (2026 list)",
+    "year": 2026
+  },
+  "confidence": "high",
+  "verified": true,
+  "weekendRule": "Sat->Fri, Sun->Mon (OA policy B-8; official 2026 list shows Independence Day (observed) Fri Jul 3)",
+  "renamedFederalHolidays": [],
+  "excludedConfederateHolidays": [],
+  "years": {
+    "2026": {
+      "paidHolidays": 13,
+      "federal": [
+        {
+          "date": "2026-01-01",
+          "observed": "2026-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-01-19",
+          "observed": "2026-01-19",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-02-16",
+          "observed": "2026-02-16",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-05-25",
+          "observed": "2026-05-25",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-06-19",
+          "observed": "2026-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-07-04",
+          "observed": "2026-07-03",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-09-07",
+          "observed": "2026-09-07",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-10-12",
+          "observed": "2026-10-12",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-11-11",
+          "observed": "2026-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-11-26",
+          "observed": "2026-11-26",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-12-25",
+          "observed": "2026-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2026-02-12",
+          "weekday": "Thursday",
+          "name": "Lincoln's Birthday",
+          "rule": "fixed:02-12",
+          "note": "Listed on the OA 2026 state holiday list (Thu Feb 12, 2026); Fri Feb 12, 2027."
+        },
+        {
+          "date": "2026-05-08",
+          "weekday": "Friday",
+          "name": "Truman Day",
+          "rule": "fixed:05-08",
+          "note": "Listed on the OA 2026 state holiday list (Fri May 8, 2026). In 2027 May 8 is a Saturday, so under the OA weekend policy it would be observed Fri May 7 (inferred, not yet published)."
+        }
+      ],
+      "floatingDays": 0,
+      "partialOrLocal": [
+        {
+          "date": "2026-11-27",
+          "name": "Day after Thanksgiving",
+          "kind": "optional",
+          "note": "Not on the OA statutory list. Governors have closed most executive-branch offices on Thanksgiving Friday by annual executive order for decades (EO 24-15 for Nov 29, 2024; EO 25-33 by Gov. Kehoe for Nov 28, 2025; exceptions for public safety). A 2016 report says only 2010 and 2011 were skipped. No order for 2026/2027 found yet."
+        }
+      ],
+      "electionDay": null
+    },
+    "2027": {
+      "paidHolidays": 13,
+      "federal": [
+        {
+          "date": "2027-01-01",
+          "observed": "2027-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-01-18",
+          "observed": "2027-01-18",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-02-15",
+          "observed": "2027-02-15",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-05-31",
+          "observed": "2027-05-31",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-06-19",
+          "observed": "2027-06-18",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-07-04",
+          "observed": "2027-07-05",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-09-06",
+          "observed": "2027-09-06",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-10-11",
+          "observed": "2027-10-11",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-11-11",
+          "observed": "2027-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-11-25",
+          "observed": "2027-11-25",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-12-25",
+          "observed": "2027-12-24",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2027-02-12",
+          "weekday": "Friday",
+          "name": "Lincoln's Birthday",
+          "rule": "fixed:02-12",
+          "note": "Listed on the OA 2026 state holiday list (Thu Feb 12, 2026); Fri Feb 12, 2027."
+        },
+        {
+          "date": "2027-05-08",
+          "weekday": "Saturday",
+          "name": "Truman Day",
+          "rule": "fixed:05-08",
+          "note": "Listed on the OA 2026 state holiday list (Fri May 8, 2026). In 2027 May 8 is a Saturday, so under the OA weekend policy it would be observed Fri May 7 (inferred, not yet published)."
+        }
+      ],
+      "floatingDays": 0,
+      "partialOrLocal": [
+        {
+          "date": "2027-11-26",
+          "name": "Day after Thanksgiving",
+          "kind": "optional",
+          "note": "Not on the OA statutory list. Governors have closed most executive-branch offices on Thanksgiving Friday by annual executive order for decades (EO 24-15 for Nov 29, 2024; EO 25-33 by Gov. Kehoe for Nov 28, 2025; exceptions for public safety). A 2016 report says only 2010 and 2011 were skipped. No order for 2026/2027 found yet."
+        }
+      ],
+      "electionDay": null
+    },
+    "2028": {
+      "paidHolidays": 13,
+      "federal": [
+        {
+          "date": "2028-01-01",
+          "observed": "2027-12-31",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-01-17",
+          "observed": "2028-01-17",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-02-21",
+          "observed": "2028-02-21",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-05-29",
+          "observed": "2028-05-29",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-06-19",
+          "observed": "2028-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-07-04",
+          "observed": "2028-07-04",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-09-04",
+          "observed": "2028-09-04",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-10-09",
+          "observed": "2028-10-09",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-11-11",
+          "observed": "2028-11-10",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-11-23",
+          "observed": "2028-11-23",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-12-25",
+          "observed": "2028-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2028-02-12",
+          "weekday": "Saturday",
+          "name": "Lincoln's Birthday",
+          "rule": "fixed:02-12",
+          "note": "Listed on the OA 2026 state holiday list (Thu Feb 12, 2026); Fri Feb 12, 2027."
+        },
+        {
+          "date": "2028-05-08",
+          "weekday": "Monday",
+          "name": "Truman Day",
+          "rule": "fixed:05-08",
+          "note": "Listed on the OA 2026 state holiday list (Fri May 8, 2026). In 2027 May 8 is a Saturday, so under the OA weekend policy it would be observed Fri May 7 (inferred, not yet published)."
+        }
+      ],
+      "floatingDays": 0,
+      "partialOrLocal": [
+        {
+          "date": "2028-11-24",
+          "name": "Day after Thanksgiving",
+          "kind": "optional",
+          "note": "Not on the OA statutory list. Governors have closed most executive-branch offices on Thanksgiving Friday by annual executive order for decades (EO 24-15 for Nov 29, 2024; EO 25-33 by Gov. Kehoe for Nov 28, 2025; exceptions for public safety). A 2016 report says only 2010 and 2011 were skipped. No order for 2026/2027 found yet."
+        }
+      ],
+      "electionDay": null
+    }
+  }
+}

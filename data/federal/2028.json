@@ -1,0 +1,84 @@
+{
+  "country": "US",
+  "year": 2028,
+  "source": "5 U.S.C. § 6103",
+  "holidays": [
+    {
+      "date": "2028-01-01",
+      "observed": "2027-12-31",
+      "weekday": "Saturday",
+      "name": "New Year's Day",
+      "rule": null
+    },
+    {
+      "date": "2028-01-17",
+      "observed": "2028-01-17",
+      "weekday": "Monday",
+      "name": "Martin Luther King Jr. Day",
+      "rule": "Third Monday in January"
+    },
+    {
+      "date": "2028-02-21",
+      "observed": "2028-02-21",
+      "weekday": "Monday",
+      "name": "Presidents’ Day (Washington's Birthday)",
+      "rule": "Third Monday in February"
+    },
+    {
+      "date": "2028-05-29",
+      "observed": "2028-05-29",
+      "weekday": "Monday",
+      "name": "Memorial Day",
+      "rule": "Last Monday in May"
+    },
+    {
+      "date": "2028-06-19",
+      "observed": "2028-06-19",
+      "weekday": "Monday",
+      "name": "Juneteenth National Independence Day",
+      "rule": null
+    },
+    {
+      "date": "2028-07-04",
+      "observed": "2028-07-04",
+      "weekday": "Tuesday",
+      "name": "Independence Day",
+      "rule": null
+    },
+    {
+      "date": "2028-09-04",
+      "observed": "2028-09-04",
+      "weekday": "Monday",
+      "name": "Labor Day",
+      "rule": "First Monday in September"
+    },
+    {
+      "date": "2028-10-09",
+      "observed": "2028-10-09",
+      "weekday": "Monday",
+      "name": "Columbus Day / Indigenous Peoples’ Day",
+      "rule": "Second Monday in October"
+    },
+    {
+      "date": "2028-11-11",
+      "observed": "2028-11-10",
+      "weekday": "Saturday",
+      "name": "Veterans Day",
+      "rule": null
+    },
+    {
+      "date": "2028-11-23",
+      "observed": "2028-11-23",
+      "weekday": "Thursday",
+      "name": "Thanksgiving Day",
+      "rule": "Fourth Thursday in November"
+    },
+    {
+      "date": "2028-12-25",
+      "observed": "2028-12-25",
+      "weekday": "Monday",
+      "name": "Christmas Day",
+      "rule": null
+    }
+  ]
+}

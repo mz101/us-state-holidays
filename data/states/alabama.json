@@ -1,0 +1,345 @@
+{
+  "state": "Alabama",
+  "abbr": "AL",
+  "slug": "alabama",
+  "page": "https://the-calendar.net/holidays/by-state/alabama/",
+  "feed": "https://the-calendar.net/downloads/states/alabama-holidays.ics",
+  "source": {
+    "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/HB165-enr.pdf",
+    "title": "HB165 (2025 RS, enrolled; amends Ala. Code 1-3-8, adds Juneteenth, effective 2025-06-01) + Alabama State Personnel Board Rule 670-X-12-.01 (Holidays) + RSA 2026 state holiday list (rsa-al.gov/about-rsa/holidays/)",
+    "year": 2026
+  },
+  "confidence": "high",
+  "verified": true,
+  "weekendRule": "Sat->Fri, Sun->Mon",
+  "renamedFederalHolidays": [
+    {
+      "name": "Martin Luther King, Jr./Robert E. Lee's Birthday",
+      "federal": "Martin Luther King Jr. Day"
+    },
+    {
+      "name": "George Washington's Birthday/Thomas Jefferson's Birthday",
+      "federal": "Washington's Birthday"
+    },
+    {
+      "name": "Columbus Day/Fraternal Day/American Indian Heritage Day",
+      "federal": "Columbus Day"
+    }
+  ],
+  "excludedConfederateHolidays": [
+    {
+      "name": "Confederate Memorial Day",
+      "rule": "nth:4:MON:04"
+    },
+    {
+      "name": "Jefferson Davis' Birthday",
+      "rule": "nth:1:MON:06"
+    },
+    {
+      "name": "Robert E. Lee's Birthday (co-named with MLK Day; SAME day off as MLK Day, third Monday in January, so it is NOT an additional day and is already counted as the federal MLK holiday)",
+      "rule": "nth:3:MON:01"
+    }
+  ],
+  "years": {
+    "2026": {
+      "paidHolidays": 11,
+      "federal": [
+        {
+          "date": "2026-01-01",
+          "observed": "2026-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-01-19",
+          "observed": "2026-01-19",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-02-16",
+          "observed": "2026-02-16",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-05-25",
+          "observed": "2026-05-25",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-06-19",
+          "observed": "2026-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-07-04",
+          "observed": "2026-07-03",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-09-07",
+          "observed": "2026-09-07",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-10-12",
+          "observed": "2026-10-12",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-11-11",
+          "observed": "2026-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-11-26",
+          "observed": "2026-11-26",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-12-25",
+          "observed": "2026-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [],
+      "floatingDays": 1,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Personal leave day",
+          "kind": "floating",
+          "note": "Granted to all state employees EXCEPT those employed in Baldwin and Mobile Counties (they get Mardi Gras instead). Ala. Code 1-3-8(e)(2) as amended by HB165."
+        },
+        {
+          "date": "2026-02-17",
+          "name": "Mardi Gras",
+          "kind": "local",
+          "note": "State offices close ONLY in Baldwin and Mobile Counties (Ala. Code 1-3-8(e)(1)); not a statewide holiday."
+        },
+        {
+          "date": "2026-12-01",
+          "name": "Mrs. Rosa L. Parks Day",
+          "kind": "commemorative",
+          "note": "Statutory commemoration (first day of December); state offices stay open. Each county and municipality may elect to observe it as a holiday."
+        },
+        {
+          "date": null,
+          "name": "Governor-declared additional closures",
+          "kind": "optional",
+          "note": "Not a standing holiday. 2025: Governor authorized Fri Nov 28 and Fri Dec 26, 2025 (State Banking Dept memo of 2025-10-10 citing the Governor's declaration under 1-3-8; Mobile and Montgomery County notices say Dec 26 was a state holiday). 2024: Governor's memo added Juneteenth (before it was statutory) and the day after Thanksgiving. Nothing announced yet for 2026/2027; do not count in rankings."
+        }
+      ],
+      "electionDay": null
+    },
+    "2027": {
+      "paidHolidays": 11,
+      "federal": [
+        {
+          "date": "2027-01-01",
+          "observed": "2027-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-01-18",
+          "observed": "2027-01-18",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-02-15",
+          "observed": "2027-02-15",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-05-31",
+          "observed": "2027-05-31",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-06-19",
+          "observed": "2027-06-18",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-07-04",
+          "observed": "2027-07-05",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-09-06",
+          "observed": "2027-09-06",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-10-11",
+          "observed": "2027-10-11",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-11-11",
+          "observed": "2027-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-11-25",
+          "observed": "2027-11-25",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-12-25",
+          "observed": "2027-12-24",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [],
+      "floatingDays": 1,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Personal leave day",
+          "kind": "floating",
+          "note": "Granted to all state employees EXCEPT those employed in Baldwin and Mobile Counties (they get Mardi Gras instead). Ala. Code 1-3-8(e)(2) as amended by HB165."
+        },
+        {
+          "date": "2027-02-09",
+          "name": "Mardi Gras",
+          "kind": "local",
+          "note": "State offices close ONLY in Baldwin and Mobile Counties (Ala. Code 1-3-8(e)(1)); not a statewide holiday."
+        },
+        {
+          "date": "2027-12-01",
+          "name": "Mrs. Rosa L. Parks Day",
+          "kind": "commemorative",
+          "note": "Statutory commemoration (first day of December); state offices stay open. Each county and municipality may elect to observe it as a holiday."
+        },
+        {
+          "date": null,
+          "name": "Governor-declared additional closures",
+          "kind": "optional",
+          "note": "Not a standing holiday. 2025: Governor authorized Fri Nov 28 and Fri Dec 26, 2025 (State Banking Dept memo of 2025-10-10 citing the Governor's declaration under 1-3-8; Mobile and Montgomery County notices say Dec 26 was a state holiday). 2024: Governor's memo added Juneteenth (before it was statutory) and the day after Thanksgiving. Nothing announced yet for 2026/2027; do not count in rankings."
+        }
+      ],
+      "electionDay": null
+    },
+    "2028": {
+      "paidHolidays": 11,
+      "federal": [
+        {
+          "date": "2028-01-01",
+          "observed": "2027-12-31",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-01-17",
+          "observed": "2028-01-17",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-02-21",
+          "observed": "2028-02-21",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-05-29",
+          "observed": "2028-05-29",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-06-19",
+          "observed": "2028-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-07-04",
+          "observed": "2028-07-04",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-09-04",
+          "observed": "2028-09-04",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-10-09",
+          "observed": "2028-10-09",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-11-11",
+          "observed": "2028-11-10",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-11-23",
+          "observed": "2028-11-23",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-12-25",
+          "observed": "2028-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [],
+      "floatingDays": 1,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Personal leave day",
+          "kind": "floating",
+          "note": "Granted to all state employees EXCEPT those employed in Baldwin and Mobile Counties (they get Mardi Gras instead). Ala. Code 1-3-8(e)(2) as amended by HB165."
+        },
+        {
+          "date": "2028-02-29",
+          "name": "Mardi Gras",
+          "kind": "local",
+          "note": "State offices close ONLY in Baldwin and Mobile Counties (Ala. Code 1-3-8(e)(1)); not a statewide holiday."
+        },
+        {
+          "date": "2028-12-01",
+          "name": "Mrs. Rosa L. Parks Day",
+          "kind": "commemorative",
+          "note": "Statutory commemoration (first day of December); state offices stay open. Each county and municipality may elect to observe it as a holiday."
+        },
+        {
+          "date": null,
+          "name": "Governor-declared additional closures",
+          "kind": "optional",
+          "note": "Not a standing holiday. 2025: Governor authorized Fri Nov 28 and Fri Dec 26, 2025 (State Banking Dept memo of 2025-10-10 citing the Governor's declaration under 1-3-8; Mobile and Montgomery County notices say Dec 26 was a state holiday). 2024: Governor's memo added Juneteenth (before it was statutory) and the day after Thanksgiving. Nothing announced yet for 2026/2027; do not count in rankings."
+        }
+      ],
+      "electionDay": null
+    }
+  }
+}

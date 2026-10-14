@@ -1,0 +1,382 @@
+{
+  "state": "Alaska",
+  "abbr": "AK",
+  "slug": "alaska",
+  "page": "https://the-calendar.net/holidays/by-state/alaska/",
+  "feed": "https://the-calendar.net/downloads/states/alaska-holidays.ics",
+  "source": {
+    "url": "https://doa.alaska.gov/dof/payroll/resource/calendar2027.pdf",
+    "title": "2027 State Calendar - State Holidays (Alaska Division of Finance, revised 09/29/2025); cross-checked with 2026 Holiday Schedule (doa.alaska.gov/dof/payroll/resource/hldy2026.pdf, by bargaining unit) and AS 44.12.010",
+    "year": 2027
+  },
+  "confidence": "high",
+  "verified": true,
+  "weekendRule": "Sat->Fri, Sun->Mon",
+  "renamedFederalHolidays": [],
+  "excludedConfederateHolidays": [],
+  "years": {
+    "2026": {
+      "paidHolidays": 12,
+      "federal": [
+        {
+          "date": "2026-01-01",
+          "observed": "2026-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-01-19",
+          "observed": "2026-01-19",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-02-16",
+          "observed": "2026-02-16",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-05-25",
+          "observed": "2026-05-25",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-06-19",
+          "observed": "2026-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-07-04",
+          "observed": "2026-07-03",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-09-07",
+          "observed": "2026-09-07",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-10-12",
+          "observed": "2026-10-12",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2026-11-11",
+          "observed": "2026-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-11-26",
+          "observed": "2026-11-26",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-12-25",
+          "observed": "2026-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2026-03-30",
+          "weekday": "Monday",
+          "name": "Seward's Day",
+          "rule": "last:MON:03",
+          "note": "Last Monday of March; AS 44.12.010(a)(4). Mar 29, 2027; Mar 30, 2026."
+        },
+        {
+          "date": "2026-10-18",
+          "weekday": "Sunday",
+          "name": "Alaska Day",
+          "rule": "fixed:10-18",
+          "note": "Oct 18, shifted for weekends (observed Mon Oct 19 in 2026 because Oct 18 was a Sunday; Mon Oct 18 in 2027); AS 44.12.010(a)(9)."
+        }
+      ],
+      "floatingDays": 1,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Floating Holiday",
+          "kind": "floating",
+          "note": "Given to most general-government bargaining units (AA, AP, GP, GZ, KK, SS in the 2026 schedule); not all units."
+        },
+        {
+          "date": null,
+          "name": "Longevity Floating Holiday",
+          "kind": "floating",
+          "note": "2026 schedule: only units GP, GZ, KK, SS. Not counted in floating_days."
+        },
+        {
+          "date": "2026-11-27",
+          "name": "Day After Thanksgiving",
+          "kind": "optional",
+          "note": "2026 schedule: paid holiday ONLY for unit TM; 'No' for every other unit. Not a general state holiday."
+        },
+        {
+          "date": "2026-02-12",
+          "name": "Lincoln's Birthday",
+          "kind": "optional",
+          "note": "2026 schedule: floating holiday for units GC, XJ, BB, CC; holiday for unit MM only; 'No' for all others."
+        },
+        {
+          "date": null,
+          "name": "Units TA and TM schedule differences",
+          "kind": "optional",
+          "note": "2026 schedule: unit TA gets no MLK Day, Presidents' Day, Seward's Day, Juneteenth, Alaska Day or Veterans' Day; unit TM gets no MLK Day, Presidents' Day, Seward's Day, Memorial Day, Independence Day, Alaska Day or Veterans' Day; unit CC gets no Juneteenth. State calendar tells employees to consult their bargaining-unit agreement."
+        }
+      ],
+      "electionDay": null
+    },
+    "2027": {
+      "paidHolidays": 12,
+      "federal": [
+        {
+          "date": "2027-01-01",
+          "observed": "2027-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-01-18",
+          "observed": "2027-01-18",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-02-15",
+          "observed": "2027-02-15",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-05-31",
+          "observed": "2027-05-31",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-06-19",
+          "observed": "2027-06-18",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-07-04",
+          "observed": "2027-07-05",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-09-06",
+          "observed": "2027-09-06",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-10-11",
+          "observed": "2027-10-11",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2027-11-11",
+          "observed": "2027-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-11-25",
+          "observed": "2027-11-25",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-12-25",
+          "observed": "2027-12-24",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2027-03-29",
+          "weekday": "Monday",
+          "name": "Seward's Day",
+          "rule": "last:MON:03",
+          "note": "Last Monday of March; AS 44.12.010(a)(4). Mar 29, 2027; Mar 30, 2026."
+        },
+        {
+          "date": "2027-10-18",
+          "weekday": "Monday",
+          "name": "Alaska Day",
+          "rule": "fixed:10-18",
+          "note": "Oct 18, shifted for weekends (observed Mon Oct 19 in 2026 because Oct 18 was a Sunday; Mon Oct 18 in 2027); AS 44.12.010(a)(9)."
+        }
+      ],
+      "floatingDays": 1,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Floating Holiday",
+          "kind": "floating",
+          "note": "Given to most general-government bargaining units (AA, AP, GP, GZ, KK, SS in the 2026 schedule); not all units."
+        },
+        {
+          "date": null,
+          "name": "Longevity Floating Holiday",
+          "kind": "floating",
+          "note": "2026 schedule: only units GP, GZ, KK, SS. Not counted in floating_days."
+        },
+        {
+          "date": "2027-11-26",
+          "name": "Day After Thanksgiving",
+          "kind": "optional",
+          "note": "2026 schedule: paid holiday ONLY for unit TM; 'No' for every other unit. Not a general state holiday."
+        },
+        {
+          "date": "2027-02-12",
+          "name": "Lincoln's Birthday",
+          "kind": "optional",
+          "note": "2026 schedule: floating holiday for units GC, XJ, BB, CC; holiday for unit MM only; 'No' for all others."
+        },
+        {
+          "date": null,
+          "name": "Units TA and TM schedule differences",
+          "kind": "optional",
+          "note": "2026 schedule: unit TA gets no MLK Day, Presidents' Day, Seward's Day, Juneteenth, Alaska Day or Veterans' Day; unit TM gets no MLK Day, Presidents' Day, Seward's Day, Memorial Day, Independence Day, Alaska Day or Veterans' Day; unit CC gets no Juneteenth. State calendar tells employees to consult their bargaining-unit agreement."
+        }
+      ],
+      "electionDay": null
+    },
+    "2028": {
+      "paidHolidays": 12,
+      "federal": [
+        {
+          "date": "2028-01-01",
+          "observed": "2027-12-31",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-01-17",
+          "observed": "2028-01-17",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-02-21",
+          "observed": "2028-02-21",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-05-29",
+          "observed": "2028-05-29",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-06-19",
+          "observed": "2028-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-07-04",
+          "observed": "2028-07-04",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-09-04",
+          "observed": "2028-09-04",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-10-09",
+          "observed": "2028-10-09",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2028-11-11",
+          "observed": "2028-11-10",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-11-23",
+          "observed": "2028-11-23",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-12-25",
+          "observed": "2028-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2028-03-27",
+          "weekday": "Monday",
+          "name": "Seward's Day",
+          "rule": "last:MON:03",
+          "note": "Last Monday of March; AS 44.12.010(a)(4). Mar 29, 2027; Mar 30, 2026."
+        },
+        {
+          "date": "2028-10-18",
+          "weekday": "Wednesday",
+          "name": "Alaska Day",
+          "rule": "fixed:10-18",
+          "note": "Oct 18, shifted for weekends (observed Mon Oct 19 in 2026 because Oct 18 was a Sunday; Mon Oct 18 in 2027); AS 44.12.010(a)(9)."
+        }
+      ],
+      "floatingDays": 1,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Floating Holiday",
+          "kind": "floating",
+          "note": "Given to most general-government bargaining units (AA, AP, GP, GZ, KK, SS in the 2026 schedule); not all units."
+        },
+        {
+          "date": null,
+          "name": "Longevity Floating Holiday",
+          "kind": "floating",
+          "note": "2026 schedule: only units GP, GZ, KK, SS. Not counted in floating_days."
+        },
+        {
+          "date": "2028-11-24",
+          "name": "Day After Thanksgiving",
+          "kind": "optional",
+          "note": "2026 schedule: paid holiday ONLY for unit TM; 'No' for every other unit. Not a general state holiday."
+        },
+        {
+          "date": "2028-02-12",
+          "name": "Lincoln's Birthday",
+          "kind": "optional",
+          "note": "2026 schedule: floating holiday for units GC, XJ, BB, CC; holiday for unit MM only; 'No' for all others."
+        },
+        {
+          "date": null,
+          "name": "Units TA and TM schedule differences",
+          "kind": "optional",
+          "note": "2026 schedule: unit TA gets no MLK Day, Presidents' Day, Seward's Day, Juneteenth, Alaska Day or Veterans' Day; unit TM gets no MLK Day, Presidents' Day, Seward's Day, Memorial Day, Independence Day, Alaska Day or Veterans' Day; unit CC gets no Juneteenth. State calendar tells employees to consult their bargaining-unit agreement."
+        }
+      ],
+      "electionDay": null
+    }
+  }
+}

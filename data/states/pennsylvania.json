@@ -1,0 +1,277 @@
+{
+  "state": "Pennsylvania",
+  "abbr": "PA",
+  "slug": "pennsylvania",
+  "page": "https://the-calendar.net/holidays/by-state/pennsylvania/",
+  "feed": "https://the-calendar.net/downloads/states/pennsylvania-holidays.ics",
+  "source": {
+    "url": "https://www.pa.gov/content/dam/copapwp-pagov/en/oa/documents/policies/ac/26-14.pdf",
+    "title": "Administrative Circular 26-14 - Holidays - 2027 (PA Office of Administration, 6 Oct 2026; Executive Board resolution BD-26-001)",
+    "year": 2027
+  },
+  "confidence": "high",
+  "verified": true,
+  "weekendRule": "Sat->Fri, Sun->Mon (2027: Juneteenth Sat Jun 19 -> Fri Jun 18; Independence Day Sun Jul 4 -> Mon Jul 5; Christmas Sat -> Fri Dec 24; New Year's Day 2028, a Saturday, -> Fri Dec 31, 2027)",
+  "renamedFederalHolidays": [
+    {
+      "name": "Indigenous People's Day",
+      "federal": "Columbus Day"
+    },
+    {
+      "name": "Juneteenth National Freedom Day",
+      "federal": "Juneteenth"
+    }
+  ],
+  "excludedConfederateHolidays": [],
+  "years": {
+    "2026": {
+      "paidHolidays": 12,
+      "federal": [
+        {
+          "date": "2026-01-01",
+          "observed": "2026-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-01-19",
+          "observed": "2026-01-19",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-02-16",
+          "observed": "2026-02-16",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-05-25",
+          "observed": "2026-05-25",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-06-19",
+          "observed": "2026-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-07-04",
+          "observed": "2026-07-03",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-09-07",
+          "observed": "2026-09-07",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-10-12",
+          "observed": "2026-10-12",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-11-11",
+          "observed": "2026-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-11-26",
+          "observed": "2026-11-26",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-12-25",
+          "observed": "2026-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2026-11-27",
+          "weekday": "Friday",
+          "name": "Day After Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "note": "Fri Nov 26, 2027; listed in the Executive Board closing list (also Nov 27, 2026)."
+        }
+      ],
+      "floatingDays": 0,
+      "partialOrLocal": [],
+      "electionDay": null
+    },
+    "2027": {
+      "paidHolidays": 12,
+      "federal": [
+        {
+          "date": "2027-01-01",
+          "observed": "2027-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-01-18",
+          "observed": "2027-01-18",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-02-15",
+          "observed": "2027-02-15",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-05-31",
+          "observed": "2027-05-31",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-06-19",
+          "observed": "2027-06-18",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-07-04",
+          "observed": "2027-07-05",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-09-06",
+          "observed": "2027-09-06",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-10-11",
+          "observed": "2027-10-11",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-11-11",
+          "observed": "2027-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-11-25",
+          "observed": "2027-11-25",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-12-25",
+          "observed": "2027-12-24",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2027-11-26",
+          "weekday": "Friday",
+          "name": "Day After Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "note": "Fri Nov 26, 2027; listed in the Executive Board closing list (also Nov 27, 2026)."
+        }
+      ],
+      "floatingDays": 0,
+      "partialOrLocal": [],
+      "electionDay": null
+    },
+    "2028": {
+      "paidHolidays": 12,
+      "federal": [
+        {
+          "date": "2028-01-01",
+          "observed": "2027-12-31",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-01-17",
+          "observed": "2028-01-17",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-02-21",
+          "observed": "2028-02-21",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-05-29",
+          "observed": "2028-05-29",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-06-19",
+          "observed": "2028-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-07-04",
+          "observed": "2028-07-04",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-09-04",
+          "observed": "2028-09-04",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-10-09",
+          "observed": "2028-10-09",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-11-11",
+          "observed": "2028-11-10",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-11-23",
+          "observed": "2028-11-23",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-12-25",
+          "observed": "2028-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2028-11-24",
+          "weekday": "Friday",
+          "name": "Day After Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "note": "Fri Nov 26, 2027; listed in the Executive Board closing list (also Nov 27, 2026)."
+        }
+      ],
+      "floatingDays": 0,
+      "partialOrLocal": [],
+      "electionDay": null
+    }
+  }
+}

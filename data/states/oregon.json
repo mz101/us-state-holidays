@@ -1,0 +1,289 @@
+{
+  "state": "Oregon",
+  "abbr": "OR",
+  "slug": "oregon",
+  "page": "https://the-calendar.net/holidays/by-state/oregon/",
+  "feed": "https://the-calendar.net/downloads/states/oregon-holidays.ics",
+  "source": {
+    "url": "https://www.oregon.gov/das/HR/Documents/2026%20Holiday%20Memo.pdf",
+    "title": "2026 Holiday memo for unrepresented employees (DAS Chief Human Resources Office, 11 Dec 2025; State HR Policy 60.010.01); SEIU Local 503/State of Oregon CBA 2025-2027 Article 58",
+    "year": 2026
+  },
+  "confidence": "high",
+  "verified": true,
+  "weekendRule": "Sat->Fri, Sun->Mon (SEIU CBA Art. 58 sec. 6; State HR Policy 60.010.01). Projected 2027: Juneteenth Fri Jun 18, Independence Day Mon Jul 5, Christmas Fri Dec 24 (Oregon Workers' Compensation Board projection).",
+  "renamedFederalHolidays": [],
+  "excludedConfederateHolidays": [],
+  "years": {
+    "2026": {
+      "paidHolidays": 11,
+      "federal": [
+        {
+          "date": "2026-01-01",
+          "observed": "2026-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-01-19",
+          "observed": "2026-01-19",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-02-16",
+          "observed": "2026-02-16",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-05-25",
+          "observed": "2026-05-25",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-06-19",
+          "observed": "2026-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-07-04",
+          "observed": "2026-07-03",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-09-07",
+          "observed": "2026-09-07",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-10-12",
+          "observed": "2026-10-12",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2026-11-11",
+          "observed": "2026-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-11-26",
+          "observed": "2026-11-26",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-12-25",
+          "observed": "2026-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2026-11-27",
+          "weekday": "Friday",
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "note": "Listed in the DAS memo (Fri Nov 27, 2026); in the SEIU 2025-2027 contract it is named 'Native American Heritage Day on the day after Thanksgiving'. The union's proposed Indigenous People's Day (2nd Mon Oct) was dropped in bargaining."
+        }
+      ],
+      "floatingDays": 1,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Special Day",
+          "kind": "floating",
+          "note": "SEIU 503 CBA Art. 58 sec. 3 (represented employees); cannot close state facilities. Unrepresented employees instead get personal business leave under State HR Policy 60.000.10 (about 24 hours after six months; not verified from the policy text). Not a scheduled holiday."
+        }
+      ],
+      "electionDay": null
+    },
+    "2027": {
+      "paidHolidays": 11,
+      "federal": [
+        {
+          "date": "2027-01-01",
+          "observed": "2027-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-01-18",
+          "observed": "2027-01-18",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-02-15",
+          "observed": "2027-02-15",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-05-31",
+          "observed": "2027-05-31",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-06-19",
+          "observed": "2027-06-18",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-07-04",
+          "observed": "2027-07-05",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-09-06",
+          "observed": "2027-09-06",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-10-11",
+          "observed": "2027-10-11",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2027-11-11",
+          "observed": "2027-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-11-25",
+          "observed": "2027-11-25",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-12-25",
+          "observed": "2027-12-24",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2027-11-26",
+          "weekday": "Friday",
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "note": "Listed in the DAS memo (Fri Nov 27, 2026); in the SEIU 2025-2027 contract it is named 'Native American Heritage Day on the day after Thanksgiving'. The union's proposed Indigenous People's Day (2nd Mon Oct) was dropped in bargaining."
+        }
+      ],
+      "floatingDays": 1,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Special Day",
+          "kind": "floating",
+          "note": "SEIU 503 CBA Art. 58 sec. 3 (represented employees); cannot close state facilities. Unrepresented employees instead get personal business leave under State HR Policy 60.000.10 (about 24 hours after six months; not verified from the policy text). Not a scheduled holiday."
+        }
+      ],
+      "electionDay": null
+    },
+    "2028": {
+      "paidHolidays": 11,
+      "federal": [
+        {
+          "date": "2028-01-01",
+          "observed": "2027-12-31",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-01-17",
+          "observed": "2028-01-17",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-02-21",
+          "observed": "2028-02-21",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-05-29",
+          "observed": "2028-05-29",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-06-19",
+          "observed": "2028-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-07-04",
+          "observed": "2028-07-04",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-09-04",
+          "observed": "2028-09-04",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-10-09",
+          "observed": "2028-10-09",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2028-11-11",
+          "observed": "2028-11-10",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-11-23",
+          "observed": "2028-11-23",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-12-25",
+          "observed": "2028-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2028-11-24",
+          "weekday": "Friday",
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "note": "Listed in the DAS memo (Fri Nov 27, 2026); in the SEIU 2025-2027 contract it is named 'Native American Heritage Day on the day after Thanksgiving'. The union's proposed Indigenous People's Day (2nd Mon Oct) was dropped in bargaining."
+        }
+      ],
+      "floatingDays": 1,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Special Day",
+          "kind": "floating",
+          "note": "SEIU 503 CBA Art. 58 sec. 3 (represented employees); cannot close state facilities. Unrepresented employees instead get personal business leave under State HR Policy 60.000.10 (about 24 hours after six months; not verified from the policy text). Not a scheduled holiday."
+        }
+      ],
+      "electionDay": null
+    }
+  }
+}

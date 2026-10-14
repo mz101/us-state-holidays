@@ -1,0 +1,84 @@
+{
+  "country": "US",
+  "year": 2027,
+  "source": "5 U.S.C. § 6103",
+  "holidays": [
+    {
+      "date": "2027-01-01",
+      "observed": "2027-01-01",
+      "weekday": "Friday",
+      "name": "New Year's Day",
+      "rule": null
+    },
+    {
+      "date": "2027-01-18",
+      "observed": "2027-01-18",
+      "weekday": "Monday",
+      "name": "Martin Luther King Jr. Day",
+      "rule": "Third Monday in January"
+    },
+    {
+      "date": "2027-02-15",
+      "observed": "2027-02-15",
+      "weekday": "Monday",
+      "name": "Presidents’ Day (Washington's Birthday)",
+      "rule": "Third Monday in February"
+    },
+    {
+      "date": "2027-05-31",
+      "observed": "2027-05-31",
+      "weekday": "Monday",
+      "name": "Memorial Day",
+      "rule": "Last Monday in May"
+    },
+    {
+      "date": "2027-06-19",
+      "observed": "2027-06-18",
+      "weekday": "Saturday",
+      "name": "Juneteenth National Independence Day",
+      "rule": null
+    },
+    {
+      "date": "2027-07-04",
+      "observed": "2027-07-05",
+      "weekday": "Sunday",
+      "name": "Independence Day",
+      "rule": null
+    },
+    {
+      "date": "2027-09-06",
+      "observed": "2027-09-06",
+      "weekday": "Monday",
+      "name": "Labor Day",
+      "rule": "First Monday in September"
+    },
+    {
+      "date": "2027-10-11",
+      "observed": "2027-10-11",
+      "weekday": "Monday",
+      "name": "Columbus Day / Indigenous Peoples’ Day",
+      "rule": "Second Monday in October"
+    },
+    {
+      "date": "2027-11-11",
+      "observed": "2027-11-11",
+      "weekday": "Thursday",
+      "name": "Veterans Day",
+      "rule": null
+    },
+    {
+      "date": "2027-11-25",
+      "observed": "2027-11-25",
+      "weekday": "Thursday",
+      "name": "Thanksgiving Day",
+      "rule": "Fourth Thursday in November"
+    },
+    {
+      "date": "2027-12-25",
+      "observed": "2027-12-24",
+      "weekday": "Saturday",
+      "name": "Christmas Day",
+      "rule": null
+    }
+  ]
+}

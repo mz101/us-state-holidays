@@ -1,0 +1,328 @@
+{
+  "state": "Wisconsin",
+  "abbr": "WI",
+  "slug": "wisconsin",
+  "page": "https://the-calendar.net/holidays/by-state/wisconsin/",
+  "feed": "https://the-calendar.net/downloads/states/wisconsin-holidays.ics",
+  "source": {
+    "url": "https://dpm.wi.gov/Pages/Employees/BnLeave.aspx",
+    "title": "Leave Benefits and State Holidays (Wisconsin Division of Personnel Management; https://dpm.wi.gov/Pages/How_Do_I/seeStateHolidays.aspx); Wisconsin Human Resources Handbook ch. 716 (https://dpm.wi.gov/Hand%20Book%20Chapters/WHRH_Ch_716.pdf); Wis. Stat. 230.35(4)",
+    "year": 2026
+  },
+  "confidence": "high",
+  "verified": true,
+  "weekendRule": "Sun->Mon for Jan 1, Jul 4 and Dec 25 (state offices closed Monday); a legal holiday falling on a Saturday earns equivalent paid time off ('floating legal holiday' hours, use by end of calendar year)",
+  "renamedFederalHolidays": [],
+  "excludedConfederateHolidays": [],
+  "years": {
+    "2026": {
+      "paidHolidays": 9,
+      "federal": [
+        {
+          "date": "2026-01-01",
+          "observed": "2026-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-01-19",
+          "observed": "2026-01-19",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-02-16",
+          "observed": "2026-02-16",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2026-05-25",
+          "observed": "2026-05-25",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-06-19",
+          "observed": "2026-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2026-07-04",
+          "observed": "2026-07-03",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-09-07",
+          "observed": "2026-09-07",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-10-12",
+          "observed": "2026-10-12",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2026-11-11",
+          "observed": "2026-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2026-11-26",
+          "observed": "2026-11-26",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-12-25",
+          "observed": "2026-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2026-12-24",
+          "weekday": "Thursday",
+          "name": "Christmas Eve Day",
+          "rule": "fixed:12-24",
+          "note": "One of the nine legal holidays (8 hours) per DPM and Handbook 716.050."
+        },
+        {
+          "date": "2026-12-31",
+          "weekday": "Thursday",
+          "name": "New Year's Eve Day",
+          "rule": "fixed:12-31",
+          "note": "One of the nine legal holidays (8 hours) per DPM and Handbook 716.050."
+        }
+      ],
+      "floatingDays": 4.5,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Personal holidays (3.5 days = 28 hours)",
+          "kind": "floating",
+          "note": "Wis. Stat. 230.35(4)(d) / Handbook 716.060: full-time employees earn 3.5 personal holidays per calendar year, used at the appointing authority's discretion; noncumulative apart from one-year carryover if denied."
+        },
+        {
+          "date": null,
+          "name": "Veterans Day personal holiday (1 day = 8 hours)",
+          "kind": "floating",
+          "note": "Veterans Day is not a State legal holiday; employees instead earn one additional personal holiday 'in recognition of Veterans Day' (total 36 hours = 4.5 days)."
+        }
+      ],
+      "electionDay": null
+    },
+    "2027": {
+      "paidHolidays": 9,
+      "federal": [
+        {
+          "date": "2027-01-01",
+          "observed": "2027-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-01-18",
+          "observed": "2027-01-18",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-02-15",
+          "observed": "2027-02-15",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2027-05-31",
+          "observed": "2027-05-31",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-06-19",
+          "observed": "2027-06-18",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2027-07-04",
+          "observed": "2027-07-05",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-09-06",
+          "observed": "2027-09-06",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-10-11",
+          "observed": "2027-10-11",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2027-11-11",
+          "observed": "2027-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2027-11-25",
+          "observed": "2027-11-25",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-12-25",
+          "observed": "2027-12-24",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2027-12-24",
+          "weekday": "Friday",
+          "name": "Christmas Eve Day",
+          "rule": "fixed:12-24",
+          "note": "One of the nine legal holidays (8 hours) per DPM and Handbook 716.050."
+        },
+        {
+          "date": "2027-12-31",
+          "weekday": "Friday",
+          "name": "New Year's Eve Day",
+          "rule": "fixed:12-31",
+          "note": "One of the nine legal holidays (8 hours) per DPM and Handbook 716.050."
+        }
+      ],
+      "floatingDays": 4.5,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Personal holidays (3.5 days = 28 hours)",
+          "kind": "floating",
+          "note": "Wis. Stat. 230.35(4)(d) / Handbook 716.060: full-time employees earn 3.5 personal holidays per calendar year, used at the appointing authority's discretion; noncumulative apart from one-year carryover if denied."
+        },
+        {
+          "date": null,
+          "name": "Veterans Day personal holiday (1 day = 8 hours)",
+          "kind": "floating",
+          "note": "Veterans Day is not a State legal holiday; employees instead earn one additional personal holiday 'in recognition of Veterans Day' (total 36 hours = 4.5 days)."
+        }
+      ],
+      "electionDay": null
+    },
+    "2028": {
+      "paidHolidays": 9,
+      "federal": [
+        {
+          "date": "2028-01-01",
+          "observed": "2027-12-31",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-01-17",
+          "observed": "2028-01-17",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-02-21",
+          "observed": "2028-02-21",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2028-05-29",
+          "observed": "2028-05-29",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-06-19",
+          "observed": "2028-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2028-07-04",
+          "observed": "2028-07-04",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-09-04",
+          "observed": "2028-09-04",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-10-09",
+          "observed": "2028-10-09",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2028-11-11",
+          "observed": "2028-11-10",
+          "name": "Veterans Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2028-11-23",
+          "observed": "2028-11-23",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-12-25",
+          "observed": "2028-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2028-12-24",
+          "weekday": "Sunday",
+          "name": "Christmas Eve Day",
+          "rule": "fixed:12-24",
+          "note": "One of the nine legal holidays (8 hours) per DPM and Handbook 716.050."
+        },
+        {
+          "date": "2028-12-31",
+          "weekday": "Sunday",
+          "name": "New Year's Eve Day",
+          "rule": "fixed:12-31",
+          "note": "One of the nine legal holidays (8 hours) per DPM and Handbook 716.050."
+        }
+      ],
+      "floatingDays": 4.5,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Personal holidays (3.5 days = 28 hours)",
+          "kind": "floating",
+          "note": "Wis. Stat. 230.35(4)(d) / Handbook 716.060: full-time employees earn 3.5 personal holidays per calendar year, used at the appointing authority's discretion; noncumulative apart from one-year carryover if denied."
+        },
+        {
+          "date": null,
+          "name": "Veterans Day personal holiday (1 day = 8 hours)",
+          "kind": "floating",
+          "note": "Veterans Day is not a State legal holiday; employees instead earn one additional personal holiday 'in recognition of Veterans Day' (total 36 hours = 4.5 days)."
+        }
+      ],
+      "electionDay": null
+    }
+  }
+}

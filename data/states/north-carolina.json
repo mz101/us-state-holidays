@@ -1,0 +1,352 @@
+{
+  "state": "North Carolina",
+  "abbr": "NC",
+  "slug": "north-carolina",
+  "page": "https://the-calendar.net/holidays/by-state/north-carolina/",
+  "feed": "https://the-calendar.net/downloads/states/north-carolina-holidays.ics",
+  "source": {
+    "url": "https://oshr.nc.gov/documents/2027-holiday-schedule/open",
+    "title": "2027 Holiday Schedule (NC Office of State Human Resources); also https://oshr.nc.gov/state-employee-resources/benefits/leave/holidays",
+    "year": 2027
+  },
+  "confidence": "high",
+  "verified": true,
+  "weekendRule": "Sat->Fri, Sun->Mon for single-day holidays (Jul 4, 2026 observed Fri Jul 3; Jul 4, 2027 observed Mon Jul 5); Christmas days are set annually as a three-weekday block.",
+  "renamedFederalHolidays": [],
+  "excludedConfederateHolidays": [],
+  "years": {
+    "2026": {
+      "paidHolidays": 12,
+      "federal": [
+        {
+          "date": "2026-01-01",
+          "observed": "2026-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-01-19",
+          "observed": "2026-01-19",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-02-16",
+          "observed": "2026-02-16",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2026-05-25",
+          "observed": "2026-05-25",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-06-19",
+          "observed": "2026-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2026-07-04",
+          "observed": "2026-07-03",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-09-07",
+          "observed": "2026-09-07",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-10-12",
+          "observed": "2026-10-12",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2026-11-11",
+          "observed": "2026-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-11-26",
+          "observed": "2026-11-26",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-12-25",
+          "observed": "2026-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2026-04-03",
+          "weekday": "Friday",
+          "name": "Good Friday",
+          "rule": "goodFriday",
+          "note": "Friday, Mar 26, 2027."
+        },
+        {
+          "date": "2026-11-27",
+          "weekday": "Friday",
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "note": "Thanksgiving holiday is two days (Thu Nov 25 and Fri Nov 26, 2027)."
+        },
+        {
+          "date": "2026-12-24",
+          "weekday": "Thursday",
+          "name": "Christmas holiday, additional day 1",
+          "rule": "other:one of three weekdays around Christmas, set annually by the State Human Resources Commission (2027: Thu Dec 23)",
+          "note": "Christmas is a three-day holiday every year; 2026: Dec 24, 25, 28; 2027: Dec 23, 24, 27 (Dec 25 is a Saturday); 2028: Dec 22, 25, 26."
+        },
+        {
+          "date": "2026-12-28",
+          "weekday": "Monday",
+          "name": "Christmas holiday, additional day 2",
+          "rule": "other:one of three weekdays around Christmas, set annually by the State Human Resources Commission (2027: Fri Dec 24)",
+          "note": "See additional day 1. Christmas Day itself is counted among the federal holidays; the three days total 3 paid days."
+        }
+      ],
+      "floatingDays": 1,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Personal Observance Leave",
+          "kind": "floating",
+          "note": "Entitlement of 8 hours/year for a day of cultural, religious or personal significance (OSHR Holidays Policy page). Personal leave, not a scheduled holiday; can be used on Juneteenth or Columbus Day."
+        }
+      ],
+      "electionDay": null
+    },
+    "2027": {
+      "paidHolidays": 12,
+      "federal": [
+        {
+          "date": "2027-01-01",
+          "observed": "2027-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-01-18",
+          "observed": "2027-01-18",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-02-15",
+          "observed": "2027-02-15",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2027-05-31",
+          "observed": "2027-05-31",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-06-19",
+          "observed": "2027-06-18",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2027-07-04",
+          "observed": "2027-07-05",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-09-06",
+          "observed": "2027-09-06",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-10-11",
+          "observed": "2027-10-11",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2027-11-11",
+          "observed": "2027-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-11-25",
+          "observed": "2027-11-25",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-12-25",
+          "observed": "2027-12-24",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2027-03-26",
+          "weekday": "Friday",
+          "name": "Good Friday",
+          "rule": "goodFriday",
+          "note": "Friday, Mar 26, 2027."
+        },
+        {
+          "date": "2027-11-26",
+          "weekday": "Friday",
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "note": "Thanksgiving holiday is two days (Thu Nov 25 and Fri Nov 26, 2027)."
+        },
+        {
+          "date": "2027-12-23",
+          "weekday": "Thursday",
+          "name": "Christmas holiday, additional day 1",
+          "rule": "other:one of three weekdays around Christmas, set annually by the State Human Resources Commission (2027: Thu Dec 23)",
+          "note": "Christmas is a three-day holiday every year; 2026: Dec 24, 25, 28; 2027: Dec 23, 24, 27 (Dec 25 is a Saturday); 2028: Dec 22, 25, 26."
+        },
+        {
+          "date": "2027-12-27",
+          "weekday": "Monday",
+          "name": "Christmas holiday, additional day 2",
+          "rule": "other:one of three weekdays around Christmas, set annually by the State Human Resources Commission (2027: Fri Dec 24)",
+          "note": "See additional day 1. Christmas Day itself is counted among the federal holidays; the three days total 3 paid days."
+        }
+      ],
+      "floatingDays": 1,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Personal Observance Leave",
+          "kind": "floating",
+          "note": "Entitlement of 8 hours/year for a day of cultural, religious or personal significance (OSHR Holidays Policy page). Personal leave, not a scheduled holiday; can be used on Juneteenth or Columbus Day."
+        }
+      ],
+      "electionDay": null
+    },
+    "2028": {
+      "paidHolidays": 12,
+      "federal": [
+        {
+          "date": "2028-01-01",
+          "observed": "2027-12-31",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-01-17",
+          "observed": "2028-01-17",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-02-21",
+          "observed": "2028-02-21",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2028-05-29",
+          "observed": "2028-05-29",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-06-19",
+          "observed": "2028-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2028-07-04",
+          "observed": "2028-07-04",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-09-04",
+          "observed": "2028-09-04",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-10-09",
+          "observed": "2028-10-09",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2028-11-11",
+          "observed": "2028-11-10",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-11-23",
+          "observed": "2028-11-23",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-12-25",
+          "observed": "2028-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2028-04-14",
+          "weekday": "Friday",
+          "name": "Good Friday",
+          "rule": "goodFriday",
+          "note": "Friday, Mar 26, 2027."
+        },
+        {
+          "date": "2028-11-24",
+          "weekday": "Friday",
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "note": "Thanksgiving holiday is two days (Thu Nov 25 and Fri Nov 26, 2027)."
+        },
+        {
+          "date": "2028-12-22",
+          "weekday": "Friday",
+          "name": "Christmas holiday, additional day 1",
+          "rule": "other:one of three weekdays around Christmas, set annually by the State Human Resources Commission (2027: Thu Dec 23)",
+          "note": "Christmas is a three-day holiday every year; 2026: Dec 24, 25, 28; 2027: Dec 23, 24, 27 (Dec 25 is a Saturday); 2028: Dec 22, 25, 26."
+        },
+        {
+          "date": "2028-12-26",
+          "weekday": "Tuesday",
+          "name": "Christmas holiday, additional day 2",
+          "rule": "other:one of three weekdays around Christmas, set annually by the State Human Resources Commission (2027: Fri Dec 24)",
+          "note": "See additional day 1. Christmas Day itself is counted among the federal holidays; the three days total 3 paid days."
+        }
+      ],
+      "floatingDays": 1,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Personal Observance Leave",
+          "kind": "floating",
+          "note": "Entitlement of 8 hours/year for a day of cultural, religious or personal significance (OSHR Holidays Policy page). Personal leave, not a scheduled holiday; can be used on Juneteenth or Columbus Day."
+        }
+      ],
+      "electionDay": null
+    }
+  }
+}

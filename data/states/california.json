@@ -1,0 +1,382 @@
+{
+  "state": "California",
+  "abbr": "CA",
+  "slug": "california",
+  "page": "https://the-calendar.net/holidays/by-state/california/",
+  "feed": "https://the-calendar.net/downloads/states/california-holidays.ics",
+  "source": {
+    "url": "https://www.calhr.ca.gov/about-calhr/divisions-programs/personnel-management/leave-benefits/state-holidays/",
+    "title": "CalHR 'State Holidays' (2026 Holiday Dates; references Gov. Code 19853, 19853.2, 19854)",
+    "year": 2026
+  },
+  "confidence": "high",
+  "verified": true,
+  "weekendRule": "Sat->employees receive holiday credit (no day shifted); Sun->Mon; Veterans Day (Nov 11) on Sat->preceding Fri",
+  "renamedFederalHolidays": [],
+  "excludedConfederateHolidays": [],
+  "years": {
+    "2026": {
+      "paidHolidays": 11,
+      "federal": [
+        {
+          "date": "2026-01-01",
+          "observed": "2026-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-01-19",
+          "observed": "2026-01-19",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-02-16",
+          "observed": "2026-02-16",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-05-25",
+          "observed": "2026-05-25",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-06-19",
+          "observed": "2026-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2026-07-04",
+          "observed": "2026-07-03",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-09-07",
+          "observed": "2026-09-07",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-10-12",
+          "observed": "2026-10-12",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2026-11-11",
+          "observed": "2026-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-11-26",
+          "observed": "2026-11-26",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-12-25",
+          "observed": "2026-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2026-03-31",
+          "weekday": "Tuesday",
+          "name": "Cesar Chavez Day",
+          "rule": "fixed:03-31",
+          "note": "On CalHR 2026 list (Tue Mar 31, 2026)."
+        },
+        {
+          "date": "2026-11-27",
+          "weekday": "Friday",
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "note": "On CalHR 2026 list (Fri Nov 27, 2026)."
+        }
+      ],
+      "floatingDays": 1,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Personal holiday",
+          "kind": "floating",
+          "note": "CalHR page: 'excluded employees' (managers, supervisors, confidential, excluded) receive one personal holiday per fiscal year. Represented employees' personal-holiday/leave rules come from each union MOU (not reviewed)."
+        },
+        {
+          "date": "2026-06-19",
+          "name": "Juneteenth (optional holiday credit)",
+          "kind": "optional",
+          "note": "Gov. Code 19853: most employees may elect 8 hours of holiday credit in lieu of 8 hours of personal holiday credit for this day. Not an automatic day off (Pew Research: California excluded from its paid-Juneteenth count for that reason)."
+        },
+        {
+          "date": null,
+          "name": "Lunar New Year (optional holiday credit)",
+          "kind": "optional",
+          "note": "Same personal-holiday swap; not an automatic day off."
+        },
+        {
+          "date": "2026-04-24",
+          "name": "Genocide Remembrance Day (optional holiday credit)",
+          "kind": "optional",
+          "note": "Same personal-holiday swap."
+        },
+        {
+          "date": "2026-09-25",
+          "name": "Native American Day (optional holiday credit)",
+          "kind": "optional",
+          "note": "Fourth Friday in September; same personal-holiday swap."
+        }
+      ],
+      "electionDay": null
+    },
+    "2027": {
+      "paidHolidays": 11,
+      "federal": [
+        {
+          "date": "2027-01-01",
+          "observed": "2027-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-01-18",
+          "observed": "2027-01-18",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-02-15",
+          "observed": "2027-02-15",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-05-31",
+          "observed": "2027-05-31",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-06-19",
+          "observed": "2027-06-18",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2027-07-04",
+          "observed": "2027-07-05",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-09-06",
+          "observed": "2027-09-06",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-10-11",
+          "observed": "2027-10-11",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2027-11-11",
+          "observed": "2027-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-11-25",
+          "observed": "2027-11-25",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-12-25",
+          "observed": "2027-12-24",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2027-03-31",
+          "weekday": "Wednesday",
+          "name": "Cesar Chavez Day",
+          "rule": "fixed:03-31",
+          "note": "On CalHR 2026 list (Tue Mar 31, 2026)."
+        },
+        {
+          "date": "2027-11-26",
+          "weekday": "Friday",
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "note": "On CalHR 2026 list (Fri Nov 27, 2026)."
+        }
+      ],
+      "floatingDays": 1,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Personal holiday",
+          "kind": "floating",
+          "note": "CalHR page: 'excluded employees' (managers, supervisors, confidential, excluded) receive one personal holiday per fiscal year. Represented employees' personal-holiday/leave rules come from each union MOU (not reviewed)."
+        },
+        {
+          "date": "2027-06-19",
+          "name": "Juneteenth (optional holiday credit)",
+          "kind": "optional",
+          "note": "Gov. Code 19853: most employees may elect 8 hours of holiday credit in lieu of 8 hours of personal holiday credit for this day. Not an automatic day off (Pew Research: California excluded from its paid-Juneteenth count for that reason)."
+        },
+        {
+          "date": null,
+          "name": "Lunar New Year (optional holiday credit)",
+          "kind": "optional",
+          "note": "Same personal-holiday swap; not an automatic day off."
+        },
+        {
+          "date": "2027-04-24",
+          "name": "Genocide Remembrance Day (optional holiday credit)",
+          "kind": "optional",
+          "note": "Same personal-holiday swap."
+        },
+        {
+          "date": "2027-09-24",
+          "name": "Native American Day (optional holiday credit)",
+          "kind": "optional",
+          "note": "Fourth Friday in September; same personal-holiday swap."
+        }
+      ],
+      "electionDay": null
+    },
+    "2028": {
+      "paidHolidays": 11,
+      "federal": [
+        {
+          "date": "2028-01-01",
+          "observed": "2027-12-31",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-01-17",
+          "observed": "2028-01-17",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-02-21",
+          "observed": "2028-02-21",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-05-29",
+          "observed": "2028-05-29",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-06-19",
+          "observed": "2028-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2028-07-04",
+          "observed": "2028-07-04",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-09-04",
+          "observed": "2028-09-04",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-10-09",
+          "observed": "2028-10-09",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2028-11-11",
+          "observed": "2028-11-10",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-11-23",
+          "observed": "2028-11-23",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-12-25",
+          "observed": "2028-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2028-03-31",
+          "weekday": "Friday",
+          "name": "Cesar Chavez Day",
+          "rule": "fixed:03-31",
+          "note": "On CalHR 2026 list (Tue Mar 31, 2026)."
+        },
+        {
+          "date": "2028-11-24",
+          "weekday": "Friday",
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "note": "On CalHR 2026 list (Fri Nov 27, 2026)."
+        }
+      ],
+      "floatingDays": 1,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Personal holiday",
+          "kind": "floating",
+          "note": "CalHR page: 'excluded employees' (managers, supervisors, confidential, excluded) receive one personal holiday per fiscal year. Represented employees' personal-holiday/leave rules come from each union MOU (not reviewed)."
+        },
+        {
+          "date": "2028-06-19",
+          "name": "Juneteenth (optional holiday credit)",
+          "kind": "optional",
+          "note": "Gov. Code 19853: most employees may elect 8 hours of holiday credit in lieu of 8 hours of personal holiday credit for this day. Not an automatic day off (Pew Research: California excluded from its paid-Juneteenth count for that reason)."
+        },
+        {
+          "date": null,
+          "name": "Lunar New Year (optional holiday credit)",
+          "kind": "optional",
+          "note": "Same personal-holiday swap; not an automatic day off."
+        },
+        {
+          "date": "2028-04-24",
+          "name": "Genocide Remembrance Day (optional holiday credit)",
+          "kind": "optional",
+          "note": "Same personal-holiday swap."
+        },
+        {
+          "date": "2028-09-22",
+          "name": "Native American Day (optional holiday credit)",
+          "kind": "optional",
+          "note": "Fourth Friday in September; same personal-holiday swap."
+        }
+      ],
+      "electionDay": null
+    }
+  }
+}

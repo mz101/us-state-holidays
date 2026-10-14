@@ -1,0 +1,1493 @@
+{
+  "title": "Paid holidays for state government employees by US state, 2027",
+  "source": "https://the-calendar.net/holidays/by-state/most-paid-holidays/",
+  "license": "CC BY 4.0 — credit: the-calendar.net",
+  "metric": "Federal holidays on which state offices close + additional full paid state holidays. Floating days, half-days, county-only days and Confederate-era holidays are not counted.",
+  "year": 2027,
+  "states": [
+    {
+      "rank": 1,
+      "state": "Indiana",
+      "abbr": "IN",
+      "paidHolidays": 14,
+      "federalObserved": 9,
+      "extra": [
+        {
+          "name": "Good Friday",
+          "rule": "goodFriday",
+          "dateISO": "2027-03-26",
+          "weekday": "Friday",
+          "note": "Full day. Fri Mar 26, 2027."
+        },
+        {
+          "name": "Primary Election Day",
+          "rule": "firstTueAfterFirstMon:05",
+          "dateISO": "2027-05-04",
+          "weekday": "Tuesday",
+          "note": "Paid state holiday every year (Governor's 2027 holiday memo: Tue May 4, 2027)."
+        },
+        {
+          "name": "General Election Day",
+          "rule": "electionDay",
+          "dateISO": "2027-11-02",
+          "weekday": "Tuesday",
+          "note": "State holiday (every year)."
+        },
+        {
+          "name": "Lincoln's Birthday",
+          "rule": "dayAfterThanksgiving",
+          "dateISO": "2027-11-26",
+          "weekday": "Friday",
+          "note": "Indiana's 'Lincoln's Birthday' is observed on the Friday after Thanksgiving: Fri Nov 26, 2027 (Fri Nov 27, 2026)."
+        },
+        {
+          "name": "Washington's Birthday (observed in December)",
+          "rule": "other:weekday before Christmas Day as observed, set annually by the Governor (Thu Dec 24, 2026; Thu Dec 23, 2027)",
+          "dateISO": "2027-12-23",
+          "weekday": "Thursday",
+          "note": "State-law holiday moved off the February Presidents' Day date; in 2027 it is Thu Dec 23, next to Christmas observed Fri Dec 24."
+        }
+      ],
+      "federalOfficesOpen": [
+        "Presidents’ Day (Washington's Birthday)",
+        "Juneteenth National Independence Day"
+      ],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://secure.in.gov/spd/benefits/files/2027%20Holidays%20Memorandum.pdf",
+        "title": "Indiana Office of the Governor memorandum 'List of the 2027 state holidays' (via State Personnel Department state holidays page and Holidays Policy, eff. Aug 14, 2023)",
+        "year": 2027
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 2,
+      "state": "Connecticut",
+      "abbr": "CT",
+      "paidHolidays": 13,
+      "federalObserved": 11,
+      "extra": [
+        {
+          "name": "Lincoln's Birthday",
+          "rule": "fixed:02-12",
+          "dateISO": "2027-02-12",
+          "weekday": "Friday",
+          "note": "Feb 12, observed Fri Feb 12, 2027 / Thu Feb 12, 2026. Weekend: Sat->preceding Fri, Sun->following Mon."
+        },
+        {
+          "name": "Good Friday",
+          "rule": "goodFriday",
+          "dateISO": "2027-03-26",
+          "weekday": "Friday",
+          "note": "Friday before Easter; 'designated by the Governor' per DAS (Mar 26, 2027; Apr 3, 2026)."
+        }
+      ],
+      "federalOfficesOpen": [],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://portal.ct.gov/das/-/media/das/statewide-hr/a---z-listing-task-pdfs/holidays---state-employee-observance-of-holidays---2027.pdf?rev=ee236f575c454ee1859e71e2d20b3423",
+        "title": "Connecticut DAS 'Observance of 2027 Connecticut State Holidays' (C.G.S. 1-4); also DAS 2026 holiday list (portal.ct.gov/das/services-for-state-employees/holidays)",
+        "year": 2027
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 2,
+      "state": "Georgia",
+      "abbr": "GA",
+      "paidHolidays": 13,
+      "federalObserved": 10,
+      "extra": [
+        {
+          "name": "State Holiday (Good Friday)",
+          "rule": "goodFriday",
+          "dateISO": "2027-03-26",
+          "weekday": "Friday",
+          "note": "Unnamed 'State Holiday' observed on Good Friday (Apr 3, 2026; Mar 26, 2027; Apr 18, 2025). Pre-2015 this slot was Confederate Memorial Day (April 26 / 4th Monday in April); renamed 'State Holiday' by Gov. Deal in 2015, later settled on Good Friday. No longer carries a Confederate name or date."
+        },
+        {
+          "name": "State Holiday (Friday after Thanksgiving)",
+          "rule": "dayAfterThanksgiving",
+          "dateISO": "2027-11-26",
+          "weekday": "Friday",
+          "note": "Unnamed 'State Holiday' (Nov 27, 2026; Nov 26, 2027). Pre-2015 this was Robert E. Lee's Birthday observance; renamed 'State Holiday' in 2015. No longer carries a Confederate name."
+        },
+        {
+          "name": "Washington's Birthday (moved to Christmas week)",
+          "rule": "other:Washington's Birthday holiday is observed on a weekday adjacent to Christmas, set annually by the Governor (Fri Dec 26 in 2025, Thu Dec 24 in 2026, Thu Dec 23 in 2027)",
+          "dateISO": "2027-12-23",
+          "weekday": "Thursday",
+          "note": "Official lists show 'Washington's Birthday: Monday, February 16 - will be observed Thursday, December 24' (2026). The Feb Monday is a normal workday."
+        }
+      ],
+      "federalOfficesOpen": [
+        "Presidents’ Day (Washington's Birthday)"
+      ],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://team.georgia.gov/all-articles/state-georgia-holiday-schedule",
+        "title": "Team Georgia 'State of Georgia Holiday Schedule' (2026 and 2027, per Gov. Kemp's annual holiday memo); georgia.gov 'Georgia State Holidays 2026'; DOAS state holiday events",
+        "year": 2027
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 2,
+      "state": "Hawaii",
+      "abbr": "HI",
+      "paidHolidays": 13,
+      "federalObserved": 9,
+      "extra": [
+        {
+          "name": "Prince Jonah Kuhio Kalanianaole Day",
+          "rule": "fixed:03-26",
+          "dateISO": "2027-03-26",
+          "weekday": "Friday",
+          "note": "Statutory (HRS 8-1). Observed Fri Mar 26, 2027."
+        },
+        {
+          "name": "Good Friday",
+          "rule": "goodFriday",
+          "dateISO": "2027-03-26",
+          "weekday": "Friday",
+          "note": "Statutory (HRS 8-1), full day. In 2027 it falls on Mar 26, the same day as Kuhio Day, so only one day off results."
+        },
+        {
+          "name": "King Kamehameha I Day",
+          "rule": "fixed:06-11",
+          "dateISO": "2027-06-11",
+          "weekday": "Friday",
+          "note": "Statutory (HRS 8-1). Observed Fri Jun 11, 2027."
+        },
+        {
+          "name": "Statehood Day",
+          "rule": "nth:3:FRI:08",
+          "dateISO": "2027-08-20",
+          "weekday": "Friday",
+          "note": "Third Friday in August per DHRD sheet (statute still says Statehood Day, formerly Admission Day). Aug 20, 2027."
+        }
+      ],
+      "federalOfficesOpen": [
+        "Juneteenth National Independence Day",
+        "Columbus Day / Indigenous Peoples’ Day"
+      ],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://dhrd.hawaii.gov/wp-content/uploads/2026/06/State-Holidays-2026-2027.pdf",
+        "title": "State of Hawai'i - Holidays to be observed in 2026 and 2027 (Dept. of Human Resources Development, created 01/12/2026; cites HRS 8-1)",
+        "year": 2027
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 2,
+      "state": "Illinois",
+      "abbr": "IL",
+      "paidHolidays": 13,
+      "federalObserved": 11,
+      "extra": [
+        {
+          "name": "Lincoln's Birthday",
+          "rule": "fixed:02-12",
+          "dateISO": "2027-02-12",
+          "weekday": "Friday",
+          "note": "Listed by CMS for 2026 (Thu Feb 12) and 2027 (Fri Feb 12). Weekend shift applies (Fri Feb 11, 2022 when Feb 12 was a Saturday)."
+        },
+        {
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "dateISO": "2027-11-26",
+          "weekday": "Friday",
+          "note": "CMS lists Thanksgiving as 'Thursday and Friday' (Nov 25 and 26, 2027)."
+        }
+      ],
+      "federalOfficesOpen": [],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://cms.illinois.gov/personnel/employeeresources/stateholidays.html",
+        "title": "Illinois Dept. of Central Management Services - State Holidays / memorandum 'State Holiday Calendar for 2026 and 2027' (Nov 18, 2025); 80 Ill. Adm. Code 303.190",
+        "year": 2027
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 2,
+      "state": "Maine",
+      "abbr": "ME",
+      "paidHolidays": 13,
+      "federalObserved": 11,
+      "extra": [
+        {
+          "name": "Patriots' Day",
+          "rule": "nth:3:MON:04",
+          "dateISO": "2027-04-19",
+          "weekday": "Monday",
+          "note": "Listed as 'Patriot's Day' in the memo; Mon Apr 19, 2027."
+        },
+        {
+          "name": "Thanksgiving Friday",
+          "rule": "dayAfterThanksgiving",
+          "dateISO": "2027-11-26",
+          "weekday": "Friday",
+          "note": "Fri Nov 26, 2027."
+        }
+      ],
+      "federalOfficesOpen": [],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://www.maine.gov/bhr/sites/bhr/files/inline-files/HR%20Memo%202-25%20_0.pdf",
+        "title": "Maine Bureau of Human Resources, HR Memorandum 2-25 '2026 and 2027 Holiday Schedules for State Agency Employees Not Covered by a Collective Bargaining Agreement' (Sept 4, 2025); BHR Policy Manual - Holidays",
+        "year": 2027
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 2,
+      "state": "Michigan",
+      "abbr": "MI",
+      "paidHolidays": 13,
+      "federalObserved": 10,
+      "extra": [
+        {
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "dateISO": "2027-11-26",
+          "weekday": "Friday",
+          "note": "Official list: 'Thanksgiving Day and the day after, the fourth Thursday and Friday in November'."
+        },
+        {
+          "name": "Christmas Eve",
+          "rule": "fixed:12-24",
+          "dateISO": "2027-12-23",
+          "weekday": "Thursday",
+          "note": "Official list: 'Christmas Eve and Christmas Day, December 24 and 25'. Reg 5.08 weekend rule for Christmas Eve: Friday -> preceding Thursday, Sunday -> preceding Friday (per secondary summary of the regulation)."
+        },
+        {
+          "name": "New Year's Eve",
+          "rule": "fixed:12-31",
+          "dateISO": "2027-12-30",
+          "weekday": "Thursday",
+          "note": "Official list: 'New Year's Eve, December 31'. Same Friday -> Thursday / Sunday -> Friday rule as Christmas Eve (per secondary summary)."
+        }
+      ],
+      "federalOfficesOpen": [
+        "Columbus Day / Indigenous Peoples’ Day"
+      ],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://www.michigan.gov/som/government/state-holidays",
+        "title": "State Holidays - State of Michigan (per Civil Service Commission Regulation 5.08)",
+        "year": 2026
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 2,
+      "state": "Missouri",
+      "abbr": "MO",
+      "paidHolidays": 13,
+      "federalObserved": 11,
+      "extra": [
+        {
+          "name": "Lincoln's Birthday",
+          "rule": "fixed:02-12",
+          "dateISO": "2027-02-12",
+          "weekday": "Friday",
+          "note": "Listed on the OA 2026 state holiday list (Thu Feb 12, 2026); Fri Feb 12, 2027."
+        },
+        {
+          "name": "Truman Day",
+          "rule": "fixed:05-08",
+          "dateISO": "2027-05-08",
+          "weekday": "Saturday",
+          "note": "Listed on the OA 2026 state holiday list (Fri May 8, 2026). In 2027 May 8 is a Saturday, so under the OA weekend policy it would be observed Fri May 7 (inferred, not yet published)."
+        }
+      ],
+      "federalOfficesOpen": [],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://oa.mo.gov/commissioner/state-holidays",
+        "title": "State Holidays - Missouri Office of Administration (2026 list)",
+        "year": 2026
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 2,
+      "state": "Nebraska",
+      "abbr": "NE",
+      "paidHolidays": 13,
+      "federalObserved": 11,
+      "extra": [
+        {
+          "name": "Arbor Day",
+          "rule": "last:FRI:04",
+          "dateISO": "2027-04-30",
+          "weekday": "Friday",
+          "note": "Statutory state holiday (Neb. Rev. Stat. 25-2221), last Friday in April: Apr 24, 2026; Apr 30, 2027."
+        },
+        {
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "dateISO": "2027-11-26",
+          "weekday": "Friday",
+          "note": "Statutory holiday in Neb. Rev. Stat. 25-2221 ('Day After Thanksgiving')."
+        }
+      ],
+      "federalOfficesOpen": [],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://nebraskajudicial.gov/holidays",
+        "title": "A. Holidays - Nebraska Judicial Branch personnel rules (follows Neb. Rev. Stat. 25-2221); cross-checked with Nebraska Accountability and Disclosure Commission / Dept. of Transportation office-closure schedules and University of Nebraska holiday list",
+        "year": 2026
+      },
+      "confidence": "medium"
+    },
+    {
+      "rank": 2,
+      "state": "New Jersey",
+      "abbr": "NJ",
+      "paidHolidays": 13,
+      "federalObserved": 11,
+      "extra": [
+        {
+          "name": "Good Friday",
+          "rule": "goodFriday",
+          "dateISO": "2027-03-26",
+          "weekday": "Friday",
+          "note": "On the official state holiday list (Apr 3, 2026; Apr 18, 2025); Mar 26, 2027."
+        },
+        {
+          "name": "Election Day",
+          "rule": "electionDay",
+          "dateISO": "2027-11-02",
+          "weekday": "Tuesday",
+          "note": "State holiday (every year)."
+        }
+      ],
+      "federalOfficesOpen": [],
+      "floatingDays": 3,
+      "source": {
+        "url": "https://www.nj.gov/nj/about/facts/holidays.shtml",
+        "title": "State Holidays - NJ.gov (holidays observed by State agencies in 2026; also 2025); NJ Dept. of Health HR benefits sheet '13 paid holidays' (updated 7/9/2024)",
+        "year": 2026
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 2,
+      "state": "Vermont",
+      "abbr": "VT",
+      "paidHolidays": 13,
+      "federalObserved": 11,
+      "extra": [
+        {
+          "name": "Town Meeting Day",
+          "rule": "nth:1:TUE:03",
+          "dateISO": "2027-03-02",
+          "weekday": "Tuesday",
+          "note": "On the DHR 2026-2028 schedule (Tue Mar 2, 2027) and in 1 V.S.A. 371(a)(4)."
+        },
+        {
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "dateISO": "2027-11-26",
+          "weekday": "Friday",
+          "note": "Not in the DHR holiday table, but the DHR schedule states 'Most State offices will be closed on the day after Thanksgiving (see Holiday Articles in State employee contracts).' In the VSEA Non-Management contract (2024-26, Art. 28) leave without loss of pay may be granted subject to operating needs; employees required to work get comp time."
+        }
+      ],
+      "federalOfficesOpen": [],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://humanresources.vermont.gov/benefits-wellness/holiday-schedule",
+        "title": "State of Vermont Holiday Schedule - Effective July 1, 2026 - June 30, 2028 (Vermont Department of Human Resources; PDF https://humanresources.vermont.gov/sites/humanresources/files/documents/State%20of%20Vermont%20Holiday%20Schedule.pdf); 1 V.S.A. 371",
+        "year": 2027
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 2,
+      "state": "Virginia",
+      "abbr": "VA",
+      "paidHolidays": 13,
+      "federalObserved": 11,
+      "extra": [
+        {
+          "name": "Election Day",
+          "rule": "electionDay",
+          "dateISO": "2027-11-02",
+          "weekday": "Tuesday",
+          "note": "State holiday (every year)."
+        },
+        {
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "dateISO": "2027-11-26",
+          "weekday": "Friday",
+          "note": "Statutory: Va. Code 2.2-3300 makes 'the fourth Thursday in November and the Friday next following' Thanksgiving; listed as 'Day After Thanksgiving' on the 2025, 2026 and 2027 DHRM calendars."
+        }
+      ],
+      "federalOfficesOpen": [],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://www.dhrm.virginia.gov/docs/default-source/default-document-library/2027-pay-and-holiday-calendar.pdf?sfvrsn=19dff6ab_2",
+        "title": "2027 Pay and Holiday Calendar (Virginia Department of Human Resource Management, published Sept 2026); Va. Code 2.2-3300 (https://law.lis.virginia.gov/vacode/title2.2/chapter33/section2.2-3300/)",
+        "year": 2027
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 13,
+      "state": "Alaska",
+      "abbr": "AK",
+      "paidHolidays": 12,
+      "federalObserved": 10,
+      "extra": [
+        {
+          "name": "Seward's Day",
+          "rule": "last:MON:03",
+          "dateISO": "2027-03-29",
+          "weekday": "Monday",
+          "note": "Last Monday of March; AS 44.12.010(a)(4). Mar 29, 2027; Mar 30, 2026."
+        },
+        {
+          "name": "Alaska Day",
+          "rule": "fixed:10-18",
+          "dateISO": "2027-10-18",
+          "weekday": "Monday",
+          "note": "Oct 18, shifted for weekends (observed Mon Oct 19 in 2026 because Oct 18 was a Sunday; Mon Oct 18 in 2027); AS 44.12.010(a)(9)."
+        }
+      ],
+      "federalOfficesOpen": [
+        "Columbus Day / Indigenous Peoples’ Day"
+      ],
+      "floatingDays": 1,
+      "source": {
+        "url": "https://doa.alaska.gov/dof/payroll/resource/calendar2027.pdf",
+        "title": "2027 State Calendar - State Holidays (Alaska Division of Finance, revised 09/29/2025); cross-checked with 2026 Holiday Schedule (doa.alaska.gov/dof/payroll/resource/hldy2026.pdf, by bargaining unit) and AS 44.12.010",
+        "year": 2027
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 13,
+      "state": "Kentucky",
+      "abbr": "KY",
+      "paidHolidays": 12,
+      "federalObserved": 9,
+      "extra": [
+        {
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "dateISO": "2027-11-26",
+          "weekday": "Friday",
+          "note": "KRS 18A.190(1)(i): Thanksgiving 'plus one extra day' designated by the Governor; Fri Nov 27, 2026."
+        },
+        {
+          "name": "Extra day at Christmas",
+          "rule": "other:one extra day next to Dec 25, designated by the Governor (Thu Dec 24 in 2026; Fri Dec 26 in 2025)",
+          "dateISO": null,
+          "weekday": null,
+          "note": "KRS 18A.190(1)(j). Employees get two days around Christmas. 2027 designation not yet published (Dec 25, 2027 is a Saturday)."
+        },
+        {
+          "name": "Extra day at New Year's",
+          "rule": "other:one extra day next to Jan 1, designated by the Governor (Dec 31, 2026 for New Year's 2027; Jan 2, 2026 for New Year's 2026)",
+          "dateISO": null,
+          "weekday": null,
+          "note": "KRS 18A.190(1)(a). Two days around New Year's."
+        }
+      ],
+      "federalOfficesOpen": [
+        "Presidents’ Day (Washington's Birthday)",
+        "Columbus Day / Indigenous Peoples’ Day"
+      ],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://extranet.personnel.ky.gov/Pages/Leave.aspx",
+        "title": "Kentucky Personnel Cabinet - Holidays and Leave: State Holidays (2026 list); KRS 18A.190, KRS 2.190; Personnel Memo 24-20",
+        "year": 2026
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 13,
+      "state": "Louisiana",
+      "abbr": "LA",
+      "paidHolidays": 12,
+      "federalObserved": 9,
+      "extra": [
+        {
+          "name": "Mardi Gras",
+          "rule": "mardiGras",
+          "dateISO": "2027-02-09",
+          "weekday": "Tuesday",
+          "note": "Statutory legal holiday (R.S. 1:55(B)(1)); Tue Feb 17, 2026; Tue Feb 9, 2027."
+        },
+        {
+          "name": "Good Friday",
+          "rule": "goodFriday",
+          "dateISO": "2027-03-26",
+          "weekday": "Friday",
+          "note": "Statutory legal holiday (R.S. 1:55(B)(1)); Fri Apr 3, 2026; Fri Mar 26, 2027."
+        },
+        {
+          "name": "Acadian Day (Friday after Thanksgiving)",
+          "rule": "dayAfterThanksgiving",
+          "dateISO": "2027-11-26",
+          "weekday": "Friday",
+          "note": "Proclaimed by the Governor under R.S. 1:55(B)(3); Civil Service says it is usually proclaimed (confirmed for Nov 29, 2024 and Nov 28, 2025). 2026 and 2027 proclamations not yet issued."
+        }
+      ],
+      "federalOfficesOpen": [
+        "Presidents’ Day (Washington's Birthday)",
+        "Columbus Day / Indigenous Peoples’ Day"
+      ],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://civilservice.louisiana.gov/files/HRHandbook/JobAid/11-Understanding%20State%20Holidays.pdf",
+        "title": "Louisiana State Civil Service - Job Aid 'Understanding State Holidays' (La. R.S. 1:55) with General Circulars 2025-051, 2025-053, 2026-010, 2026-023 and Governor's proclamations 71 and 74 JML 2025, 06 and 07 JML 2026",
+        "year": 2026
+      },
+      "confidence": "medium"
+    },
+    {
+      "rank": 13,
+      "state": "Maryland",
+      "abbr": "MD",
+      "paidHolidays": 12,
+      "federalObserved": 11,
+      "extra": [
+        {
+          "name": "American Indian Heritage Day",
+          "rule": "dayAfterThanksgiving",
+          "dateISO": "2027-11-26",
+          "weekday": "Friday",
+          "note": "Day after Thanksgiving, named American Indian Heritage Day; Fri Nov 27, 2026."
+        }
+      ],
+      "federalOfficesOpen": [],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://dbm.maryland.gov/employees/Pages/StateHolidays2026.aspx",
+        "title": "Maryland Dept. of Budget and Management - State Holidays for the Year 2026; Maryland Manual 'State Employee Holidays' (msa.maryland.gov); Md. Code, State Personnel and Pensions 9-201",
+        "year": 2026
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 13,
+      "state": "Massachusetts",
+      "abbr": "MA",
+      "paidHolidays": 12,
+      "federalObserved": 11,
+      "extra": [
+        {
+          "name": "Patriots' Day",
+          "rule": "nth:3:MON:04",
+          "dateISO": "2027-04-19",
+          "weekday": "Monday",
+          "note": "Statutory legal holiday under M.G.L. c.4 s.7 cl.18; listed on the HRD Holiday Leave list and in the HRD memo (Apr 19, 2027 per DESE list)."
+        }
+      ],
+      "federalOfficesOpen": [],
+      "floatingDays": 3,
+      "source": {
+        "url": "https://www.mass.gov/guides/absence-and-leave-policies",
+        "title": "Absence and Leave Policies (Holiday Leave) - Mass.gov / HRD; HRD memo 'Legal Holidays at the Commonwealth of Massachusetts' dated Dec 30, 2024 (calendar years 2025 and 2026); 2027 dates cross-checked against MA DESE 'Massachusetts Legal Holiday Calendar 2026, 2027, 2028, 2029' (Sep 10, 2026)",
+        "year": 2026
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 13,
+      "state": "Nevada",
+      "abbr": "NV",
+      "paidHolidays": 12,
+      "federalObserved": 10,
+      "extra": [
+        {
+          "name": "Nevada Day",
+          "rule": "last:FRI:10",
+          "dateISO": "2027-10-29",
+          "weekday": "Friday",
+          "note": "Observed on the last Friday in October (statutory date is Oct 31): Oct 30, 2026; Oct 29, 2027. All state offices closed."
+        },
+        {
+          "name": "Family Day",
+          "rule": "dayAfterThanksgiving",
+          "dateISO": "2027-11-26",
+          "weekday": "Friday",
+          "note": "Friday following the fourth Thursday in November; state legal holiday."
+        }
+      ],
+      "federalOfficesOpen": [
+        "Columbus Day / Indigenous Peoples’ Day"
+      ],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://www.leg.state.nv.us/nrs/nrs-236.html",
+        "title": "NRS 236.015 Legal holidays (as amended by AB 140, 2023); State of Nevada 'State Holidays' schedule and FY2026 payroll holiday schedule (hr.nv.gov)",
+        "year": 2026
+      },
+      "confidence": "medium"
+    },
+    {
+      "rank": 13,
+      "state": "North Carolina",
+      "abbr": "NC",
+      "paidHolidays": 12,
+      "federalObserved": 8,
+      "extra": [
+        {
+          "name": "Good Friday",
+          "rule": "goodFriday",
+          "dateISO": "2027-03-26",
+          "weekday": "Friday",
+          "note": "Friday, Mar 26, 2027."
+        },
+        {
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "dateISO": "2027-11-26",
+          "weekday": "Friday",
+          "note": "Thanksgiving holiday is two days (Thu Nov 25 and Fri Nov 26, 2027)."
+        },
+        {
+          "name": "Christmas holiday, additional day 1",
+          "rule": "other:one of three weekdays around Christmas, set annually by the State Human Resources Commission (2027: Thu Dec 23)",
+          "dateISO": "2027-12-23",
+          "weekday": "Thursday",
+          "note": "Christmas is a three-day holiday every year; 2026: Dec 24, 25, 28; 2027: Dec 23, 24, 27 (Dec 25 is a Saturday); 2028: Dec 22, 25, 26."
+        },
+        {
+          "name": "Christmas holiday, additional day 2",
+          "rule": "other:one of three weekdays around Christmas, set annually by the State Human Resources Commission (2027: Fri Dec 24)",
+          "dateISO": "2027-12-27",
+          "weekday": "Monday",
+          "note": "See additional day 1. Christmas Day itself is counted among the federal holidays; the three days total 3 paid days."
+        }
+      ],
+      "federalOfficesOpen": [
+        "Presidents’ Day (Washington's Birthday)",
+        "Juneteenth National Independence Day",
+        "Columbus Day / Indigenous Peoples’ Day"
+      ],
+      "floatingDays": 1,
+      "source": {
+        "url": "https://oshr.nc.gov/documents/2027-holiday-schedule/open",
+        "title": "2027 Holiday Schedule (NC Office of State Human Resources); also https://oshr.nc.gov/state-employee-resources/benefits/leave/holidays",
+        "year": 2027
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 13,
+      "state": "Pennsylvania",
+      "abbr": "PA",
+      "paidHolidays": 12,
+      "federalObserved": 11,
+      "extra": [
+        {
+          "name": "Day After Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "dateISO": "2027-11-26",
+          "weekday": "Friday",
+          "note": "Fri Nov 26, 2027; listed in the Executive Board closing list (also Nov 27, 2026)."
+        }
+      ],
+      "federalOfficesOpen": [],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://www.pa.gov/content/dam/copapwp-pagov/en/oa/documents/policies/ac/26-14.pdf",
+        "title": "Administrative Circular 26-14 - Holidays - 2027 (PA Office of Administration, 6 Oct 2026; Executive Board resolution BD-26-001)",
+        "year": 2027
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 13,
+      "state": "South Carolina",
+      "abbr": "SC",
+      "paidHolidays": 12,
+      "federalObserved": 9,
+      "extra": [
+        {
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "dateISO": "2027-11-26",
+          "weekday": "Friday",
+          "note": "Fri Nov 26, 2027; 'Thanksgiving Day and the day after' in S.C. Code 53-5-10."
+        },
+        {
+          "name": "Christmas Eve",
+          "rule": "fixed:12-24",
+          "dateISO": "2027-12-24",
+          "weekday": "Friday",
+          "note": "Dec 24 is a statutory legal holiday; Fri Dec 24, 2027."
+        },
+        {
+          "name": "Day after Christmas",
+          "rule": "fixed:12-26",
+          "dateISO": "2027-12-28",
+          "weekday": "Tuesday",
+          "note": "Dec 26 is a statutory legal holiday; in 2027 it falls on a Sunday and the state observes it Tue Dec 28 (2026: Mon Dec 28)."
+        }
+      ],
+      "federalOfficesOpen": [
+        "Juneteenth National Independence Day",
+        "Columbus Day / Indigenous Peoples’ Day"
+      ],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://admin.sc.gov/services/state-human-resources/benefits-and-leave/holiday-leave",
+        "title": "Holiday Leave - 2026 and 2027 Holiday Schedule (SC Department of Administration, State Human Resources; read via Wayback snapshot of 4 Sep 2026); S.C. Code 53-5-10 and 53-5-30",
+        "year": 2027
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 13,
+      "state": "Tennessee",
+      "abbr": "TN",
+      "paidHolidays": 12,
+      "federalObserved": 10,
+      "extra": [
+        {
+          "name": "Good Friday",
+          "rule": "goodFriday",
+          "dateISO": "2027-03-26",
+          "weekday": "Friday",
+          "note": "Statutory legal holiday (T.C.A. 15-1-101; A&L Manual 7.02); listed as a closure on the 2025 and 2026 TN.gov lists (Apr 18, 2025; Apr 3, 2026)."
+        },
+        {
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "dateISO": "2027-11-26",
+          "weekday": "Friday",
+          "note": "Governor substitutes the Friday after Thanksgiving for Columbus Day under T.C.A. 4-4-105(a)(3); decision is made each year (A&L Manual 7.01), done on the 2025 and 2026 lists. Net effect: Columbus Day is not observed, day after Thanksgiving is."
+        }
+      ],
+      "federalOfficesOpen": [
+        "Columbus Day / Indigenous Peoples’ Day"
+      ],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://www.tn.gov/about-tn/state-holidays.html",
+        "title": "State Holidays - About Tennessee (TN.gov) [2026 closure list]; HR Support 'What are TN State Government holidays?'; State of Tennessee Attendance & Leave Manual ch. 7 (https://www.tn.gov/content/dam/tn/hr/documents/ALManual.pdf)",
+        "year": 2026
+      },
+      "confidence": "medium"
+    },
+    {
+      "rank": 13,
+      "state": "Texas",
+      "abbr": "TX",
+      "paidHolidays": 12,
+      "federalObserved": 9,
+      "extra": [
+        {
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "dateISO": "2027-11-26",
+          "weekday": "Friday",
+          "note": "'All agencies closed' on FY2026 and FY2027 Auditor schedules."
+        },
+        {
+          "name": "Christmas Eve",
+          "rule": "fixed:12-24",
+          "dateISO": "2027-12-24",
+          "weekday": "Friday",
+          "note": "'All agencies closed' on FY2026 and FY2027 schedules; only when it falls on a weekday (no weekend shift)."
+        },
+        {
+          "name": "Day after Christmas",
+          "rule": "fixed:12-26",
+          "dateISO": "2027-12-26",
+          "weekday": "Sunday",
+          "note": "'All agencies closed' on the FY2026 schedule (Fri Dec 26, 2025); in FY2027 Dec 26, 2026 is a Saturday so it is not observed. Counts only in years it falls on a weekday."
+        }
+      ],
+      "federalOfficesOpen": [
+        "Juneteenth National Independence Day",
+        "Columbus Day / Indigenous Peoples’ Day"
+      ],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://hr.sao.texas.gov/Documents/Holidays/Holidays2027.pdf",
+        "title": "State Holiday Schedule for Fiscal Year 2027 (Texas State Auditor's Office); also Comptroller 'State of Texas Holiday Schedule, Fiscal Year 2027' https://comptroller.texas.gov/about/holidays.php; Tex. Gov't Code ch. 662",
+        "year": 2027
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 13,
+      "state": "Utah",
+      "abbr": "UT",
+      "paidHolidays": 12,
+      "federalObserved": 11,
+      "extra": [
+        {
+          "name": "Pioneer Day",
+          "rule": "fixed:07-24",
+          "dateISO": "2027-07-24",
+          "weekday": "Saturday",
+          "note": "Statutory legal holiday and on the State's 2026 holiday schedule (Fri Jul 24, 2026); Sat Jul 24, 2027 -> Fri Jul 23, 2027."
+        }
+      ],
+      "federalOfficesOpen": [],
+      "floatingDays": 1,
+      "source": {
+        "url": "https://le.utah.gov/xcode/Title63G/Chapter1/C63G-1-S301_2026050620270101.pdf",
+        "title": "Utah Code 63G-1-301 Legal holidays - Personal preference day (version effective 1/1/2027); State of Utah 2026 Schedule of Pay Periods and Holidays (https://finance.utah.gov/wp-content/uploads/2026PP.pdf)",
+        "year": 2027
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 13,
+      "state": "West Virginia",
+      "abbr": "WV",
+      "paidHolidays": 12,
+      "federalObserved": 10,
+      "extra": [
+        {
+          "name": "West Virginia Day",
+          "rule": "fixed:06-20",
+          "dateISO": "2027-06-20",
+          "weekday": "Sunday",
+          "note": "One of the 12 official State holidays (W. Va. Code 2-2-1(a)(5)); Sun Jun 20, 2027 -> Mon Jun 21, 2027."
+        },
+        {
+          "name": "Day after Thanksgiving (Lincoln's Day)",
+          "rule": "dayAfterThanksgiving",
+          "dateISO": "2027-11-26",
+          "weekday": "Friday",
+          "note": "Official State holiday ('Day After Thanksgiving - Fourth Friday in November'); statutory name 'Lincoln's Day'."
+        }
+      ],
+      "federalOfficesOpen": [
+        "Juneteenth National Independence Day"
+      ],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://personnel.wv.gov/employee-resources/paid-leave-information-and-forms",
+        "title": "Holidays - Paid Leave Information and Forms (WV Division of Personnel); W. Va. Code 2-2-1 (https://code.wvlegislature.gov/2-2-1/)",
+        "year": 2026
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 26,
+      "state": "Alabama",
+      "abbr": "AL",
+      "paidHolidays": 11,
+      "federalObserved": 11,
+      "extra": [],
+      "federalOfficesOpen": [],
+      "floatingDays": 1,
+      "source": {
+        "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/HB165-enr.pdf",
+        "title": "HB165 (2025 RS, enrolled; amends Ala. Code 1-3-8, adds Juneteenth, effective 2025-06-01) + Alabama State Personnel Board Rule 670-X-12-.01 (Holidays) + RSA 2026 state holiday list (rsa-al.gov/about-rsa/holidays/)",
+        "year": 2026
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 26,
+      "state": "California",
+      "abbr": "CA",
+      "paidHolidays": 11,
+      "federalObserved": 9,
+      "extra": [
+        {
+          "name": "Cesar Chavez Day",
+          "rule": "fixed:03-31",
+          "dateISO": "2027-03-31",
+          "weekday": "Wednesday",
+          "note": "On CalHR 2026 list (Tue Mar 31, 2026)."
+        },
+        {
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "dateISO": "2027-11-26",
+          "weekday": "Friday",
+          "note": "On CalHR 2026 list (Fri Nov 27, 2026)."
+        }
+      ],
+      "federalOfficesOpen": [
+        "Juneteenth National Independence Day",
+        "Columbus Day / Indigenous Peoples’ Day"
+      ],
+      "floatingDays": 1,
+      "source": {
+        "url": "https://www.calhr.ca.gov/about-calhr/divisions-programs/personnel-management/leave-benefits/state-holidays/",
+        "title": "CalHR 'State Holidays' (2026 Holiday Dates; references Gov. Code 19853, 19853.2, 19854)",
+        "year": 2026
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 26,
+      "state": "Colorado",
+      "abbr": "CO",
+      "paidHolidays": 11,
+      "federalObserved": 10,
+      "extra": [
+        {
+          "name": "Frances Xavier Cabrini Day",
+          "rule": "nth:1:MON:10",
+          "dateISO": "2027-10-04",
+          "weekday": "Monday",
+          "note": "First Monday in October (Oct 5, 2026; Oct 4, 2027). Replaced Columbus Day as a state legal holiday (HB20-1031); it is a DIFFERENT date from the federal Columbus Day, so it is an extra paid day while Columbus Day itself is a normal workday."
+        }
+      ],
+      "federalOfficesOpen": [
+        "Columbus Day / Indigenous Peoples’ Day"
+      ],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://tax.colorado.gov/holidays",
+        "title": "Colorado Dept. of Revenue 'Colorado State Holidays' (2026 State Holiday Schedule) + C.R.S. 24-11-101 (Legal holidays) + C.R.S. 24-11-112; DHR 'Calendar Year 2026 State of Colorado Holiday Schedule'",
+        "year": 2026
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 26,
+      "state": "Delaware",
+      "abbr": "DE",
+      "paidHolidays": 11,
+      "federalObserved": 9,
+      "extra": [
+        {
+          "name": "Good Friday",
+          "rule": "goodFriday",
+          "dateISO": "2027-03-26",
+          "weekday": "Friday",
+          "note": "Statutory legal holiday, 1 Del. C. 501(a)(3) (Mar 26, 2027; Apr 3, 2026)."
+        },
+        {
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "dateISO": "2027-11-26",
+          "weekday": "Friday",
+          "note": "Statutory, 1 Del. C. 501(a)(9) (Nov 26, 2027; Nov 27, 2026)."
+        }
+      ],
+      "federalOfficesOpen": [
+        "Presidents’ Day (Washington's Birthday)",
+        "Columbus Day / Indigenous Peoples’ Day"
+      ],
+      "floatingDays": 2,
+      "source": {
+        "url": "https://dhr.delaware.gov/holidays/2027.shtml",
+        "title": "Delaware Department of Human Resources '2027 State Holidays' and '2026 State Holidays' (1 Del. C. ch. 501, 501(a))",
+        "year": 2027
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 26,
+      "state": "Idaho",
+      "abbr": "ID",
+      "paidHolidays": 11,
+      "federalObserved": 11,
+      "extra": [],
+      "federalOfficesOpen": [],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://dhr.idaho.gov/wp-content/uploads/2026/07/DHR-20_Holiday.pdf",
+        "title": "Idaho Division of Human Resources, Executive Branch Statewide Policy Section 20: Holiday Leave (est. 06/2026), plus idaho.gov State Holidays table (2026) and Idaho Code 73-108",
+        "year": 2026
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 26,
+      "state": "Minnesota",
+      "abbr": "MN",
+      "paidHolidays": 11,
+      "federalObserved": 10,
+      "extra": [
+        {
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "dateISO": "2027-11-26",
+          "weekday": "Friday",
+          "note": "Listed in the 2027 executive branch holidays as 'Nov. 25 & 26, Thanksgiving' (Thanksgiving Day plus Friday)."
+        }
+      ],
+      "federalOfficesOpen": [
+        "Columbus Day / Indigenous Peoples’ Day"
+      ],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://mn.gov/sentencing-guidelines/assets/8-2027MSGCMeetingCalendar_tcm30-767110.pdf",
+        "title": "2027 MSGC Regular Meeting Calendar - 'State of Minnesota Executive Branch Holidays 2027' (Minnesota Sentencing Guidelines Commission, dated 5/14/2026)",
+        "year": 2027
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 26,
+      "state": "New Mexico",
+      "abbr": "NM",
+      "paidHolidays": 11,
+      "federalObserved": 10,
+      "extra": [
+        {
+          "name": "Presidents' Day (Observed)",
+          "rule": "dayAfterThanksgiving",
+          "dateISO": "2027-11-26",
+          "weekday": "Friday",
+          "note": "The State Personnel Board moves the Presidents' Day holiday to the Friday after Thanksgiving; state offices stay open on the third Monday of February. Same placement in the 2023 schedule (Nov 24) and 2019 schedule (Nov 29). Net effect: 11 paid days, same as if Presidents' Day were on its federal date."
+        }
+      ],
+      "federalOfficesOpen": [
+        "Presidents’ Day (Washington's Birthday)"
+      ],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://www.spo.state.nm.us/wp-content/uploads/2026-Paid-Holiday-Schedule-1.pdf",
+        "title": "State of New Mexico Paid Holiday Schedule for 2026 (State Personnel Board, General Memorandum 2025-015, 12 Dec 2025)",
+        "year": 2026
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 26,
+      "state": "New York",
+      "abbr": "NY",
+      "paidHolidays": 11,
+      "federalObserved": 11,
+      "extra": [],
+      "federalOfficesOpen": [],
+      "floatingDays": 2,
+      "source": {
+        "url": "https://www.cs.ny.gov/attendance_leave/2027_legal_holidays.cfm",
+        "title": "2027 Calendar of Legal Holidays for State Employees in the Classified Service of the Executive Branch (NYS Department of Civil Service); with Attendance and Leave Manual Advisory Memorandum 2026-04",
+        "year": 2027
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 26,
+      "state": "Ohio",
+      "abbr": "OH",
+      "paidHolidays": 11,
+      "federalObserved": 11,
+      "extra": [],
+      "federalOfficesOpen": [],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://codes.ohio.gov/ohio-revised-code/section-124.19",
+        "title": "Ohio Revised Code 124.19 State holidays (eff. Sept 30, 2021; read via Wayback snapshot of Oct 2025); LSC Members Brief 'State Holidays' (Mar 2022)",
+        "year": 2026
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 26,
+      "state": "Oklahoma",
+      "abbr": "OK",
+      "paidHolidays": 11,
+      "federalObserved": 9,
+      "extra": [
+        {
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "dateISO": "2027-11-26",
+          "weekday": "Friday",
+          "note": "Thanksgiving is a two-day holiday (Thu Nov 25 and Fri Nov 26, 2027)."
+        },
+        {
+          "name": "Christmas holiday, additional day",
+          "rule": "other:day before or after Christmas per 25 O.S. 82.1; the Governor's executive order fixes the days (2027: Thu Dec 23 and Fri Dec 24 because Dec 25 is a Saturday)",
+          "dateISO": "2027-12-23",
+          "weekday": "Thursday",
+          "note": "Christmas is a two-day holiday every year: 2024 Dec 24-25, 2026 Dec 24-25, 2027 Dec 23-24. Statute: Thursday and Friday before Christmas if Christmas is on a Saturday; Monday and Tuesday after if on a Sunday."
+        }
+      ],
+      "federalOfficesOpen": [
+        "Juneteenth National Independence Day",
+        "Columbus Day / Indigenous Peoples’ Day"
+      ],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://oklahoma.gov/omes/divisions/human-capital-management/employee-benefits/leave-holidays/holidays.html",
+        "title": "Official State Holidays 2027 (OMES; Governor's Executive Order 2026-26 under 25 O.S. 82.1); 2026 per Executive Order 2025-14",
+        "year": 2027
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 26,
+      "state": "Oregon",
+      "abbr": "OR",
+      "paidHolidays": 11,
+      "federalObserved": 10,
+      "extra": [
+        {
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "dateISO": "2027-11-26",
+          "weekday": "Friday",
+          "note": "Listed in the DAS memo (Fri Nov 27, 2026); in the SEIU 2025-2027 contract it is named 'Native American Heritage Day on the day after Thanksgiving'. The union's proposed Indigenous People's Day (2nd Mon Oct) was dropped in bargaining."
+        }
+      ],
+      "federalOfficesOpen": [
+        "Columbus Day / Indigenous Peoples’ Day"
+      ],
+      "floatingDays": 1,
+      "source": {
+        "url": "https://www.oregon.gov/das/HR/Documents/2026%20Holiday%20Memo.pdf",
+        "title": "2026 Holiday memo for unrepresented employees (DAS Chief Human Resources Office, 11 Dec 2025; State HR Policy 60.010.01); SEIU Local 503/State of Oregon CBA 2025-2027 Article 58",
+        "year": 2026
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 26,
+      "state": "Rhode Island",
+      "abbr": "RI",
+      "paidHolidays": 11,
+      "federalObserved": 10,
+      "extra": [
+        {
+          "name": "Victory Day",
+          "rule": "nth:2:MON:08",
+          "dateISO": "2027-08-09",
+          "weekday": "Monday",
+          "note": "Rhode Island's own holiday (end of WWII), second Monday in August (Mon Aug 9, 2027); statute and the 2027 HR calendar still use the name Victory Day."
+        }
+      ],
+      "federalOfficesOpen": [
+        "Presidents’ Day (Washington's Birthday)"
+      ],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://www.courts.ri.gov/Public-Resources/Documents/StateHolidays2.pdf",
+        "title": "2027 Payroll & Holiday Calendar, 'State Holiday Celebrations' (RI Department of Administration, Division of Human Resources; hosted on courts.ri.gov); R.I. Gen. Laws 25-1-1; Council 94 master agreement Art. 9 (2013-2017)",
+        "year": 2027
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 26,
+      "state": "South Dakota",
+      "abbr": "SD",
+      "paidHolidays": 11,
+      "federalObserved": 11,
+      "extra": [],
+      "federalOfficesOpen": [],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://bhraonline.sd.gov/handbook.pdf",
+        "title": "South Dakota State Employee Handbook (6/24/2026), Holidays section; SDCL 1-5-1 (https://sdlegislature.gov/Statutes/1-5-1)",
+        "year": 2026
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 26,
+      "state": "Washington",
+      "abbr": "WA",
+      "paidHolidays": 11,
+      "federalObserved": 10,
+      "extra": [
+        {
+          "name": "Native American Heritage Day",
+          "rule": "dayAfterThanksgiving",
+          "dateISO": "2027-11-26",
+          "weekday": "Friday",
+          "note": "Friday after Thanksgiving; state legal holiday (RCW 1.16.050(1)(k)) and listed for Nov 26, 2027 on the DOR schedule; WAC 357-31-005 paid holiday."
+        }
+      ],
+      "federalOfficesOpen": [
+        "Columbus Day / Indigenous Peoples’ Day"
+      ],
+      "floatingDays": 1,
+      "source": {
+        "url": "https://dor.wa.gov/contact/state-holiday-schedule",
+        "title": "State holiday schedule 2026-2027 (WA Department of Revenue); OFM 'Vacation, leave and holidays' https://ofm.wa.gov/state-human-resources/compensation-job-classes/compensation-administration/vacation-leave-and-holidays; RCW 1.16.050; WAC 357-31-005",
+        "year": 2027
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 40,
+      "state": "Arizona",
+      "abbr": "AZ",
+      "paidHolidays": 10,
+      "federalObserved": 10,
+      "extra": [],
+      "federalOfficesOpen": [
+        "Juneteenth National Independence Day"
+      ],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://hr.az.gov/2027-holiday-calendar",
+        "title": "ADOA Human Resources '2027 Holiday Calendar' and '2026 Holiday Calendar' (hr.az.gov); Ariz. Admin. Code R2-5A-B601 (Holidays); A.R.S. 1-301",
+        "year": 2027
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 40,
+      "state": "Arkansas",
+      "abbr": "AR",
+      "paidHolidays": 10,
+      "federalObserved": 9,
+      "extra": [
+        {
+          "name": "Christmas Eve",
+          "rule": "fixed:12-24",
+          "dateISO": "2027-12-24",
+          "weekday": "Friday",
+          "note": "Statutory paid holiday (Ark. Code 1-5-101; Policy 52). Observed Thu Dec 24, 2026."
+        }
+      ],
+      "federalOfficesOpen": [
+        "Juneteenth National Independence Day",
+        "Columbus Day / Indigenous Peoples’ Day"
+      ],
+      "floatingDays": 1,
+      "source": {
+        "url": "https://sas.arkansas.gov/wp-content/uploads/52-Holidays-and-Birthday-Leave-5.23.2025.pdf",
+        "title": "Arkansas DSAS Office of Personnel Management Policy 52, 'Holidays and Birthday Leave' (eff. 2025-05-22), authority Ark. Code 1-5-101 to -104; Arkansas Secretary of State '2026 State Holidays' list (sos.arkansas.gov/uploads/holidays_2026.pdf)",
+        "year": 2026
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 40,
+      "state": "Kansas",
+      "abbr": "KS",
+      "paidHolidays": 10,
+      "federalObserved": 9,
+      "extra": [
+        {
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "dateISO": "2027-11-26",
+          "weekday": "Friday",
+          "note": "On the official Executive Branch lists for 2024, 2025 and 2026 (Governor-designated closure day under K.A.R. 1-9-2)."
+        }
+      ],
+      "federalOfficesOpen": [
+        "Presidents’ Day (Washington's Birthday)",
+        "Columbus Day / Indigenous Peoples’ Day"
+      ],
+      "floatingDays": 1,
+      "source": {
+        "url": "https://admin.ks.gov/offices/personnel-services/agency-information/holidays-for-state-of-kansas-executive-branch-employees/holidays-for-2026",
+        "title": "Kansas Dept. of Administration, Office of Personnel Services - Holidays for 2026 (State of Kansas Executive Branch); K.A.R. 1-9-2",
+        "year": 2026
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 40,
+      "state": "Montana",
+      "abbr": "MT",
+      "paidHolidays": 10,
+      "federalObserved": 10,
+      "extra": [],
+      "federalOfficesOpen": [
+        "Juneteenth National Independence Day"
+      ],
+      "floatingDays": 1,
+      "source": {
+        "url": "https://charitablegiving.mt.gov/_docs/shrd/Policies/Holiday_Policy.pdf",
+        "title": "Holiday Policy - Montana State Human Resources Division (last reviewed June 5, 2026); MCA 1-1-216, 2-18-601(9), 2-18-603 (Montana Code Annotated 2025)",
+        "year": 2026
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 40,
+      "state": "New Hampshire",
+      "abbr": "NH",
+      "paidHolidays": 10,
+      "federalObserved": 9,
+      "extra": [
+        {
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "dateISO": "2027-11-26",
+          "weekday": "Friday",
+          "note": "Listed among the ten paid holidays on the Employee Portal."
+        }
+      ],
+      "federalOfficesOpen": [
+        "Juneteenth National Independence Day",
+        "Columbus Day / Indigenous Peoples’ Day"
+      ],
+      "floatingDays": 2,
+      "source": {
+        "url": "https://www.employeeportal.nh.gov/compensation-savings/state-holiday-schedule",
+        "title": "State Holiday Schedule - NH Employee Portal (NH Division of Personnel / DAS); links printable calendars for 2026 and 2027",
+        "year": 2027
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 40,
+      "state": "North Dakota",
+      "abbr": "ND",
+      "paidHolidays": 10,
+      "federalObserved": 9,
+      "extra": [
+        {
+          "name": "Good Friday",
+          "rule": "goodFriday",
+          "dateISO": "2027-03-26",
+          "weekday": "Friday",
+          "note": "Listed in NDCC 1-03-01(5) as a holiday; part of the 10 paid holidays in the OMB benefits summary."
+        }
+      ],
+      "federalOfficesOpen": [
+        "Juneteenth National Independence Day",
+        "Columbus Day / Indigenous Peoples’ Day"
+      ],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://ndlegis.gov/cencode/t01c03.pdf",
+        "title": "N.D. Cent. Code ch. 1-03 Holidays (sections 1-03-01, 1-03-01.1, 1-03-02, 1-03-02.1); NDAC 4-07-07-06; OMB 'Being part of Team ND: benefits and extras' (10 paid holidays)",
+        "year": 2026
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 46,
+      "state": "Florida",
+      "abbr": "FL",
+      "paidHolidays": 9,
+      "federalObserved": 8,
+      "extra": [
+        {
+          "name": "Friday after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "dateISO": "2027-11-26",
+          "weekday": "Friday",
+          "note": "Statutory paid holiday, F.S. 110.117(1)(h) (Nov 27, 2026; Nov 26, 2027)."
+        }
+      ],
+      "federalOfficesOpen": [
+        "Presidents’ Day (Washington's Birthday)",
+        "Juneteenth National Independence Day",
+        "Columbus Day / Indigenous Peoples’ Day"
+      ],
+      "floatingDays": 1,
+      "source": {
+        "url": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0110/Sections/0110.117.html",
+        "title": "Florida Statutes s. 110.117 'Paid holidays' (2026 online edition); s. 683.01 'Legal holidays'",
+        "year": 2026
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 46,
+      "state": "Iowa",
+      "abbr": "IA",
+      "paidHolidays": 9,
+      "federalObserved": 8,
+      "extra": [
+        {
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "dateISO": "2027-11-26",
+          "weekday": "Friday",
+          "note": "Statutory (Iowa Code 1C.2(1)(h)). Fri Nov 27, 2026; Fri Nov 26, 2027."
+        }
+      ],
+      "federalOfficesOpen": [
+        "Presidents’ Day (Washington's Birthday)",
+        "Juneteenth National Independence Day",
+        "Columbus Day / Indigenous Peoples’ Day"
+      ],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://das.iowa.gov/state-employees/state-accounting/centralized-payroll/state-holidays",
+        "title": "Iowa DAS Centralized Payroll - State Holidays 2026 (posted 12/29/25) and Iowa Code 2026 section 1C.2 'Paid holidays'",
+        "year": 2026
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 46,
+      "state": "Mississippi",
+      "abbr": "MS",
+      "paidHolidays": 9,
+      "federalObserved": 9,
+      "extra": [],
+      "federalOfficesOpen": [
+        "Juneteenth National Independence Day",
+        "Columbus Day / Indigenous Peoples’ Day"
+      ],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://www.mspb.ms.gov/employee-resources/state-employee-handbook",
+        "title": "FY 2027 Mississippi State Employee Handbook, ch. 3.1 Holidays (MSPB, effective 7/1/2026); Miss. Code Ann. 3-3-7 (Secretary of State 'State Holidays' page); Governor's holiday proclamations 2026",
+        "year": 2026
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 46,
+      "state": "Wisconsin",
+      "abbr": "WI",
+      "paidHolidays": 9,
+      "federalObserved": 7,
+      "extra": [
+        {
+          "name": "Christmas Eve Day",
+          "rule": "fixed:12-24",
+          "dateISO": "2027-12-24",
+          "weekday": "Friday",
+          "note": "One of the nine legal holidays (8 hours) per DPM and Handbook 716.050."
+        },
+        {
+          "name": "New Year's Eve Day",
+          "rule": "fixed:12-31",
+          "dateISO": "2027-12-31",
+          "weekday": "Friday",
+          "note": "One of the nine legal holidays (8 hours) per DPM and Handbook 716.050."
+        }
+      ],
+      "federalOfficesOpen": [
+        "Presidents’ Day (Washington's Birthday)",
+        "Juneteenth National Independence Day",
+        "Columbus Day / Indigenous Peoples’ Day",
+        "Veterans Day"
+      ],
+      "floatingDays": 4.5,
+      "source": {
+        "url": "https://dpm.wi.gov/Pages/Employees/BnLeave.aspx",
+        "title": "Leave Benefits and State Holidays (Wisconsin Division of Personnel Management; https://dpm.wi.gov/Pages/How_Do_I/seeStateHolidays.aspx); Wisconsin Human Resources Handbook ch. 716 (https://dpm.wi.gov/Hand%20Book%20Chapters/WHRH_Ch_716.pdf); Wis. Stat. 230.35(4)",
+        "year": 2026
+      },
+      "confidence": "high"
+    },
+    {
+      "rank": 46,
+      "state": "Wyoming",
+      "abbr": "WY",
+      "paidHolidays": 9,
+      "federalObserved": 9,
+      "extra": [],
+      "federalOfficesOpen": [
+        "Juneteenth National Independence Day",
+        "Columbus Day / Indigenous Peoples’ Day"
+      ],
+      "floatingDays": 0,
+      "source": {
+        "url": "https://ai.wyo.gov/about-us/state-holidays-and-office-closures",
+        "title": "State Holidays and Office Closures (Wyoming Administration & Information); 006-6 Wyo. Code R. 6-4 Holiday Leave; W.S. 8-4-101",
+        "year": 2026
+      },
+      "confidence": "high"
+    }
+  ]
+}

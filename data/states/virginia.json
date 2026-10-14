@@ -1,0 +1,349 @@
+{
+  "state": "Virginia",
+  "abbr": "VA",
+  "slug": "virginia",
+  "page": "https://the-calendar.net/holidays/by-state/virginia/",
+  "feed": "https://the-calendar.net/downloads/states/virginia-holidays.ics",
+  "source": {
+    "url": "https://www.dhrm.virginia.gov/docs/default-source/default-document-library/2027-pay-and-holiday-calendar.pdf?sfvrsn=19dff6ab_2",
+    "title": "2027 Pay and Holiday Calendar (Virginia Department of Human Resource Management, published Sept 2026); Va. Code 2.2-3300 (https://law.lis.virginia.gov/vacode/title2.2/chapter33/section2.2-3300/)",
+    "year": 2027
+  },
+  "confidence": "high",
+  "verified": true,
+  "weekendRule": "Sat->Fri, Sun->Mon",
+  "renamedFederalHolidays": [
+    {
+      "name": "George Washington Day",
+      "federal": "Washington's Birthday"
+    },
+    {
+      "name": "Columbus Day and Yorktown Victory Day",
+      "federal": "Columbus Day"
+    }
+  ],
+  "excludedConfederateHolidays": [],
+  "years": {
+    "2026": {
+      "paidHolidays": 13,
+      "federal": [
+        {
+          "date": "2026-01-01",
+          "observed": "2026-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-01-19",
+          "observed": "2026-01-19",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-02-16",
+          "observed": "2026-02-16",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-05-25",
+          "observed": "2026-05-25",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-06-19",
+          "observed": "2026-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-07-04",
+          "observed": "2026-07-03",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-09-07",
+          "observed": "2026-09-07",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-10-12",
+          "observed": "2026-10-12",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-11-11",
+          "observed": "2026-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-11-26",
+          "observed": "2026-11-26",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-12-25",
+          "observed": "2026-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2026-11-03",
+          "weekday": "Tuesday",
+          "name": "Election Day",
+          "rule": "electionDay",
+          "note": "State holiday (every year)."
+        },
+        {
+          "date": "2026-11-27",
+          "weekday": "Friday",
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "note": "Statutory: Va. Code 2.2-3300 makes 'the fourth Thursday in November and the Friday next following' Thanksgiving; listed as 'Day After Thanksgiving' on the 2025, 2026 and 2027 DHRM calendars."
+        }
+      ],
+      "floatingDays": 0,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Additional holiday time before Thanksgiving",
+          "kind": "half-day",
+          "note": "Shown on the DHRM calendar as '4 hours additional holiday time'; granted by the Governor, not statutory, repeated in 2026 and 2027."
+        },
+        {
+          "date": null,
+          "name": "Additional holiday time before Christmas",
+          "kind": "half-day",
+          "note": "Shown on the DHRM calendar as additional holiday time (4 hrs in 2027, 8 hrs in 2026); Governor-granted, amount varies year to year."
+        }
+      ],
+      "electionDay": {
+        "rule": "electionDay",
+        "holidayThisYear": true,
+        "date": "2026-11-03"
+      }
+    },
+    "2027": {
+      "paidHolidays": 13,
+      "federal": [
+        {
+          "date": "2027-01-01",
+          "observed": "2027-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-01-18",
+          "observed": "2027-01-18",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-02-15",
+          "observed": "2027-02-15",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-05-31",
+          "observed": "2027-05-31",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-06-19",
+          "observed": "2027-06-18",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-07-04",
+          "observed": "2027-07-05",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-09-06",
+          "observed": "2027-09-06",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-10-11",
+          "observed": "2027-10-11",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-11-11",
+          "observed": "2027-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-11-25",
+          "observed": "2027-11-25",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-12-25",
+          "observed": "2027-12-24",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2027-11-02",
+          "weekday": "Tuesday",
+          "name": "Election Day",
+          "rule": "electionDay",
+          "note": "State holiday (every year)."
+        },
+        {
+          "date": "2027-11-26",
+          "weekday": "Friday",
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "note": "Statutory: Va. Code 2.2-3300 makes 'the fourth Thursday in November and the Friday next following' Thanksgiving; listed as 'Day After Thanksgiving' on the 2025, 2026 and 2027 DHRM calendars."
+        }
+      ],
+      "floatingDays": 0,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Additional holiday time before Thanksgiving",
+          "kind": "half-day",
+          "note": "Shown on the DHRM calendar as '4 hours additional holiday time'; granted by the Governor, not statutory, repeated in 2026 and 2027."
+        },
+        {
+          "date": null,
+          "name": "Additional holiday time before Christmas",
+          "kind": "half-day",
+          "note": "Shown on the DHRM calendar as additional holiday time (4 hrs in 2027, 8 hrs in 2026); Governor-granted, amount varies year to year."
+        }
+      ],
+      "electionDay": {
+        "rule": "electionDay",
+        "holidayThisYear": true,
+        "date": "2027-11-02"
+      }
+    },
+    "2028": {
+      "paidHolidays": 13,
+      "federal": [
+        {
+          "date": "2028-01-01",
+          "observed": "2027-12-31",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-01-17",
+          "observed": "2028-01-17",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-02-21",
+          "observed": "2028-02-21",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-05-29",
+          "observed": "2028-05-29",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-06-19",
+          "observed": "2028-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-07-04",
+          "observed": "2028-07-04",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-09-04",
+          "observed": "2028-09-04",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-10-09",
+          "observed": "2028-10-09",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-11-11",
+          "observed": "2028-11-10",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-11-23",
+          "observed": "2028-11-23",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-12-25",
+          "observed": "2028-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2028-11-07",
+          "weekday": "Tuesday",
+          "name": "Election Day",
+          "rule": "electionDay",
+          "note": "State holiday (every year)."
+        },
+        {
+          "date": "2028-11-24",
+          "weekday": "Friday",
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "note": "Statutory: Va. Code 2.2-3300 makes 'the fourth Thursday in November and the Friday next following' Thanksgiving; listed as 'Day After Thanksgiving' on the 2025, 2026 and 2027 DHRM calendars."
+        }
+      ],
+      "floatingDays": 0,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Additional holiday time before Thanksgiving",
+          "kind": "half-day",
+          "note": "Shown on the DHRM calendar as '4 hours additional holiday time'; granted by the Governor, not statutory, repeated in 2026 and 2027."
+        },
+        {
+          "date": null,
+          "name": "Additional holiday time before Christmas",
+          "kind": "half-day",
+          "note": "Shown on the DHRM calendar as additional holiday time (4 hrs in 2027, 8 hrs in 2026); Governor-granted, amount varies year to year."
+        }
+      ],
+      "electionDay": {
+        "rule": "electionDay",
+        "holidayThisYear": true,
+        "date": "2028-11-07"
+      }
+    }
+  }
+}

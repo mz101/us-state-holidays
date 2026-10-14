@@ -1,0 +1,357 @@
+{
+  "state": "Michigan",
+  "abbr": "MI",
+  "slug": "michigan",
+  "page": "https://the-calendar.net/holidays/by-state/michigan/",
+  "feed": "https://the-calendar.net/downloads/states/michigan-holidays.ics",
+  "source": {
+    "url": "https://www.michigan.gov/som/government/state-holidays",
+    "title": "State Holidays - State of Michigan (per Civil Service Commission Regulation 5.08)",
+    "year": 2026
+  },
+  "confidence": "high",
+  "verified": true,
+  "weekendRule": "Sat->Fri, Sun->Mon (Reg 5.08; official 2026 list shows Jul 3 for Saturday Jul 4). Christmas Eve and New Year's Eve: Fri->Thu, Sun->Fri.",
+  "renamedFederalHolidays": [],
+  "excludedConfederateHolidays": [],
+  "years": {
+    "2026": {
+      "paidHolidays": 14,
+      "federal": [
+        {
+          "date": "2026-01-01",
+          "observed": "2026-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-01-19",
+          "observed": "2026-01-19",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-02-16",
+          "observed": "2026-02-16",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-05-25",
+          "observed": "2026-05-25",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-06-19",
+          "observed": "2026-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-07-04",
+          "observed": "2026-07-03",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-09-07",
+          "observed": "2026-09-07",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-10-12",
+          "observed": "2026-10-12",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2026-11-11",
+          "observed": "2026-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-11-26",
+          "observed": "2026-11-26",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-12-25",
+          "observed": "2026-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2026-11-03",
+          "weekday": "Tuesday",
+          "name": "Election Day",
+          "rule": "electionDay",
+          "note": "State holiday (even years)."
+        },
+        {
+          "date": "2026-11-27",
+          "weekday": "Friday",
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "note": "Official list: 'Thanksgiving Day and the day after, the fourth Thursday and Friday in November'."
+        },
+        {
+          "date": "2026-12-24",
+          "weekday": "Thursday",
+          "name": "Christmas Eve",
+          "rule": "fixed:12-24",
+          "note": "Official list: 'Christmas Eve and Christmas Day, December 24 and 25'. Reg 5.08 weekend rule for Christmas Eve: Friday -> preceding Thursday, Sunday -> preceding Friday (per secondary summary of the regulation)."
+        },
+        {
+          "date": "2026-12-31",
+          "weekday": "Thursday",
+          "name": "New Year's Eve",
+          "rule": "fixed:12-31",
+          "note": "Official list: 'New Year's Eve, December 31'. Same Friday -> Thursday / Sunday -> Friday rule as Christmas Eve (per secondary summary)."
+        }
+      ],
+      "floatingDays": 0,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Community participation leave",
+          "kind": "optional",
+          "note": "Mentioned on MDHHS careers benefits page (8 hours to volunteer); it is leave, not a holiday. Not counted."
+        }
+      ],
+      "electionDay": {
+        "rule": "electionDay",
+        "holidayThisYear": true,
+        "date": "2026-11-03"
+      }
+    },
+    "2027": {
+      "paidHolidays": 13,
+      "federal": [
+        {
+          "date": "2027-01-01",
+          "observed": "2027-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-01-18",
+          "observed": "2027-01-18",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-02-15",
+          "observed": "2027-02-15",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-05-31",
+          "observed": "2027-05-31",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-06-19",
+          "observed": "2027-06-18",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-07-04",
+          "observed": "2027-07-05",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-09-06",
+          "observed": "2027-09-06",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-10-11",
+          "observed": "2027-10-11",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2027-11-11",
+          "observed": "2027-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-11-25",
+          "observed": "2027-11-25",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-12-25",
+          "observed": "2027-12-24",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2027-11-26",
+          "weekday": "Friday",
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "note": "Official list: 'Thanksgiving Day and the day after, the fourth Thursday and Friday in November'."
+        },
+        {
+          "date": "2027-12-23",
+          "weekday": "Thursday",
+          "name": "Christmas Eve",
+          "rule": "fixed:12-24",
+          "note": "Official list: 'Christmas Eve and Christmas Day, December 24 and 25'. Reg 5.08 weekend rule for Christmas Eve: Friday -> preceding Thursday, Sunday -> preceding Friday (per secondary summary of the regulation)."
+        },
+        {
+          "date": "2027-12-30",
+          "weekday": "Thursday",
+          "name": "New Year's Eve",
+          "rule": "fixed:12-31",
+          "note": "Official list: 'New Year's Eve, December 31'. Same Friday -> Thursday / Sunday -> Friday rule as Christmas Eve (per secondary summary)."
+        }
+      ],
+      "floatingDays": 0,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Community participation leave",
+          "kind": "optional",
+          "note": "Mentioned on MDHHS careers benefits page (8 hours to volunteer); it is leave, not a holiday. Not counted."
+        }
+      ],
+      "electionDay": {
+        "rule": "electionDay",
+        "holidayThisYear": false,
+        "date": "2027-11-02"
+      }
+    },
+    "2028": {
+      "paidHolidays": 14,
+      "federal": [
+        {
+          "date": "2028-01-01",
+          "observed": "2027-12-31",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-01-17",
+          "observed": "2028-01-17",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-02-21",
+          "observed": "2028-02-21",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-05-29",
+          "observed": "2028-05-29",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-06-19",
+          "observed": "2028-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-07-04",
+          "observed": "2028-07-04",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-09-04",
+          "observed": "2028-09-04",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-10-09",
+          "observed": "2028-10-09",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2028-11-11",
+          "observed": "2028-11-10",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-11-23",
+          "observed": "2028-11-23",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-12-25",
+          "observed": "2028-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2028-11-07",
+          "weekday": "Tuesday",
+          "name": "Election Day",
+          "rule": "electionDay",
+          "note": "State holiday (even years)."
+        },
+        {
+          "date": "2028-11-24",
+          "weekday": "Friday",
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "note": "Official list: 'Thanksgiving Day and the day after, the fourth Thursday and Friday in November'."
+        },
+        {
+          "date": "2028-12-22",
+          "weekday": "Friday",
+          "name": "Christmas Eve",
+          "rule": "fixed:12-24",
+          "note": "Official list: 'Christmas Eve and Christmas Day, December 24 and 25'. Reg 5.08 weekend rule for Christmas Eve: Friday -> preceding Thursday, Sunday -> preceding Friday (per secondary summary of the regulation)."
+        },
+        {
+          "date": "2028-12-29",
+          "weekday": "Friday",
+          "name": "New Year's Eve",
+          "rule": "fixed:12-31",
+          "note": "Official list: 'New Year's Eve, December 31'. Same Friday -> Thursday / Sunday -> Friday rule as Christmas Eve (per secondary summary)."
+        }
+      ],
+      "floatingDays": 0,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Community participation leave",
+          "kind": "optional",
+          "note": "Mentioned on MDHHS careers benefits page (8 hours to volunteer); it is leave, not a holiday. Not counted."
+        }
+      ],
+      "electionDay": {
+        "rule": "electionDay",
+        "holidayThisYear": true,
+        "date": "2028-11-07"
+      }
+    }
+  }
+}

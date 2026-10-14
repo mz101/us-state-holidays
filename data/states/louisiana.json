@@ -1,0 +1,411 @@
+{
+  "state": "Louisiana",
+  "abbr": "LA",
+  "slug": "louisiana",
+  "page": "https://the-calendar.net/holidays/by-state/louisiana/",
+  "feed": "https://the-calendar.net/downloads/states/louisiana-holidays.ics",
+  "source": {
+    "url": "https://civilservice.louisiana.gov/files/HRHandbook/JobAid/11-Understanding%20State%20Holidays.pdf",
+    "title": "Louisiana State Civil Service - Job Aid 'Understanding State Holidays' (La. R.S. 1:55) with General Circulars 2025-051, 2025-053, 2026-010, 2026-023 and Governor's proclamations 71 and 74 JML 2025, 06 and 07 JML 2026",
+    "year": 2026
+  },
+  "confidence": "medium",
+  "verified": true,
+  "weekendRule": "No fixed statutory shift: the Governor usually designates an alternate day by proclamation (typically Sat->Fri, Sun->Mon); agency heads designate the closest workday for employees whose regular day off is the holiday",
+  "renamedFederalHolidays": [],
+  "excludedConfederateHolidays": [],
+  "years": {
+    "2026": {
+      "paidHolidays": 13,
+      "federal": [
+        {
+          "date": "2026-01-01",
+          "observed": "2026-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-01-19",
+          "observed": "2026-01-19",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-02-16",
+          "observed": "2026-02-16",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2026-05-25",
+          "observed": "2026-05-25",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-06-19",
+          "observed": "2026-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-07-04",
+          "observed": "2026-07-03",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-09-07",
+          "observed": "2026-09-07",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-10-12",
+          "observed": "2026-10-12",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2026-11-11",
+          "observed": "2026-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-11-26",
+          "observed": "2026-11-26",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-12-25",
+          "observed": "2026-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2026-02-17",
+          "weekday": "Tuesday",
+          "name": "Mardi Gras",
+          "rule": "mardiGras",
+          "note": "Statutory legal holiday (R.S. 1:55(B)(1)); Tue Feb 17, 2026; Tue Feb 9, 2027."
+        },
+        {
+          "date": "2026-04-03",
+          "weekday": "Friday",
+          "name": "Good Friday",
+          "rule": "goodFriday",
+          "note": "Statutory legal holiday (R.S. 1:55(B)(1)); Fri Apr 3, 2026; Fri Mar 26, 2027."
+        },
+        {
+          "date": "2026-11-03",
+          "weekday": "Tuesday",
+          "name": "Election Day",
+          "rule": "electionDay",
+          "note": "State holiday (even years)."
+        },
+        {
+          "date": "2026-11-27",
+          "weekday": "Friday",
+          "name": "Acadian Day (Friday after Thanksgiving)",
+          "rule": "dayAfterThanksgiving",
+          "note": "Proclaimed by the Governor under R.S. 1:55(B)(3); Civil Service says it is usually proclaimed (confirmed for Nov 29, 2024 and Nov 28, 2025). 2026 and 2027 proclamations not yet issued."
+        }
+      ],
+      "floatingDays": 0,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Extra Christmas day(s) proclaimed by the Governor",
+          "kind": "optional",
+          "note": "Full paid legal holidays by proclamation (66 JML 2024; 71 JML 2025). Discretionary; no 2026 or 2027 proclamation found yet."
+        },
+        {
+          "date": null,
+          "name": "Extra New Year's day(s) proclaimed by the Governor",
+          "kind": "optional",
+          "note": "Full paid legal holidays by proclamation (67 JML 2024; 74 JML 2025). Discretionary; none found for the next season yet."
+        },
+        {
+          "date": null,
+          "name": "Lundi Gras 2026",
+          "kind": "optional",
+          "note": "Proclaimed holiday 02 JML 2026 (GC 2026-010). In 2026 it fell on the same date as Presidents' Day. For 2027 it would be Mon Feb 8."
+        },
+        {
+          "date": null,
+          "name": "Inauguration Day",
+          "kind": "local",
+          "note": "Statutory holiday 'once in every four years in the city of Baton Rouge' (R.S. 1:55(B)(1)(a)); next one January 2028."
+        }
+      ],
+      "electionDay": {
+        "rule": "electionDay",
+        "holidayThisYear": true,
+        "date": "2026-11-03"
+      }
+    },
+    "2027": {
+      "paidHolidays": 12,
+      "federal": [
+        {
+          "date": "2027-01-01",
+          "observed": "2027-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-01-18",
+          "observed": "2027-01-18",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-02-15",
+          "observed": "2027-02-15",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2027-05-31",
+          "observed": "2027-05-31",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-06-19",
+          "observed": "2027-06-18",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-07-04",
+          "observed": "2027-07-05",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-09-06",
+          "observed": "2027-09-06",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-10-11",
+          "observed": "2027-10-11",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2027-11-11",
+          "observed": "2027-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-11-25",
+          "observed": "2027-11-25",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-12-25",
+          "observed": "2027-12-24",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2027-02-09",
+          "weekday": "Tuesday",
+          "name": "Mardi Gras",
+          "rule": "mardiGras",
+          "note": "Statutory legal holiday (R.S. 1:55(B)(1)); Tue Feb 17, 2026; Tue Feb 9, 2027."
+        },
+        {
+          "date": "2027-03-26",
+          "weekday": "Friday",
+          "name": "Good Friday",
+          "rule": "goodFriday",
+          "note": "Statutory legal holiday (R.S. 1:55(B)(1)); Fri Apr 3, 2026; Fri Mar 26, 2027."
+        },
+        {
+          "date": "2027-11-26",
+          "weekday": "Friday",
+          "name": "Acadian Day (Friday after Thanksgiving)",
+          "rule": "dayAfterThanksgiving",
+          "note": "Proclaimed by the Governor under R.S. 1:55(B)(3); Civil Service says it is usually proclaimed (confirmed for Nov 29, 2024 and Nov 28, 2025). 2026 and 2027 proclamations not yet issued."
+        }
+      ],
+      "floatingDays": 0,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Extra Christmas day(s) proclaimed by the Governor",
+          "kind": "optional",
+          "note": "Full paid legal holidays by proclamation (66 JML 2024; 71 JML 2025). Discretionary; no 2026 or 2027 proclamation found yet."
+        },
+        {
+          "date": null,
+          "name": "Extra New Year's day(s) proclaimed by the Governor",
+          "kind": "optional",
+          "note": "Full paid legal holidays by proclamation (67 JML 2024; 74 JML 2025). Discretionary; none found for the next season yet."
+        },
+        {
+          "date": null,
+          "name": "Lundi Gras 2026",
+          "kind": "optional",
+          "note": "Proclaimed holiday 02 JML 2026 (GC 2026-010). In 2026 it fell on the same date as Presidents' Day. For 2027 it would be Mon Feb 8."
+        },
+        {
+          "date": null,
+          "name": "Inauguration Day",
+          "kind": "local",
+          "note": "Statutory holiday 'once in every four years in the city of Baton Rouge' (R.S. 1:55(B)(1)(a)); next one January 2028."
+        }
+      ],
+      "electionDay": {
+        "rule": "electionDay",
+        "holidayThisYear": false,
+        "date": "2027-11-02"
+      }
+    },
+    "2028": {
+      "paidHolidays": 13,
+      "federal": [
+        {
+          "date": "2028-01-01",
+          "observed": "2027-12-31",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-01-17",
+          "observed": "2028-01-17",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-02-21",
+          "observed": "2028-02-21",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2028-05-29",
+          "observed": "2028-05-29",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-06-19",
+          "observed": "2028-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-07-04",
+          "observed": "2028-07-04",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-09-04",
+          "observed": "2028-09-04",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-10-09",
+          "observed": "2028-10-09",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2028-11-11",
+          "observed": "2028-11-10",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-11-23",
+          "observed": "2028-11-23",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-12-25",
+          "observed": "2028-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2028-02-29",
+          "weekday": "Tuesday",
+          "name": "Mardi Gras",
+          "rule": "mardiGras",
+          "note": "Statutory legal holiday (R.S. 1:55(B)(1)); Tue Feb 17, 2026; Tue Feb 9, 2027."
+        },
+        {
+          "date": "2028-04-14",
+          "weekday": "Friday",
+          "name": "Good Friday",
+          "rule": "goodFriday",
+          "note": "Statutory legal holiday (R.S. 1:55(B)(1)); Fri Apr 3, 2026; Fri Mar 26, 2027."
+        },
+        {
+          "date": "2028-11-07",
+          "weekday": "Tuesday",
+          "name": "Election Day",
+          "rule": "electionDay",
+          "note": "State holiday (even years)."
+        },
+        {
+          "date": "2028-11-24",
+          "weekday": "Friday",
+          "name": "Acadian Day (Friday after Thanksgiving)",
+          "rule": "dayAfterThanksgiving",
+          "note": "Proclaimed by the Governor under R.S. 1:55(B)(3); Civil Service says it is usually proclaimed (confirmed for Nov 29, 2024 and Nov 28, 2025). 2026 and 2027 proclamations not yet issued."
+        }
+      ],
+      "floatingDays": 0,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Extra Christmas day(s) proclaimed by the Governor",
+          "kind": "optional",
+          "note": "Full paid legal holidays by proclamation (66 JML 2024; 71 JML 2025). Discretionary; no 2026 or 2027 proclamation found yet."
+        },
+        {
+          "date": null,
+          "name": "Extra New Year's day(s) proclaimed by the Governor",
+          "kind": "optional",
+          "note": "Full paid legal holidays by proclamation (67 JML 2024; 74 JML 2025). Discretionary; none found for the next season yet."
+        },
+        {
+          "date": null,
+          "name": "Lundi Gras 2026",
+          "kind": "optional",
+          "note": "Proclaimed holiday 02 JML 2026 (GC 2026-010). In 2026 it fell on the same date as Presidents' Day. For 2027 it would be Mon Feb 8."
+        },
+        {
+          "date": null,
+          "name": "Inauguration Day",
+          "kind": "local",
+          "note": "Statutory holiday 'once in every four years in the city of Baton Rouge' (R.S. 1:55(B)(1)(a)); next one January 2028."
+        }
+      ],
+      "electionDay": {
+        "rule": "electionDay",
+        "holidayThisYear": true,
+        "date": "2028-11-07"
+      }
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "country": "US",
+  "year": 2026,
+  "source": "5 U.S.C. § 6103",
+  "holidays": [
+    {
+      "date": "2026-01-01",
+      "observed": "2026-01-01",
+      "weekday": "Thursday",
+      "name": "New Year's Day",
+      "rule": null
+    },
+    {
+      "date": "2026-01-19",
+      "observed": "2026-01-19",
+      "weekday": "Monday",
+      "name": "Martin Luther King Jr. Day",
+      "rule": "Third Monday in January"
+    },
+    {
+      "date": "2026-02-16",
+      "observed": "2026-02-16",
+      "weekday": "Monday",
+      "name": "Presidents’ Day (Washington's Birthday)",
+      "rule": "Third Monday in February"
+    },
+    {
+      "date": "2026-05-25",
+      "observed": "2026-05-25",
+      "weekday": "Monday",
+      "name": "Memorial Day",
+      "rule": "Last Monday in May"
+    },
+    {
+      "date": "2026-06-19",
+      "observed": "2026-06-19",
+      "weekday": "Friday",
+      "name": "Juneteenth National Independence Day",
+      "rule": null
+    },
+    {
+      "date": "2026-07-04",
+      "observed": "2026-07-03",
+      "weekday": "Saturday",
+      "name": "Independence Day",
+      "rule": null
+    },
+    {
+      "date": "2026-09-07",
+      "observed": "2026-09-07",
+      "weekday": "Monday",
+      "name": "Labor Day",
+      "rule": "First Monday in September"
+    },
+    {
+      "date": "2026-10-12",
+      "observed": "2026-10-12",
+      "weekday": "Monday",
+      "name": "Columbus Day / Indigenous Peoples’ Day",
+      "rule": "Second Monday in October"
+    },
+    {
+      "date": "2026-11-11",
+      "observed": "2026-11-11",
+      "weekday": "Wednesday",
+      "name": "Veterans Day",
+      "rule": null
+    },
+    {
+      "date": "2026-11-26",
+      "observed": "2026-11-26",
+      "weekday": "Thursday",
+      "name": "Thanksgiving Day",
+      "rule": "Fourth Thursday in November"
+    },
+    {
+      "date": "2026-12-25",
+      "observed": "2026-12-25",
+      "weekday": "Friday",
+      "name": "Christmas Day",
+      "rule": null
+    }
+  ]
+}

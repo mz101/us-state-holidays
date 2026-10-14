@@ -1,0 +1,462 @@
+{
+  "state": "Texas",
+  "abbr": "TX",
+  "slug": "texas",
+  "page": "https://the-calendar.net/holidays/by-state/texas/",
+  "feed": "https://the-calendar.net/downloads/states/texas-holidays.ics",
+  "source": {
+    "url": "https://hr.sao.texas.gov/Documents/Holidays/Holidays2027.pdf",
+    "title": "State Holiday Schedule for Fiscal Year 2027 (Texas State Auditor's Office); also Comptroller 'State of Texas Holiday Schedule, Fiscal Year 2027' https://comptroller.texas.gov/about/holidays.php; Tex. Gov't Code ch. 662",
+    "year": 2027
+  },
+  "confidence": "high",
+  "verified": true,
+  "weekendRule": "none: a holiday that falls on a Saturday or Sunday is not observed on another day",
+  "renamedFederalHolidays": [],
+  "excludedConfederateHolidays": [
+    {
+      "name": "Confederate Heroes Day (skeleton-crew state holiday: offices stay open; Tue Jan 19, 2027; when it coincides with MLK Day only one holiday is observed, as in 2026)",
+      "rule": "fixed:01-19"
+    }
+  ],
+  "years": {
+    "2026": {
+      "paidHolidays": 12,
+      "federal": [
+        {
+          "date": "2026-01-01",
+          "observed": "2026-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-01-19",
+          "observed": "2026-01-19",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-02-16",
+          "observed": "2026-02-16",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-05-25",
+          "observed": "2026-05-25",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-06-19",
+          "observed": "2026-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2026-07-04",
+          "observed": "2026-07-03",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-09-07",
+          "observed": "2026-09-07",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-10-12",
+          "observed": "2026-10-12",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2026-11-11",
+          "observed": "2026-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-11-26",
+          "observed": "2026-11-26",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-12-25",
+          "observed": "2026-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2026-11-27",
+          "weekday": "Friday",
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "note": "'All agencies closed' on FY2026 and FY2027 Auditor schedules."
+        },
+        {
+          "date": "2026-12-24",
+          "weekday": "Thursday",
+          "name": "Christmas Eve",
+          "rule": "fixed:12-24",
+          "note": "'All agencies closed' on FY2026 and FY2027 schedules; only when it falls on a weekday (no weekend shift)."
+        },
+        {
+          "date": "2026-12-26",
+          "weekday": "Saturday",
+          "name": "Day after Christmas",
+          "rule": "fixed:12-26",
+          "note": "'All agencies closed' on the FY2026 schedule (Fri Dec 26, 2025); in FY2027 Dec 26, 2026 is a Saturday so it is not observed. Counts only in years it falls on a weekday."
+        }
+      ],
+      "floatingDays": 0,
+      "partialOrLocal": [
+        {
+          "date": "2026-06-19",
+          "name": "Emancipation Day in Texas (Juneteenth)",
+          "kind": "commemorative",
+          "note": "State holiday with skeleton crew required (FY2026: 'Skeleton crew required'); offices stay open. Falls on Sat in 2027 so not observed. Employees who work get comp time."
+        },
+        {
+          "date": "2026-03-02",
+          "name": "Texas Independence Day",
+          "kind": "commemorative",
+          "note": "Skeleton crew required (Tue Mar 2, 2027); offices stay open."
+        },
+        {
+          "date": "2026-04-21",
+          "name": "San Jacinto Day",
+          "kind": "commemorative",
+          "note": "Skeleton crew required (Wed Apr 21, 2027); offices stay open."
+        },
+        {
+          "date": "2026-08-27",
+          "name": "Lyndon Baines Johnson Day",
+          "kind": "commemorative",
+          "note": "Skeleton crew required (Fri Aug 27, 2027); offices stay open."
+        },
+        {
+          "date": "2026-04-03",
+          "name": "Good Friday",
+          "kind": "optional",
+          "note": "Optional holiday (Gov't Code 662.003(c)): an employee may observe it in lieu of a skeleton-crew state holiday (Mar 26, 2027)."
+        },
+        {
+          "date": "2026-03-31",
+          "name": "Cesar Chavez Day",
+          "kind": "optional",
+          "note": "Optional holiday (Gov't Code 662.013), listed on the FY2026/FY2027 Auditor schedules (Wed Mar 31, 2027); same in-lieu-of-skeleton-crew-day mechanism."
+        },
+        {
+          "date": null,
+          "name": "Rosh Hashanah",
+          "kind": "optional",
+          "note": "Optional holiday under Gov't Code 662.003(c)."
+        },
+        {
+          "date": null,
+          "name": "Yom Kippur",
+          "kind": "optional",
+          "note": "Optional holiday under Gov't Code 662.003(c)."
+        }
+      ],
+      "electionDay": null
+    },
+    "2027": {
+      "paidHolidays": 12,
+      "federal": [
+        {
+          "date": "2027-01-01",
+          "observed": "2027-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-01-18",
+          "observed": "2027-01-18",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-02-15",
+          "observed": "2027-02-15",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-05-31",
+          "observed": "2027-05-31",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-06-19",
+          "observed": "2027-06-18",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2027-07-04",
+          "observed": "2027-07-05",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-09-06",
+          "observed": "2027-09-06",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-10-11",
+          "observed": "2027-10-11",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2027-11-11",
+          "observed": "2027-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-11-25",
+          "observed": "2027-11-25",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-12-25",
+          "observed": "2027-12-24",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2027-11-26",
+          "weekday": "Friday",
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "note": "'All agencies closed' on FY2026 and FY2027 Auditor schedules."
+        },
+        {
+          "date": "2027-12-24",
+          "weekday": "Friday",
+          "name": "Christmas Eve",
+          "rule": "fixed:12-24",
+          "note": "'All agencies closed' on FY2026 and FY2027 schedules; only when it falls on a weekday (no weekend shift)."
+        },
+        {
+          "date": "2027-12-26",
+          "weekday": "Sunday",
+          "name": "Day after Christmas",
+          "rule": "fixed:12-26",
+          "note": "'All agencies closed' on the FY2026 schedule (Fri Dec 26, 2025); in FY2027 Dec 26, 2026 is a Saturday so it is not observed. Counts only in years it falls on a weekday."
+        }
+      ],
+      "floatingDays": 0,
+      "partialOrLocal": [
+        {
+          "date": "2027-06-19",
+          "name": "Emancipation Day in Texas (Juneteenth)",
+          "kind": "commemorative",
+          "note": "State holiday with skeleton crew required (FY2026: 'Skeleton crew required'); offices stay open. Falls on Sat in 2027 so not observed. Employees who work get comp time."
+        },
+        {
+          "date": "2027-03-02",
+          "name": "Texas Independence Day",
+          "kind": "commemorative",
+          "note": "Skeleton crew required (Tue Mar 2, 2027); offices stay open."
+        },
+        {
+          "date": "2027-04-21",
+          "name": "San Jacinto Day",
+          "kind": "commemorative",
+          "note": "Skeleton crew required (Wed Apr 21, 2027); offices stay open."
+        },
+        {
+          "date": "2027-08-27",
+          "name": "Lyndon Baines Johnson Day",
+          "kind": "commemorative",
+          "note": "Skeleton crew required (Fri Aug 27, 2027); offices stay open."
+        },
+        {
+          "date": "2027-03-26",
+          "name": "Good Friday",
+          "kind": "optional",
+          "note": "Optional holiday (Gov't Code 662.003(c)): an employee may observe it in lieu of a skeleton-crew state holiday (Mar 26, 2027)."
+        },
+        {
+          "date": "2027-03-31",
+          "name": "Cesar Chavez Day",
+          "kind": "optional",
+          "note": "Optional holiday (Gov't Code 662.013), listed on the FY2026/FY2027 Auditor schedules (Wed Mar 31, 2027); same in-lieu-of-skeleton-crew-day mechanism."
+        },
+        {
+          "date": null,
+          "name": "Rosh Hashanah",
+          "kind": "optional",
+          "note": "Optional holiday under Gov't Code 662.003(c)."
+        },
+        {
+          "date": null,
+          "name": "Yom Kippur",
+          "kind": "optional",
+          "note": "Optional holiday under Gov't Code 662.003(c)."
+        }
+      ],
+      "electionDay": null
+    },
+    "2028": {
+      "paidHolidays": 12,
+      "federal": [
+        {
+          "date": "2028-01-01",
+          "observed": "2027-12-31",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-01-17",
+          "observed": "2028-01-17",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-02-21",
+          "observed": "2028-02-21",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-05-29",
+          "observed": "2028-05-29",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-06-19",
+          "observed": "2028-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2028-07-04",
+          "observed": "2028-07-04",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-09-04",
+          "observed": "2028-09-04",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-10-09",
+          "observed": "2028-10-09",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2028-11-11",
+          "observed": "2028-11-10",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-11-23",
+          "observed": "2028-11-23",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-12-25",
+          "observed": "2028-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2028-11-24",
+          "weekday": "Friday",
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "note": "'All agencies closed' on FY2026 and FY2027 Auditor schedules."
+        },
+        {
+          "date": "2028-12-24",
+          "weekday": "Sunday",
+          "name": "Christmas Eve",
+          "rule": "fixed:12-24",
+          "note": "'All agencies closed' on FY2026 and FY2027 schedules; only when it falls on a weekday (no weekend shift)."
+        },
+        {
+          "date": "2028-12-26",
+          "weekday": "Tuesday",
+          "name": "Day after Christmas",
+          "rule": "fixed:12-26",
+          "note": "'All agencies closed' on the FY2026 schedule (Fri Dec 26, 2025); in FY2027 Dec 26, 2026 is a Saturday so it is not observed. Counts only in years it falls on a weekday."
+        }
+      ],
+      "floatingDays": 0,
+      "partialOrLocal": [
+        {
+          "date": "2028-06-19",
+          "name": "Emancipation Day in Texas (Juneteenth)",
+          "kind": "commemorative",
+          "note": "State holiday with skeleton crew required (FY2026: 'Skeleton crew required'); offices stay open. Falls on Sat in 2027 so not observed. Employees who work get comp time."
+        },
+        {
+          "date": "2028-03-02",
+          "name": "Texas Independence Day",
+          "kind": "commemorative",
+          "note": "Skeleton crew required (Tue Mar 2, 2027); offices stay open."
+        },
+        {
+          "date": "2028-04-21",
+          "name": "San Jacinto Day",
+          "kind": "commemorative",
+          "note": "Skeleton crew required (Wed Apr 21, 2027); offices stay open."
+        },
+        {
+          "date": "2028-08-27",
+          "name": "Lyndon Baines Johnson Day",
+          "kind": "commemorative",
+          "note": "Skeleton crew required (Fri Aug 27, 2027); offices stay open."
+        },
+        {
+          "date": "2028-04-14",
+          "name": "Good Friday",
+          "kind": "optional",
+          "note": "Optional holiday (Gov't Code 662.003(c)): an employee may observe it in lieu of a skeleton-crew state holiday (Mar 26, 2027)."
+        },
+        {
+          "date": "2028-03-31",
+          "name": "Cesar Chavez Day",
+          "kind": "optional",
+          "note": "Optional holiday (Gov't Code 662.013), listed on the FY2026/FY2027 Auditor schedules (Wed Mar 31, 2027); same in-lieu-of-skeleton-crew-day mechanism."
+        },
+        {
+          "date": null,
+          "name": "Rosh Hashanah",
+          "kind": "optional",
+          "note": "Optional holiday under Gov't Code 662.003(c)."
+        },
+        {
+          "date": null,
+          "name": "Yom Kippur",
+          "kind": "optional",
+          "note": "Optional holiday under Gov't Code 662.003(c)."
+        }
+      ],
+      "electionDay": null
+    }
+  }
+}

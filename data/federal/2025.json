@@ -1,0 +1,84 @@
+{
+  "country": "US",
+  "year": 2025,
+  "source": "5 U.S.C. § 6103",
+  "holidays": [
+    {
+      "date": "2025-01-01",
+      "observed": "2025-01-01",
+      "weekday": "Wednesday",
+      "name": "New Year's Day",
+      "rule": null
+    },
+    {
+      "date": "2025-01-20",
+      "observed": "2025-01-20",
+      "weekday": "Monday",
+      "name": "Martin Luther King Jr. Day",
+      "rule": "Third Monday in January"
+    },
+    {
+      "date": "2025-02-17",
+      "observed": "2025-02-17",
+      "weekday": "Monday",
+      "name": "Presidents’ Day (Washington's Birthday)",
+      "rule": "Third Monday in February"
+    },
+    {
+      "date": "2025-05-26",
+      "observed": "2025-05-26",
+      "weekday": "Monday",
+      "name": "Memorial Day",
+      "rule": "Last Monday in May"
+    },
+    {
+      "date": "2025-06-19",
+      "observed": "2025-06-19",
+      "weekday": "Thursday",
+      "name": "Juneteenth National Independence Day",
+      "rule": null
+    },
+    {
+      "date": "2025-07-04",
+      "observed": "2025-07-04",
+      "weekday": "Friday",
+      "name": "Independence Day",
+      "rule": null
+    },
+    {
+      "date": "2025-09-01",
+      "observed": "2025-09-01",
+      "weekday": "Monday",
+      "name": "Labor Day",
+      "rule": "First Monday in September"
+    },
+    {
+      "date": "2025-10-13",
+      "observed": "2025-10-13",
+      "weekday": "Monday",
+      "name": "Columbus Day / Indigenous Peoples’ Day",
+      "rule": "Second Monday in October"
+    },
+    {
+      "date": "2025-11-11",
+      "observed": "2025-11-11",
+      "weekday": "Tuesday",
+      "name": "Veterans Day",
+      "rule": null
+    },
+    {
+      "date": "2025-11-27",
+      "observed": "2025-11-27",
+      "weekday": "Thursday",
+      "name": "Thanksgiving Day",
+      "rule": "Fourth Thursday in November"
+    },
+    {
+      "date": "2025-12-25",
+      "observed": "2025-12-25",
+      "weekday": "Thursday",
+      "name": "Christmas Day",
+      "rule": null
+    }
+  ]
+}

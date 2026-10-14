@@ -1,0 +1,325 @@
+{
+  "state": "North Dakota",
+  "abbr": "ND",
+  "slug": "north-dakota",
+  "page": "https://the-calendar.net/holidays/by-state/north-dakota/",
+  "feed": "https://the-calendar.net/downloads/states/north-dakota-holidays.ics",
+  "source": {
+    "url": "https://ndlegis.gov/cencode/t01c03.pdf",
+    "title": "N.D. Cent. Code ch. 1-03 Holidays (sections 1-03-01, 1-03-01.1, 1-03-02, 1-03-02.1); NDAC 4-07-07-06; OMB 'Being part of Team ND: benefits and extras' (10 paid holidays)",
+    "year": 2026
+  },
+  "confidence": "high",
+  "verified": true,
+  "weekendRule": "Jan 1, Jul 4, Nov 11, Dec 25: Sun->Mon, Sat->Fri (NDCC 1-03-02, 1-03-02.1). Other holidays fall on fixed weekdays (Mondays, Thursday, Good Friday).",
+  "renamedFederalHolidays": [],
+  "excludedConfederateHolidays": [],
+  "years": {
+    "2026": {
+      "paidHolidays": 10,
+      "federal": [
+        {
+          "date": "2026-01-01",
+          "observed": "2026-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-01-19",
+          "observed": "2026-01-19",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-02-16",
+          "observed": "2026-02-16",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-05-25",
+          "observed": "2026-05-25",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-06-19",
+          "observed": "2026-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2026-07-04",
+          "observed": "2026-07-03",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-09-07",
+          "observed": "2026-09-07",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-10-12",
+          "observed": "2026-10-12",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2026-11-11",
+          "observed": "2026-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-11-26",
+          "observed": "2026-11-26",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-12-25",
+          "observed": "2026-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2026-04-03",
+          "weekday": "Friday",
+          "name": "Good Friday",
+          "rule": "goodFriday",
+          "note": "Listed in NDCC 1-03-01(5) as a holiday; part of the 10 paid holidays in the OMB benefits summary."
+        }
+      ],
+      "floatingDays": 0,
+      "partialOrLocal": [
+        {
+          "date": "2026-12-24",
+          "name": "Christmas Eve noon closing",
+          "kind": "half-day",
+          "note": "NDCC 1-03-01.1: state offices must close at 12 noon on Dec 24 when it is a weekday (OMB: Monday through Thursday); not applied when Dec 24 is a weekend or holiday. Dec 24, 2027 is a Friday and is itself the observed Christmas Day (Dec 25 is a Saturday). Pay treatment of the closed afternoon not separately confirmed."
+        },
+        {
+          "date": "2026-06-19",
+          "name": "Juneteenth",
+          "kind": "commemorative",
+          "note": "NDCC 1-03-18 designates June 19 as Juneteenth for the state but it is not listed in 1-03-01 and state offices stay open. A 2023 bill (SB 2235) to add it as a holiday did not become law."
+        },
+        {
+          "date": null,
+          "name": "Indigenous Peoples Day",
+          "kind": "commemorative",
+          "note": "NDCC 1-03-13; proclamation only, offices open."
+        }
+      ],
+      "electionDay": null
+    },
+    "2027": {
+      "paidHolidays": 10,
+      "federal": [
+        {
+          "date": "2027-01-01",
+          "observed": "2027-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-01-18",
+          "observed": "2027-01-18",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-02-15",
+          "observed": "2027-02-15",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-05-31",
+          "observed": "2027-05-31",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-06-19",
+          "observed": "2027-06-18",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2027-07-04",
+          "observed": "2027-07-05",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-09-06",
+          "observed": "2027-09-06",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-10-11",
+          "observed": "2027-10-11",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2027-11-11",
+          "observed": "2027-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-11-25",
+          "observed": "2027-11-25",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-12-25",
+          "observed": "2027-12-24",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2027-03-26",
+          "weekday": "Friday",
+          "name": "Good Friday",
+          "rule": "goodFriday",
+          "note": "Listed in NDCC 1-03-01(5) as a holiday; part of the 10 paid holidays in the OMB benefits summary."
+        }
+      ],
+      "floatingDays": 0,
+      "partialOrLocal": [
+        {
+          "date": "2027-12-24",
+          "name": "Christmas Eve noon closing",
+          "kind": "half-day",
+          "note": "NDCC 1-03-01.1: state offices must close at 12 noon on Dec 24 when it is a weekday (OMB: Monday through Thursday); not applied when Dec 24 is a weekend or holiday. Dec 24, 2027 is a Friday and is itself the observed Christmas Day (Dec 25 is a Saturday). Pay treatment of the closed afternoon not separately confirmed."
+        },
+        {
+          "date": "2027-06-19",
+          "name": "Juneteenth",
+          "kind": "commemorative",
+          "note": "NDCC 1-03-18 designates June 19 as Juneteenth for the state but it is not listed in 1-03-01 and state offices stay open. A 2023 bill (SB 2235) to add it as a holiday did not become law."
+        },
+        {
+          "date": null,
+          "name": "Indigenous Peoples Day",
+          "kind": "commemorative",
+          "note": "NDCC 1-03-13; proclamation only, offices open."
+        }
+      ],
+      "electionDay": null
+    },
+    "2028": {
+      "paidHolidays": 10,
+      "federal": [
+        {
+          "date": "2028-01-01",
+          "observed": "2027-12-31",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-01-17",
+          "observed": "2028-01-17",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-02-21",
+          "observed": "2028-02-21",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-05-29",
+          "observed": "2028-05-29",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-06-19",
+          "observed": "2028-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2028-07-04",
+          "observed": "2028-07-04",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-09-04",
+          "observed": "2028-09-04",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-10-09",
+          "observed": "2028-10-09",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2028-11-11",
+          "observed": "2028-11-10",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-11-23",
+          "observed": "2028-11-23",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-12-25",
+          "observed": "2028-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2028-04-14",
+          "weekday": "Friday",
+          "name": "Good Friday",
+          "rule": "goodFriday",
+          "note": "Listed in NDCC 1-03-01(5) as a holiday; part of the 10 paid holidays in the OMB benefits summary."
+        }
+      ],
+      "floatingDays": 0,
+      "partialOrLocal": [
+        {
+          "date": "2028-12-24",
+          "name": "Christmas Eve noon closing",
+          "kind": "half-day",
+          "note": "NDCC 1-03-01.1: state offices must close at 12 noon on Dec 24 when it is a weekday (OMB: Monday through Thursday); not applied when Dec 24 is a weekend or holiday. Dec 24, 2027 is a Friday and is itself the observed Christmas Day (Dec 25 is a Saturday). Pay treatment of the closed afternoon not separately confirmed."
+        },
+        {
+          "date": "2028-06-19",
+          "name": "Juneteenth",
+          "kind": "commemorative",
+          "note": "NDCC 1-03-18 designates June 19 as Juneteenth for the state but it is not listed in 1-03-01 and state offices stay open. A 2023 bill (SB 2235) to add it as a holiday did not become law."
+        },
+        {
+          "date": null,
+          "name": "Indigenous Peoples Day",
+          "kind": "commemorative",
+          "note": "NDCC 1-03-13; proclamation only, offices open."
+        }
+      ],
+      "electionDay": null
+    }
+  }
+}

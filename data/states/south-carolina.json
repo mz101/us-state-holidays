@@ -1,0 +1,320 @@
+{
+  "state": "South Carolina",
+  "abbr": "SC",
+  "slug": "south-carolina",
+  "page": "https://the-calendar.net/holidays/by-state/south-carolina/",
+  "feed": "https://the-calendar.net/downloads/states/south-carolina-holidays.ics",
+  "source": {
+    "url": "https://admin.sc.gov/services/state-human-resources/benefits-and-leave/holiday-leave",
+    "title": "Holiday Leave - 2026 and 2027 Holiday Schedule (SC Department of Administration, State Human Resources; read via Wayback snapshot of 4 Sep 2026); S.C. Code 53-5-10 and 53-5-30",
+    "year": 2027
+  },
+  "confidence": "high",
+  "verified": true,
+  "weekendRule": "Sat->Fri, Sun->Mon (S.C. Code 53-5-30; DSHR schedule), except the Christmas cluster: in 2027 Christmas Day (Sat Dec 25) is observed Mon Dec 27 and Day after Christmas (Sun Dec 26) is observed Tue Dec 28 because Christmas Eve (Fri Dec 24) is itself a holiday",
+  "renamedFederalHolidays": [
+    {
+      "name": "George Washington's Birthday / Presidents Day",
+      "federal": "Washington's Birthday"
+    }
+  ],
+  "excludedConfederateHolidays": [
+    {
+      "name": "Confederate Memorial Day",
+      "rule": "fixed:05-10 (S.C. Code 53-5-10; observed Mon May 11 in 2026 when May 10 is a Sunday; Mon May 10, 2027)"
+    }
+  ],
+  "years": {
+    "2026": {
+      "paidHolidays": 12,
+      "federal": [
+        {
+          "date": "2026-01-01",
+          "observed": "2026-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-01-19",
+          "observed": "2026-01-19",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-02-16",
+          "observed": "2026-02-16",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-05-25",
+          "observed": "2026-05-25",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-06-19",
+          "observed": "2026-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2026-07-04",
+          "observed": "2026-07-03",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-09-07",
+          "observed": "2026-09-07",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-10-12",
+          "observed": "2026-10-12",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2026-11-11",
+          "observed": "2026-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-11-26",
+          "observed": "2026-11-26",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-12-25",
+          "observed": "2026-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2026-11-27",
+          "weekday": "Friday",
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "note": "Fri Nov 26, 2027; 'Thanksgiving Day and the day after' in S.C. Code 53-5-10."
+        },
+        {
+          "date": "2026-12-24",
+          "weekday": "Thursday",
+          "name": "Christmas Eve",
+          "rule": "fixed:12-24",
+          "note": "Dec 24 is a statutory legal holiday; Fri Dec 24, 2027."
+        },
+        {
+          "date": "2026-12-28",
+          "weekday": "Monday",
+          "name": "Day after Christmas",
+          "rule": "fixed:12-26",
+          "note": "Dec 26 is a statutory legal holiday; in 2027 it falls on a Sunday and the state observes it Tue Dec 28 (2026: Mon Dec 28)."
+        }
+      ],
+      "floatingDays": 0,
+      "partialOrLocal": [],
+      "electionDay": null
+    },
+    "2027": {
+      "paidHolidays": 12,
+      "federal": [
+        {
+          "date": "2027-01-01",
+          "observed": "2027-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-01-18",
+          "observed": "2027-01-18",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-02-15",
+          "observed": "2027-02-15",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-05-31",
+          "observed": "2027-05-31",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-06-19",
+          "observed": "2027-06-18",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2027-07-04",
+          "observed": "2027-07-05",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-09-06",
+          "observed": "2027-09-06",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-10-11",
+          "observed": "2027-10-11",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2027-11-11",
+          "observed": "2027-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-11-25",
+          "observed": "2027-11-25",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-12-25",
+          "observed": "2027-12-27",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2027-11-26",
+          "weekday": "Friday",
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "note": "Fri Nov 26, 2027; 'Thanksgiving Day and the day after' in S.C. Code 53-5-10."
+        },
+        {
+          "date": "2027-12-24",
+          "weekday": "Friday",
+          "name": "Christmas Eve",
+          "rule": "fixed:12-24",
+          "note": "Dec 24 is a statutory legal holiday; Fri Dec 24, 2027."
+        },
+        {
+          "date": "2027-12-28",
+          "weekday": "Tuesday",
+          "name": "Day after Christmas",
+          "rule": "fixed:12-26",
+          "note": "Dec 26 is a statutory legal holiday; in 2027 it falls on a Sunday and the state observes it Tue Dec 28 (2026: Mon Dec 28)."
+        }
+      ],
+      "floatingDays": 0,
+      "partialOrLocal": [],
+      "electionDay": null
+    },
+    "2028": {
+      "paidHolidays": 12,
+      "federal": [
+        {
+          "date": "2028-01-01",
+          "observed": "2027-12-31",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-01-17",
+          "observed": "2028-01-17",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-02-21",
+          "observed": "2028-02-21",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-05-29",
+          "observed": "2028-05-29",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-06-19",
+          "observed": "2028-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2028-07-04",
+          "observed": "2028-07-04",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-09-04",
+          "observed": "2028-09-04",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-10-09",
+          "observed": "2028-10-09",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2028-11-11",
+          "observed": "2028-11-10",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-11-23",
+          "observed": "2028-11-23",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-12-25",
+          "observed": "2028-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2028-11-24",
+          "weekday": "Friday",
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "note": "Fri Nov 26, 2027; 'Thanksgiving Day and the day after' in S.C. Code 53-5-10."
+        },
+        {
+          "date": "2028-12-24",
+          "weekday": "Sunday",
+          "name": "Christmas Eve",
+          "rule": "fixed:12-24",
+          "note": "Dec 24 is a statutory legal holiday; Fri Dec 24, 2027."
+        },
+        {
+          "date": "2028-12-26",
+          "weekday": "Tuesday",
+          "name": "Day after Christmas",
+          "rule": "fixed:12-26",
+          "note": "Dec 26 is a statutory legal holiday; in 2027 it falls on a Sunday and the state observes it Tue Dec 28 (2026: Mon Dec 28)."
+        }
+      ],
+      "floatingDays": 0,
+      "partialOrLocal": [],
+      "electionDay": null
+    }
+  }
+}

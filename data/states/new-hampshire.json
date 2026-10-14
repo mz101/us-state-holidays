@@ -1,0 +1,330 @@
+{
+  "state": "New Hampshire",
+  "abbr": "NH",
+  "slug": "new-hampshire",
+  "page": "https://the-calendar.net/holidays/by-state/new-hampshire/",
+  "feed": "https://the-calendar.net/downloads/states/new-hampshire-holidays.ics",
+  "source": {
+    "url": "https://www.employeeportal.nh.gov/compensation-savings/state-holiday-schedule",
+    "title": "State Holiday Schedule - NH Employee Portal (NH Division of Personnel / DAS); links printable calendars for 2026 and 2027",
+    "year": 2027
+  },
+  "confidence": "high",
+  "verified": true,
+  "weekendRule": "Sun->Mon (RSA 288:2, secondary text); Saturday handling not verified (Employee Portal labels New Year's Day and Veterans' Day as '(observed)'; secondary source says Fri Jul 3, 2026)",
+  "renamedFederalHolidays": [
+    {
+      "name": "Martin Luther King Jr./Civil Rights Day",
+      "federal": "Martin Luther King Jr. Day"
+    }
+  ],
+  "excludedConfederateHolidays": [],
+  "years": {
+    "2026": {
+      "paidHolidays": 10,
+      "federal": [
+        {
+          "date": "2026-01-01",
+          "observed": "2026-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-01-19",
+          "observed": "2026-01-19",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-02-16",
+          "observed": "2026-02-16",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-05-25",
+          "observed": "2026-05-25",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-06-19",
+          "observed": "2026-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2026-07-04",
+          "observed": "2026-07-03",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-09-07",
+          "observed": "2026-09-07",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-10-12",
+          "observed": "2026-10-12",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2026-11-11",
+          "observed": "2026-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-11-26",
+          "observed": "2026-11-26",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-12-25",
+          "observed": "2026-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2026-11-27",
+          "weekday": "Friday",
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "note": "Listed among the ten paid holidays on the Employee Portal."
+        }
+      ],
+      "floatingDays": 2,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Floating holidays",
+          "kind": "floating",
+          "note": "Portal: some full-time employees may accrue two or three floating holidays; depends on agency and union contract."
+        },
+        {
+          "date": "2026-10-12",
+          "name": "Columbus Day",
+          "kind": "commemorative",
+          "note": "Named in RSA 288:1 as a legal holiday (per secondary text) but not on the state employee paid holiday list; offices stay open."
+        },
+        {
+          "date": "2026-11-03",
+          "name": "Biennial (general) election day",
+          "kind": "commemorative",
+          "note": "RSA 288:1 mentions the day of the biennial election (per secondary text) but it is not on the state employee paid holiday list."
+        }
+      ],
+      "electionDay": null
+    },
+    "2027": {
+      "paidHolidays": 10,
+      "federal": [
+        {
+          "date": "2027-01-01",
+          "observed": "2027-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-01-18",
+          "observed": "2027-01-18",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-02-15",
+          "observed": "2027-02-15",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-05-31",
+          "observed": "2027-05-31",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-06-19",
+          "observed": "2027-06-18",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2027-07-04",
+          "observed": "2027-07-05",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-09-06",
+          "observed": "2027-09-06",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-10-11",
+          "observed": "2027-10-11",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2027-11-11",
+          "observed": "2027-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-11-25",
+          "observed": "2027-11-25",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-12-25",
+          "observed": "2027-12-24",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2027-11-26",
+          "weekday": "Friday",
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "note": "Listed among the ten paid holidays on the Employee Portal."
+        }
+      ],
+      "floatingDays": 2,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Floating holidays",
+          "kind": "floating",
+          "note": "Portal: some full-time employees may accrue two or three floating holidays; depends on agency and union contract."
+        },
+        {
+          "date": "2027-10-11",
+          "name": "Columbus Day",
+          "kind": "commemorative",
+          "note": "Named in RSA 288:1 as a legal holiday (per secondary text) but not on the state employee paid holiday list; offices stay open."
+        },
+        {
+          "date": "2027-11-02",
+          "name": "Biennial (general) election day",
+          "kind": "commemorative",
+          "note": "RSA 288:1 mentions the day of the biennial election (per secondary text) but it is not on the state employee paid holiday list."
+        }
+      ],
+      "electionDay": null
+    },
+    "2028": {
+      "paidHolidays": 10,
+      "federal": [
+        {
+          "date": "2028-01-01",
+          "observed": "2027-12-31",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-01-17",
+          "observed": "2028-01-17",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-02-21",
+          "observed": "2028-02-21",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-05-29",
+          "observed": "2028-05-29",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-06-19",
+          "observed": "2028-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2028-07-04",
+          "observed": "2028-07-04",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-09-04",
+          "observed": "2028-09-04",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-10-09",
+          "observed": "2028-10-09",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2028-11-11",
+          "observed": "2028-11-10",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-11-23",
+          "observed": "2028-11-23",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-12-25",
+          "observed": "2028-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2028-11-24",
+          "weekday": "Friday",
+          "name": "Day after Thanksgiving",
+          "rule": "dayAfterThanksgiving",
+          "note": "Listed among the ten paid holidays on the Employee Portal."
+        }
+      ],
+      "floatingDays": 2,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Floating holidays",
+          "kind": "floating",
+          "note": "Portal: some full-time employees may accrue two or three floating holidays; depends on agency and union contract."
+        },
+        {
+          "date": "2028-10-09",
+          "name": "Columbus Day",
+          "kind": "commemorative",
+          "note": "Named in RSA 288:1 as a legal holiday (per secondary text) but not on the state employee paid holiday list; offices stay open."
+        },
+        {
+          "date": "2028-11-07",
+          "name": "Biennial (general) election day",
+          "kind": "commemorative",
+          "note": "RSA 288:1 mentions the day of the biennial election (per secondary text) but it is not on the state employee paid holiday list."
+        }
+      ],
+      "electionDay": null
+    }
+  }
+}

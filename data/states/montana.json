@@ -1,0 +1,292 @@
+{
+  "state": "Montana",
+  "abbr": "MT",
+  "slug": "montana",
+  "page": "https://the-calendar.net/holidays/by-state/montana/",
+  "feed": "https://the-calendar.net/downloads/states/montana-holidays.ics",
+  "source": {
+    "url": "https://charitablegiving.mt.gov/_docs/shrd/Policies/Holiday_Policy.pdf",
+    "title": "Holiday Policy - Montana State Human Resources Division (last reviewed June 5, 2026); MCA 1-1-216, 2-18-601(9), 2-18-603 (Montana Code Annotated 2025)",
+    "year": 2026
+  },
+  "confidence": "high",
+  "verified": true,
+  "weekendRule": "Sat->Fri, Sun->Mon (MCA 1-1-216(2); HR policy 3.A.1.k)",
+  "renamedFederalHolidays": [
+    {
+      "name": "Lincoln's and Washington's Birthdays",
+      "federal": "Washington's Birthday"
+    },
+    {
+      "name": "Indigenous Peoples' Day and Columbus Day",
+      "federal": "Columbus Day"
+    }
+  ],
+  "excludedConfederateHolidays": [],
+  "years": {
+    "2026": {
+      "paidHolidays": 10,
+      "federal": [
+        {
+          "date": "2026-01-01",
+          "observed": "2026-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-01-19",
+          "observed": "2026-01-19",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-02-16",
+          "observed": "2026-02-16",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-05-25",
+          "observed": "2026-05-25",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-06-19",
+          "observed": "2026-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2026-07-04",
+          "observed": "2026-07-03",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-09-07",
+          "observed": "2026-09-07",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-10-12",
+          "observed": "2026-10-12",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-11-11",
+          "observed": "2026-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-11-26",
+          "observed": "2026-11-26",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-12-25",
+          "observed": "2026-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [],
+      "floatingDays": 1,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Floating holiday",
+          "kind": "floating",
+          "note": "MCA 2-18-603(3)(a): each full-time executive-branch employee is entitled to one floating holiday per calendar year; expires at year end (added by 2023/2025 legislation)."
+        },
+        {
+          "date": "2026-11-03",
+          "name": "State general election day",
+          "kind": "local",
+          "note": "A legal holiday under MCA 1-1-216(1)(l) generally, but 2-18-601(9)(a) defines the state-employee 'holiday' as only 1-1-216(1)(a)-(k), so it is not a paid state-employee holiday. HR policy also states primary election days are not holidays."
+        }
+      ],
+      "electionDay": null
+    },
+    "2027": {
+      "paidHolidays": 10,
+      "federal": [
+        {
+          "date": "2027-01-01",
+          "observed": "2027-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-01-18",
+          "observed": "2027-01-18",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-02-15",
+          "observed": "2027-02-15",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-05-31",
+          "observed": "2027-05-31",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-06-19",
+          "observed": "2027-06-18",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2027-07-04",
+          "observed": "2027-07-05",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-09-06",
+          "observed": "2027-09-06",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-10-11",
+          "observed": "2027-10-11",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-11-11",
+          "observed": "2027-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-11-25",
+          "observed": "2027-11-25",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-12-25",
+          "observed": "2027-12-24",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [],
+      "floatingDays": 1,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Floating holiday",
+          "kind": "floating",
+          "note": "MCA 2-18-603(3)(a): each full-time executive-branch employee is entitled to one floating holiday per calendar year; expires at year end (added by 2023/2025 legislation)."
+        },
+        {
+          "date": "2027-11-02",
+          "name": "State general election day",
+          "kind": "local",
+          "note": "A legal holiday under MCA 1-1-216(1)(l) generally, but 2-18-601(9)(a) defines the state-employee 'holiday' as only 1-1-216(1)(a)-(k), so it is not a paid state-employee holiday. HR policy also states primary election days are not holidays."
+        }
+      ],
+      "electionDay": null
+    },
+    "2028": {
+      "paidHolidays": 10,
+      "federal": [
+        {
+          "date": "2028-01-01",
+          "observed": "2027-12-31",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-01-17",
+          "observed": "2028-01-17",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-02-21",
+          "observed": "2028-02-21",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-05-29",
+          "observed": "2028-05-29",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-06-19",
+          "observed": "2028-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2028-07-04",
+          "observed": "2028-07-04",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-09-04",
+          "observed": "2028-09-04",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-10-09",
+          "observed": "2028-10-09",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-11-11",
+          "observed": "2028-11-10",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-11-23",
+          "observed": "2028-11-23",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-12-25",
+          "observed": "2028-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [],
+      "floatingDays": 1,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Floating holiday",
+          "kind": "floating",
+          "note": "MCA 2-18-603(3)(a): each full-time executive-branch employee is entitled to one floating holiday per calendar year; expires at year end (added by 2023/2025 legislation)."
+        },
+        {
+          "date": "2028-11-07",
+          "name": "State general election day",
+          "kind": "local",
+          "note": "A legal holiday under MCA 1-1-216(1)(l) generally, but 2-18-601(9)(a) defines the state-employee 'holiday' as only 1-1-216(1)(a)-(k), so it is not a paid state-employee holiday. HR policy also states primary election days are not holidays."
+        }
+      ],
+      "electionDay": null
+    }
+  }
+}

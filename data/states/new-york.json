@@ -1,0 +1,313 @@
+{
+  "state": "New York",
+  "abbr": "NY",
+  "slug": "new-york",
+  "page": "https://the-calendar.net/holidays/by-state/new-york/",
+  "feed": "https://the-calendar.net/downloads/states/new-york-holidays.ics",
+  "source": {
+    "url": "https://www.cs.ny.gov/attendance_leave/2027_legal_holidays.cfm",
+    "title": "2027 Calendar of Legal Holidays for State Employees in the Classified Service of the Executive Branch (NYS Department of Civil Service); with Attendance and Leave Manual Advisory Memorandum 2026-04",
+    "year": 2027
+  },
+  "confidence": "high",
+  "verified": true,
+  "weekendRule": "Sun->Mon. Saturday holidays have no alternate day: Mon-Fri employees receive holiday leave credit (pass day holiday) to use later (2027: Juneteenth and Christmas fall on Saturday).",
+  "renamedFederalHolidays": [],
+  "excludedConfederateHolidays": [],
+  "years": {
+    "2026": {
+      "paidHolidays": 11,
+      "federal": [
+        {
+          "date": "2026-01-01",
+          "observed": "2026-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-01-19",
+          "observed": "2026-01-19",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-02-16",
+          "observed": "2026-02-16",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-05-25",
+          "observed": "2026-05-25",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-06-19",
+          "observed": "2026-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-07-04",
+          "observed": "2026-07-03",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-09-07",
+          "observed": "2026-09-07",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-10-12",
+          "observed": "2026-10-12",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-11-11",
+          "observed": "2026-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-11-26",
+          "observed": "2026-11-26",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-12-25",
+          "observed": "2026-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [],
+      "floatingDays": 2,
+      "partialOrLocal": [
+        {
+          "date": "2026-02-12",
+          "name": "Lincoln's Birthday",
+          "kind": "floating",
+          "note": "Legal holiday that most executive-branch units (Administrative, Institutional, Operational, PS&T, Rent Regulation, M/C) receive as a floating holiday credit instead of a day off (offices open Feb 12, 2027; credit usable until Feb 11, 2028). Fixed day off only for Security Services, Security Supervisors, Agency Police Services and State Police units."
+        },
+        {
+          "date": "2026-11-03",
+          "name": "Election Day",
+          "kind": "floating",
+          "note": "Same treatment: converted to a floating holiday credit for most units (2026: offices open Nov 3, 2026, credit usable until Nov 2, 2027). The State had not designated a floating holiday for Election Day 2027 (Nov 2) as of Oct 2026; designations are expected mid-2027. Fixed day off for the security/police units."
+        },
+        {
+          "date": "2026-06-14",
+          "name": "Flag Day",
+          "kind": "commemorative",
+          "note": "Legal holiday under the General Construction Law but the only one NOT observed by state employees."
+        }
+      ],
+      "electionDay": {
+        "rule": "electionDay",
+        "holidayThisYear": false,
+        "date": "2026-11-03"
+      }
+    },
+    "2027": {
+      "paidHolidays": 11,
+      "federal": [
+        {
+          "date": "2027-01-01",
+          "observed": "2027-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-01-18",
+          "observed": "2027-01-18",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-02-15",
+          "observed": "2027-02-15",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-05-31",
+          "observed": "2027-05-31",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-06-19",
+          "observed": "2027-06-18",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-07-04",
+          "observed": "2027-07-05",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-09-06",
+          "observed": "2027-09-06",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-10-11",
+          "observed": "2027-10-11",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-11-11",
+          "observed": "2027-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-11-25",
+          "observed": "2027-11-25",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-12-25",
+          "observed": "2027-12-24",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [],
+      "floatingDays": 2,
+      "partialOrLocal": [
+        {
+          "date": "2027-02-12",
+          "name": "Lincoln's Birthday",
+          "kind": "floating",
+          "note": "Legal holiday that most executive-branch units (Administrative, Institutional, Operational, PS&T, Rent Regulation, M/C) receive as a floating holiday credit instead of a day off (offices open Feb 12, 2027; credit usable until Feb 11, 2028). Fixed day off only for Security Services, Security Supervisors, Agency Police Services and State Police units."
+        },
+        {
+          "date": "2027-11-02",
+          "name": "Election Day",
+          "kind": "floating",
+          "note": "Same treatment: converted to a floating holiday credit for most units (2026: offices open Nov 3, 2026, credit usable until Nov 2, 2027). The State had not designated a floating holiday for Election Day 2027 (Nov 2) as of Oct 2026; designations are expected mid-2027. Fixed day off for the security/police units."
+        },
+        {
+          "date": "2027-06-14",
+          "name": "Flag Day",
+          "kind": "commemorative",
+          "note": "Legal holiday under the General Construction Law but the only one NOT observed by state employees."
+        }
+      ],
+      "electionDay": {
+        "rule": "electionDay",
+        "holidayThisYear": false,
+        "date": "2027-11-02"
+      }
+    },
+    "2028": {
+      "paidHolidays": 11,
+      "federal": [
+        {
+          "date": "2028-01-01",
+          "observed": "2027-12-31",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-01-17",
+          "observed": "2028-01-17",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-02-21",
+          "observed": "2028-02-21",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-05-29",
+          "observed": "2028-05-29",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-06-19",
+          "observed": "2028-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-07-04",
+          "observed": "2028-07-04",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-09-04",
+          "observed": "2028-09-04",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-10-09",
+          "observed": "2028-10-09",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-11-11",
+          "observed": "2028-11-10",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-11-23",
+          "observed": "2028-11-23",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-12-25",
+          "observed": "2028-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [],
+      "floatingDays": 2,
+      "partialOrLocal": [
+        {
+          "date": "2028-02-12",
+          "name": "Lincoln's Birthday",
+          "kind": "floating",
+          "note": "Legal holiday that most executive-branch units (Administrative, Institutional, Operational, PS&T, Rent Regulation, M/C) receive as a floating holiday credit instead of a day off (offices open Feb 12, 2027; credit usable until Feb 11, 2028). Fixed day off only for Security Services, Security Supervisors, Agency Police Services and State Police units."
+        },
+        {
+          "date": "2028-11-07",
+          "name": "Election Day",
+          "kind": "floating",
+          "note": "Same treatment: converted to a floating holiday credit for most units (2026: offices open Nov 3, 2026, credit usable until Nov 2, 2027). The State had not designated a floating holiday for Election Day 2027 (Nov 2) as of Oct 2026; designations are expected mid-2027. Fixed day off for the security/police units."
+        },
+        {
+          "date": "2028-06-14",
+          "name": "Flag Day",
+          "kind": "commemorative",
+          "note": "Legal holiday under the General Construction Law but the only one NOT observed by state employees."
+        }
+      ],
+      "electionDay": {
+        "rule": "electionDay",
+        "holidayThisYear": false,
+        "date": "2028-11-07"
+      }
+    }
+  }
+}

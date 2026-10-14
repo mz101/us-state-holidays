@@ -1,0 +1,294 @@
+{
+  "state": "New Mexico",
+  "abbr": "NM",
+  "slug": "new-mexico",
+  "page": "https://the-calendar.net/holidays/by-state/new-mexico/",
+  "feed": "https://the-calendar.net/downloads/states/new-mexico-holidays.ics",
+  "source": {
+    "url": "https://www.spo.state.nm.us/wp-content/uploads/2026-Paid-Holiday-Schedule-1.pdf",
+    "title": "State of New Mexico Paid Holiday Schedule for 2026 (State Personnel Board, General Memorandum 2025-015, 12 Dec 2025)",
+    "year": 2026
+  },
+  "confidence": "high",
+  "verified": true,
+  "weekendRule": "Sat->Fri, Sun->Mon (inferred from the 2026 schedule: Sat Jul 4 observed Fri Jul 3; rule text in 1.7 NMAC not retrieved)",
+  "renamedFederalHolidays": [
+    {
+      "name": "Indigenous People's Day",
+      "federal": "Columbus Day"
+    }
+  ],
+  "excludedConfederateHolidays": [],
+  "years": {
+    "2026": {
+      "paidHolidays": 11,
+      "federal": [
+        {
+          "date": "2026-01-01",
+          "observed": "2026-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-01-19",
+          "observed": "2026-01-19",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-02-16",
+          "observed": "2026-02-16",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2026-05-25",
+          "observed": "2026-05-25",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-06-19",
+          "observed": "2026-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-07-04",
+          "observed": "2026-07-03",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-09-07",
+          "observed": "2026-09-07",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-10-12",
+          "observed": "2026-10-12",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-11-11",
+          "observed": "2026-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-11-26",
+          "observed": "2026-11-26",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2026-12-25",
+          "observed": "2026-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2026-11-27",
+          "weekday": "Friday",
+          "name": "Presidents' Day (Observed)",
+          "rule": "dayAfterThanksgiving",
+          "note": "The State Personnel Board moves the Presidents' Day holiday to the Friday after Thanksgiving; state offices stay open on the third Monday of February. Same placement in the 2023 schedule (Nov 24) and 2019 schedule (Nov 29). Net effect: 11 paid days, same as if Presidents' Day were on its federal date."
+        }
+      ],
+      "floatingDays": 0,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Winter holiday administrative leave (Dec 24 afternoon)",
+          "kind": "half-day",
+          "note": "General Memorandum 2025-014: 4 hours of administrative leave on Dec 24, 2025, agencies may close. Discretionary, announced each December, not part of the standing paid holiday schedule."
+        }
+      ],
+      "electionDay": null
+    },
+    "2027": {
+      "paidHolidays": 11,
+      "federal": [
+        {
+          "date": "2027-01-01",
+          "observed": "2027-01-01",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-01-18",
+          "observed": "2027-01-18",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-02-15",
+          "observed": "2027-02-15",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2027-05-31",
+          "observed": "2027-05-31",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-06-19",
+          "observed": "2027-06-18",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-07-04",
+          "observed": "2027-07-05",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-09-06",
+          "observed": "2027-09-06",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-10-11",
+          "observed": "2027-10-11",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-11-11",
+          "observed": "2027-11-11",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-11-25",
+          "observed": "2027-11-25",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2027-12-25",
+          "observed": "2027-12-24",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2027-11-26",
+          "weekday": "Friday",
+          "name": "Presidents' Day (Observed)",
+          "rule": "dayAfterThanksgiving",
+          "note": "The State Personnel Board moves the Presidents' Day holiday to the Friday after Thanksgiving; state offices stay open on the third Monday of February. Same placement in the 2023 schedule (Nov 24) and 2019 schedule (Nov 29). Net effect: 11 paid days, same as if Presidents' Day were on its federal date."
+        }
+      ],
+      "floatingDays": 0,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Winter holiday administrative leave (Dec 24 afternoon)",
+          "kind": "half-day",
+          "note": "General Memorandum 2025-014: 4 hours of administrative leave on Dec 24, 2025, agencies may close. Discretionary, announced each December, not part of the standing paid holiday schedule."
+        }
+      ],
+      "electionDay": null
+    },
+    "2028": {
+      "paidHolidays": 11,
+      "federal": [
+        {
+          "date": "2028-01-01",
+          "observed": "2027-12-31",
+          "name": "New Year's Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-01-17",
+          "observed": "2028-01-17",
+          "name": "Martin Luther King Jr. Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-02-21",
+          "observed": "2028-02-21",
+          "name": "Presidents’ Day (Washington's Birthday)",
+          "stateOfficesClosed": false
+        },
+        {
+          "date": "2028-05-29",
+          "observed": "2028-05-29",
+          "name": "Memorial Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-06-19",
+          "observed": "2028-06-19",
+          "name": "Juneteenth National Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-07-04",
+          "observed": "2028-07-04",
+          "name": "Independence Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-09-04",
+          "observed": "2028-09-04",
+          "name": "Labor Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-10-09",
+          "observed": "2028-10-09",
+          "name": "Columbus Day / Indigenous Peoples’ Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-11-11",
+          "observed": "2028-11-10",
+          "name": "Veterans Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-11-23",
+          "observed": "2028-11-23",
+          "name": "Thanksgiving Day",
+          "stateOfficesClosed": true
+        },
+        {
+          "date": "2028-12-25",
+          "observed": "2028-12-25",
+          "name": "Christmas Day",
+          "stateOfficesClosed": true
+        }
+      ],
+      "stateHolidays": [
+        {
+          "date": "2028-11-24",
+          "weekday": "Friday",
+          "name": "Presidents' Day (Observed)",
+          "rule": "dayAfterThanksgiving",
+          "note": "The State Personnel Board moves the Presidents' Day holiday to the Friday after Thanksgiving; state offices stay open on the third Monday of February. Same placement in the 2023 schedule (Nov 24) and 2019 schedule (Nov 29). Net effect: 11 paid days, same as if Presidents' Day were on its federal date."
+        }
+      ],
+      "floatingDays": 0,
+      "partialOrLocal": [
+        {
+          "date": null,
+          "name": "Winter holiday administrative leave (Dec 24 afternoon)",
+          "kind": "half-day",
+          "note": "General Memorandum 2025-014: 4 hours of administrative leave on Dec 24, 2025, agencies may close. Discretionary, announced each December, not part of the standing paid holiday schedule."
+        }
+      ],
+      "electionDay": null
+    }
+  }
+}
