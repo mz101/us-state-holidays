@@ -40,7 +40,7 @@
       "path": "data/states/state-holidays-2026-2028.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "description": "One row per state, year and holiday: federal holidays (with whether state offices close) and additional state holidays."
+      "description": "One row per state, year and holiday: holiday_date (calendar date), whether it is a paid state holiday, and state_offices_close_on (the weekday state offices close; empty when there is no weekday closure or the date is not set yet; can fall in the previous year, e.g. New Year's Day observed on December 31)."
     },
     {
       "name": "state-paid-holidays-2027",

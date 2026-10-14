@@ -481,7 +481,7 @@
           "rule": "dayAfterThanksgiving",
           "dateISO": "2027-11-26",
           "weekday": "Friday",
-          "note": "KRS 18A.190(1)(i): Thanksgiving 'plus one extra day' designated by the Governor; Fri Nov 27, 2026."
+          "note": "KRS 18A.190(1)(i): Thanksgiving 'plus one extra day' designated by the Governor (the Friday after Thanksgiving)."
         },
         {
           "name": "Extra day at Christmas",

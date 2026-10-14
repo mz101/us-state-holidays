@@ -12,6 +12,22 @@
   "confidence": "high",
   "verified": true,
   "weekendRule": "Sat->Fri, Sun->Mon",
+  "weekendShift": {
+    "federal": {
+      "sat": "fri",
+      "sun": "mon"
+    }
+  },
+  "additionalSources": [
+    {
+      "title": "KRS 2.190 (presidential election day: state offices closed)",
+      "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=61"
+    },
+    {
+      "title": "KRS 18A.190 (holidays for state personnel)",
+      "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=1386"
+    }
+  ],
   "renamedFederalHolidays": [],
   "excludedConfederateHolidays": [
     {
@@ -29,69 +45,91 @@
       "federal": [
         {
           "date": "2026-01-01",
-          "observed": "2026-01-01",
+          "federalObserved": "2026-01-01",
           "name": "New Year's Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-01-01",
+          "closureNote": null
         },
         {
           "date": "2026-01-19",
-          "observed": "2026-01-19",
+          "federalObserved": "2026-01-19",
           "name": "Martin Luther King Jr. Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-01-19",
+          "closureNote": null
         },
         {
           "date": "2026-02-16",
-          "observed": "2026-02-16",
+          "federalObserved": "2026-02-16",
           "name": "Presidents’ Day (Washington's Birthday)",
-          "stateOfficesClosed": false
+          "stateOfficesClosed": false,
+          "stateOfficesCloseOn": null,
+          "closureNote": null
         },
         {
           "date": "2026-05-25",
-          "observed": "2026-05-25",
+          "federalObserved": "2026-05-25",
           "name": "Memorial Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-05-25",
+          "closureNote": null
         },
         {
           "date": "2026-06-19",
-          "observed": "2026-06-19",
+          "federalObserved": "2026-06-19",
           "name": "Juneteenth National Independence Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-06-19",
+          "closureNote": null
         },
         {
           "date": "2026-07-04",
-          "observed": "2026-07-03",
+          "federalObserved": "2026-07-03",
           "name": "Independence Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-07-03",
+          "closureNote": null
         },
         {
           "date": "2026-09-07",
-          "observed": "2026-09-07",
+          "federalObserved": "2026-09-07",
           "name": "Labor Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-09-07",
+          "closureNote": null
         },
         {
           "date": "2026-10-12",
-          "observed": "2026-10-12",
+          "federalObserved": "2026-10-12",
           "name": "Columbus Day / Indigenous Peoples’ Day",
-          "stateOfficesClosed": false
+          "stateOfficesClosed": false,
+          "stateOfficesCloseOn": null,
+          "closureNote": null
         },
         {
           "date": "2026-11-11",
-          "observed": "2026-11-11",
+          "federalObserved": "2026-11-11",
           "name": "Veterans Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-11-11",
+          "closureNote": null
         },
         {
           "date": "2026-11-26",
-          "observed": "2026-11-26",
+          "federalObserved": "2026-11-26",
           "name": "Thanksgiving Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-11-26",
+          "closureNote": null
         },
         {
           "date": "2026-12-25",
-          "observed": "2026-12-25",
+          "federalObserved": "2026-12-25",
           "name": "Christmas Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-12-25",
+          "closureNote": null
         }
       ],
       "stateHolidays": [
@@ -100,13 +138,17 @@
           "weekday": "Friday",
           "name": "Day after Thanksgiving",
           "rule": "dayAfterThanksgiving",
-          "note": "KRS 18A.190(1)(i): Thanksgiving 'plus one extra day' designated by the Governor; Fri Nov 27, 2026."
+          "stateOfficesCloseOn": "2026-11-27",
+          "closureNote": null,
+          "note": "KRS 18A.190(1)(i): Thanksgiving 'plus one extra day' designated by the Governor (the Friday after Thanksgiving)."
         },
         {
           "date": "2026-12-24",
           "weekday": "Thursday",
           "name": "Extra day at Christmas",
           "rule": "other:one extra day next to Dec 25, designated by the Governor (Thu Dec 24 in 2026; Fri Dec 26 in 2025)",
+          "stateOfficesCloseOn": "2026-12-24",
+          "closureNote": null,
           "note": "KRS 18A.190(1)(j). Employees get two days around Christmas. 2027 designation not yet published (Dec 25, 2027 is a Saturday)."
         },
         {
@@ -114,6 +156,8 @@
           "weekday": "Thursday",
           "name": "Extra day at New Year's",
           "rule": "other:one extra day next to Jan 1, designated by the Governor (Dec 31, 2026 for New Year's 2027; Jan 2, 2026 for New Year's 2026)",
+          "stateOfficesCloseOn": "2026-12-31",
+          "closureNote": null,
           "note": "KRS 18A.190(1)(a). Two days around New Year's."
         }
       ],
@@ -137,69 +181,91 @@
       "federal": [
         {
           "date": "2027-01-01",
-          "observed": "2027-01-01",
+          "federalObserved": "2027-01-01",
           "name": "New Year's Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-01-01",
+          "closureNote": null
         },
         {
           "date": "2027-01-18",
-          "observed": "2027-01-18",
+          "federalObserved": "2027-01-18",
           "name": "Martin Luther King Jr. Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-01-18",
+          "closureNote": null
         },
         {
           "date": "2027-02-15",
-          "observed": "2027-02-15",
+          "federalObserved": "2027-02-15",
           "name": "Presidents’ Day (Washington's Birthday)",
-          "stateOfficesClosed": false
+          "stateOfficesClosed": false,
+          "stateOfficesCloseOn": null,
+          "closureNote": null
         },
         {
           "date": "2027-05-31",
-          "observed": "2027-05-31",
+          "federalObserved": "2027-05-31",
           "name": "Memorial Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-05-31",
+          "closureNote": null
         },
         {
           "date": "2027-06-19",
-          "observed": "2027-06-18",
+          "federalObserved": "2027-06-18",
           "name": "Juneteenth National Independence Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-06-18",
+          "closureNote": null
         },
         {
           "date": "2027-07-04",
-          "observed": "2027-07-05",
+          "federalObserved": "2027-07-05",
           "name": "Independence Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-07-05",
+          "closureNote": null
         },
         {
           "date": "2027-09-06",
-          "observed": "2027-09-06",
+          "federalObserved": "2027-09-06",
           "name": "Labor Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-09-06",
+          "closureNote": null
         },
         {
           "date": "2027-10-11",
-          "observed": "2027-10-11",
+          "federalObserved": "2027-10-11",
           "name": "Columbus Day / Indigenous Peoples’ Day",
-          "stateOfficesClosed": false
+          "stateOfficesClosed": false,
+          "stateOfficesCloseOn": null,
+          "closureNote": null
         },
         {
           "date": "2027-11-11",
-          "observed": "2027-11-11",
+          "federalObserved": "2027-11-11",
           "name": "Veterans Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-11-11",
+          "closureNote": null
         },
         {
           "date": "2027-11-25",
-          "observed": "2027-11-25",
+          "federalObserved": "2027-11-25",
           "name": "Thanksgiving Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-11-25",
+          "closureNote": null
         },
         {
           "date": "2027-12-25",
-          "observed": "2027-12-24",
+          "federalObserved": "2027-12-24",
           "name": "Christmas Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-12-24",
+          "closureNote": null
         }
       ],
       "stateHolidays": [
@@ -208,13 +274,17 @@
           "weekday": "Friday",
           "name": "Day after Thanksgiving",
           "rule": "dayAfterThanksgiving",
-          "note": "KRS 18A.190(1)(i): Thanksgiving 'plus one extra day' designated by the Governor; Fri Nov 27, 2026."
+          "stateOfficesCloseOn": "2027-11-26",
+          "closureNote": null,
+          "note": "KRS 18A.190(1)(i): Thanksgiving 'plus one extra day' designated by the Governor (the Friday after Thanksgiving)."
         },
         {
           "date": null,
           "weekday": null,
           "name": "Extra day at Christmas",
           "rule": "other:one extra day next to Dec 25, designated by the Governor (Thu Dec 24 in 2026; Fri Dec 26 in 2025)",
+          "stateOfficesCloseOn": null,
+          "closureNote": "Date set each year by the Governor; not announced yet.",
           "note": "KRS 18A.190(1)(j). Employees get two days around Christmas. 2027 designation not yet published (Dec 25, 2027 is a Saturday)."
         },
         {
@@ -222,6 +292,8 @@
           "weekday": null,
           "name": "Extra day at New Year's",
           "rule": "other:one extra day next to Jan 1, designated by the Governor (Dec 31, 2026 for New Year's 2027; Jan 2, 2026 for New Year's 2026)",
+          "stateOfficesCloseOn": null,
+          "closureNote": "Date set each year by the Governor; not announced yet.",
           "note": "KRS 18A.190(1)(a). Two days around New Year's."
         }
       ],
@@ -241,88 +313,123 @@
       }
     },
     "2028": {
-      "paidHolidays": 12,
+      "paidHolidays": 13,
       "federal": [
         {
           "date": "2028-01-01",
-          "observed": "2027-12-31",
+          "federalObserved": "2027-12-31",
           "name": "New Year's Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-12-31",
+          "closureNote": null
         },
         {
           "date": "2028-01-17",
-          "observed": "2028-01-17",
+          "federalObserved": "2028-01-17",
           "name": "Martin Luther King Jr. Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-01-17",
+          "closureNote": null
         },
         {
           "date": "2028-02-21",
-          "observed": "2028-02-21",
+          "federalObserved": "2028-02-21",
           "name": "Presidents’ Day (Washington's Birthday)",
-          "stateOfficesClosed": false
+          "stateOfficesClosed": false,
+          "stateOfficesCloseOn": null,
+          "closureNote": null
         },
         {
           "date": "2028-05-29",
-          "observed": "2028-05-29",
+          "federalObserved": "2028-05-29",
           "name": "Memorial Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-05-29",
+          "closureNote": null
         },
         {
           "date": "2028-06-19",
-          "observed": "2028-06-19",
+          "federalObserved": "2028-06-19",
           "name": "Juneteenth National Independence Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-06-19",
+          "closureNote": null
         },
         {
           "date": "2028-07-04",
-          "observed": "2028-07-04",
+          "federalObserved": "2028-07-04",
           "name": "Independence Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-07-04",
+          "closureNote": null
         },
         {
           "date": "2028-09-04",
-          "observed": "2028-09-04",
+          "federalObserved": "2028-09-04",
           "name": "Labor Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-09-04",
+          "closureNote": null
         },
         {
           "date": "2028-10-09",
-          "observed": "2028-10-09",
+          "federalObserved": "2028-10-09",
           "name": "Columbus Day / Indigenous Peoples’ Day",
-          "stateOfficesClosed": false
+          "stateOfficesClosed": false,
+          "stateOfficesCloseOn": null,
+          "closureNote": null
         },
         {
           "date": "2028-11-11",
-          "observed": "2028-11-10",
+          "federalObserved": "2028-11-10",
           "name": "Veterans Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-11-10",
+          "closureNote": null
         },
         {
           "date": "2028-11-23",
-          "observed": "2028-11-23",
+          "federalObserved": "2028-11-23",
           "name": "Thanksgiving Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-11-23",
+          "closureNote": null
         },
         {
           "date": "2028-12-25",
-          "observed": "2028-12-25",
+          "federalObserved": "2028-12-25",
           "name": "Christmas Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-12-25",
+          "closureNote": null
         }
       ],
       "stateHolidays": [
+        {
+          "date": "2028-11-07",
+          "weekday": "Tuesday",
+          "name": "Election Day",
+          "rule": "electionDay",
+          "stateOfficesCloseOn": "2028-11-07",
+          "closureNote": null,
+          "note": "State holiday (presidential election years (KRS 2.190))."
+        },
         {
           "date": "2028-11-24",
           "weekday": "Friday",
           "name": "Day after Thanksgiving",
           "rule": "dayAfterThanksgiving",
-          "note": "KRS 18A.190(1)(i): Thanksgiving 'plus one extra day' designated by the Governor; Fri Nov 27, 2026."
+          "stateOfficesCloseOn": "2028-11-24",
+          "closureNote": null,
+          "note": "KRS 18A.190(1)(i): Thanksgiving 'plus one extra day' designated by the Governor (the Friday after Thanksgiving)."
         },
         {
           "date": null,
           "weekday": null,
           "name": "Extra day at Christmas",
           "rule": "other:one extra day next to Dec 25, designated by the Governor (Thu Dec 24 in 2026; Fri Dec 26 in 2025)",
+          "stateOfficesCloseOn": null,
+          "closureNote": "Date set each year by the Governor; not announced yet.",
           "note": "KRS 18A.190(1)(j). Employees get two days around Christmas. 2027 designation not yet published (Dec 25, 2027 is a Saturday)."
         },
         {
@@ -330,6 +437,8 @@
           "weekday": null,
           "name": "Extra day at New Year's",
           "rule": "other:one extra day next to Jan 1, designated by the Governor (Dec 31, 2026 for New Year's 2027; Jan 2, 2026 for New Year's 2026)",
+          "stateOfficesCloseOn": null,
+          "closureNote": "Date set each year by the Governor; not announced yet.",
           "note": "KRS 18A.190(1)(a). Two days around New Year's."
         }
       ],
@@ -344,7 +453,7 @@
       ],
       "electionDay": {
         "rule": "electionDay",
-        "holidayThisYear": false,
+        "holidayThisYear": true,
         "date": "2028-11-07"
       }
     }

@@ -12,6 +12,14 @@
   "confidence": "high",
   "verified": true,
   "weekendRule": "Sun->Mon. Saturday holidays have no alternate day: Mon-Fri employees receive holiday leave credit (pass day holiday) to use later (2027: Juneteenth and Christmas fall on Saturday).",
+  "weekendShift": {
+    "federal": {
+      "sat": "none",
+      "sun": "mon"
+    },
+    "satNote": "no alternate day; employees receive holiday leave credit"
+  },
+  "additionalSources": [],
   "renamedFederalHolidays": [],
   "excludedConfederateHolidays": [],
   "years": {
@@ -20,69 +28,91 @@
       "federal": [
         {
           "date": "2026-01-01",
-          "observed": "2026-01-01",
+          "federalObserved": "2026-01-01",
           "name": "New Year's Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-01-01",
+          "closureNote": null
         },
         {
           "date": "2026-01-19",
-          "observed": "2026-01-19",
+          "federalObserved": "2026-01-19",
           "name": "Martin Luther King Jr. Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-01-19",
+          "closureNote": null
         },
         {
           "date": "2026-02-16",
-          "observed": "2026-02-16",
+          "federalObserved": "2026-02-16",
           "name": "Presidents’ Day (Washington's Birthday)",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-02-16",
+          "closureNote": null
         },
         {
           "date": "2026-05-25",
-          "observed": "2026-05-25",
+          "federalObserved": "2026-05-25",
           "name": "Memorial Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-05-25",
+          "closureNote": null
         },
         {
           "date": "2026-06-19",
-          "observed": "2026-06-19",
+          "federalObserved": "2026-06-19",
           "name": "Juneteenth National Independence Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-06-19",
+          "closureNote": null
         },
         {
           "date": "2026-07-04",
-          "observed": "2026-07-03",
+          "federalObserved": "2026-07-03",
           "name": "Independence Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": null,
+          "closureNote": "Falls on a Saturday: no alternate day; employees receive holiday leave credit."
         },
         {
           "date": "2026-09-07",
-          "observed": "2026-09-07",
+          "federalObserved": "2026-09-07",
           "name": "Labor Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-09-07",
+          "closureNote": null
         },
         {
           "date": "2026-10-12",
-          "observed": "2026-10-12",
+          "federalObserved": "2026-10-12",
           "name": "Columbus Day / Indigenous Peoples’ Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-10-12",
+          "closureNote": null
         },
         {
           "date": "2026-11-11",
-          "observed": "2026-11-11",
+          "federalObserved": "2026-11-11",
           "name": "Veterans Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-11-11",
+          "closureNote": null
         },
         {
           "date": "2026-11-26",
-          "observed": "2026-11-26",
+          "federalObserved": "2026-11-26",
           "name": "Thanksgiving Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-11-26",
+          "closureNote": null
         },
         {
           "date": "2026-12-25",
-          "observed": "2026-12-25",
+          "federalObserved": "2026-12-25",
           "name": "Christmas Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-12-25",
+          "closureNote": null
         }
       ],
       "stateHolidays": [],
@@ -118,69 +148,91 @@
       "federal": [
         {
           "date": "2027-01-01",
-          "observed": "2027-01-01",
+          "federalObserved": "2027-01-01",
           "name": "New Year's Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-01-01",
+          "closureNote": null
         },
         {
           "date": "2027-01-18",
-          "observed": "2027-01-18",
+          "federalObserved": "2027-01-18",
           "name": "Martin Luther King Jr. Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-01-18",
+          "closureNote": null
         },
         {
           "date": "2027-02-15",
-          "observed": "2027-02-15",
+          "federalObserved": "2027-02-15",
           "name": "Presidents’ Day (Washington's Birthday)",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-02-15",
+          "closureNote": null
         },
         {
           "date": "2027-05-31",
-          "observed": "2027-05-31",
+          "federalObserved": "2027-05-31",
           "name": "Memorial Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-05-31",
+          "closureNote": null
         },
         {
           "date": "2027-06-19",
-          "observed": "2027-06-18",
+          "federalObserved": "2027-06-18",
           "name": "Juneteenth National Independence Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": null,
+          "closureNote": "Falls on a Saturday: no alternate day; employees receive holiday leave credit."
         },
         {
           "date": "2027-07-04",
-          "observed": "2027-07-05",
+          "federalObserved": "2027-07-05",
           "name": "Independence Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-07-05",
+          "closureNote": null
         },
         {
           "date": "2027-09-06",
-          "observed": "2027-09-06",
+          "federalObserved": "2027-09-06",
           "name": "Labor Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-09-06",
+          "closureNote": null
         },
         {
           "date": "2027-10-11",
-          "observed": "2027-10-11",
+          "federalObserved": "2027-10-11",
           "name": "Columbus Day / Indigenous Peoples’ Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-10-11",
+          "closureNote": null
         },
         {
           "date": "2027-11-11",
-          "observed": "2027-11-11",
+          "federalObserved": "2027-11-11",
           "name": "Veterans Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-11-11",
+          "closureNote": null
         },
         {
           "date": "2027-11-25",
-          "observed": "2027-11-25",
+          "federalObserved": "2027-11-25",
           "name": "Thanksgiving Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-11-25",
+          "closureNote": null
         },
         {
           "date": "2027-12-25",
-          "observed": "2027-12-24",
+          "federalObserved": "2027-12-24",
           "name": "Christmas Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": null,
+          "closureNote": "Falls on a Saturday: no alternate day; employees receive holiday leave credit."
         }
       ],
       "stateHolidays": [],
@@ -216,69 +268,91 @@
       "federal": [
         {
           "date": "2028-01-01",
-          "observed": "2027-12-31",
+          "federalObserved": "2027-12-31",
           "name": "New Year's Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": null,
+          "closureNote": "Falls on a Saturday: no alternate day; employees receive holiday leave credit."
         },
         {
           "date": "2028-01-17",
-          "observed": "2028-01-17",
+          "federalObserved": "2028-01-17",
           "name": "Martin Luther King Jr. Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-01-17",
+          "closureNote": null
         },
         {
           "date": "2028-02-21",
-          "observed": "2028-02-21",
+          "federalObserved": "2028-02-21",
           "name": "Presidents’ Day (Washington's Birthday)",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-02-21",
+          "closureNote": null
         },
         {
           "date": "2028-05-29",
-          "observed": "2028-05-29",
+          "federalObserved": "2028-05-29",
           "name": "Memorial Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-05-29",
+          "closureNote": null
         },
         {
           "date": "2028-06-19",
-          "observed": "2028-06-19",
+          "federalObserved": "2028-06-19",
           "name": "Juneteenth National Independence Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-06-19",
+          "closureNote": null
         },
         {
           "date": "2028-07-04",
-          "observed": "2028-07-04",
+          "federalObserved": "2028-07-04",
           "name": "Independence Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-07-04",
+          "closureNote": null
         },
         {
           "date": "2028-09-04",
-          "observed": "2028-09-04",
+          "federalObserved": "2028-09-04",
           "name": "Labor Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-09-04",
+          "closureNote": null
         },
         {
           "date": "2028-10-09",
-          "observed": "2028-10-09",
+          "federalObserved": "2028-10-09",
           "name": "Columbus Day / Indigenous Peoples’ Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-10-09",
+          "closureNote": null
         },
         {
           "date": "2028-11-11",
-          "observed": "2028-11-10",
+          "federalObserved": "2028-11-10",
           "name": "Veterans Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": null,
+          "closureNote": "Falls on a Saturday: no alternate day; employees receive holiday leave credit."
         },
         {
           "date": "2028-11-23",
-          "observed": "2028-11-23",
+          "federalObserved": "2028-11-23",
           "name": "Thanksgiving Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-11-23",
+          "closureNote": null
         },
         {
           "date": "2028-12-25",
-          "observed": "2028-12-25",
+          "federalObserved": "2028-12-25",
           "name": "Christmas Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-12-25",
+          "closureNote": null
         }
       ],
       "stateHolidays": [],

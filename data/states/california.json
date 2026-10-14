@@ -12,6 +12,19 @@
   "confidence": "high",
   "verified": true,
   "weekendRule": "Sat->employees receive holiday credit (no day shifted); Sun->Mon; Veterans Day (Nov 11) on Sat->preceding Fri",
+  "weekendShift": {
+    "federal": {
+      "sat": "none",
+      "sun": "mon",
+      "except": {
+        "veterans-day": {
+          "sat": "fri"
+        }
+      }
+    },
+    "satNote": "no office closure; employees receive holiday credit instead (Gov. Code 19853)"
+  },
+  "additionalSources": [],
   "renamedFederalHolidays": [],
   "excludedConfederateHolidays": [],
   "years": {
@@ -20,69 +33,91 @@
       "federal": [
         {
           "date": "2026-01-01",
-          "observed": "2026-01-01",
+          "federalObserved": "2026-01-01",
           "name": "New Year's Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-01-01",
+          "closureNote": null
         },
         {
           "date": "2026-01-19",
-          "observed": "2026-01-19",
+          "federalObserved": "2026-01-19",
           "name": "Martin Luther King Jr. Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-01-19",
+          "closureNote": null
         },
         {
           "date": "2026-02-16",
-          "observed": "2026-02-16",
+          "federalObserved": "2026-02-16",
           "name": "Presidents’ Day (Washington's Birthday)",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-02-16",
+          "closureNote": null
         },
         {
           "date": "2026-05-25",
-          "observed": "2026-05-25",
+          "federalObserved": "2026-05-25",
           "name": "Memorial Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-05-25",
+          "closureNote": null
         },
         {
           "date": "2026-06-19",
-          "observed": "2026-06-19",
+          "federalObserved": "2026-06-19",
           "name": "Juneteenth National Independence Day",
-          "stateOfficesClosed": false
+          "stateOfficesClosed": false,
+          "stateOfficesCloseOn": null,
+          "closureNote": null
         },
         {
           "date": "2026-07-04",
-          "observed": "2026-07-03",
+          "federalObserved": "2026-07-03",
           "name": "Independence Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": null,
+          "closureNote": "Falls on a Saturday: no office closure; employees receive holiday credit instead (Gov. Code 19853)."
         },
         {
           "date": "2026-09-07",
-          "observed": "2026-09-07",
+          "federalObserved": "2026-09-07",
           "name": "Labor Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-09-07",
+          "closureNote": null
         },
         {
           "date": "2026-10-12",
-          "observed": "2026-10-12",
+          "federalObserved": "2026-10-12",
           "name": "Columbus Day / Indigenous Peoples’ Day",
-          "stateOfficesClosed": false
+          "stateOfficesClosed": false,
+          "stateOfficesCloseOn": null,
+          "closureNote": null
         },
         {
           "date": "2026-11-11",
-          "observed": "2026-11-11",
+          "federalObserved": "2026-11-11",
           "name": "Veterans Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-11-11",
+          "closureNote": null
         },
         {
           "date": "2026-11-26",
-          "observed": "2026-11-26",
+          "federalObserved": "2026-11-26",
           "name": "Thanksgiving Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-11-26",
+          "closureNote": null
         },
         {
           "date": "2026-12-25",
-          "observed": "2026-12-25",
+          "federalObserved": "2026-12-25",
           "name": "Christmas Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-12-25",
+          "closureNote": null
         }
       ],
       "stateHolidays": [
@@ -91,6 +126,8 @@
           "weekday": "Tuesday",
           "name": "Cesar Chavez Day",
           "rule": "fixed:03-31",
+          "stateOfficesCloseOn": "2026-03-31",
+          "closureNote": null,
           "note": "On CalHR 2026 list (Tue Mar 31, 2026)."
         },
         {
@@ -98,6 +135,8 @@
           "weekday": "Friday",
           "name": "Day after Thanksgiving",
           "rule": "dayAfterThanksgiving",
+          "stateOfficesCloseOn": "2026-11-27",
+          "closureNote": null,
           "note": "On CalHR 2026 list (Fri Nov 27, 2026)."
         }
       ],
@@ -132,6 +171,12 @@
           "name": "Native American Day (optional holiday credit)",
           "kind": "optional",
           "note": "Fourth Friday in September; same personal-holiday swap."
+        },
+        {
+          "date": "2026-11-08",
+          "name": "Diwali (optional holiday credit)",
+          "kind": "optional",
+          "note": "Gov. Code 19853(e): employees may elect 8 hours of holiday credit for this day in lieu of personal holiday credit. Not an automatic day off."
         }
       ],
       "electionDay": null
@@ -141,69 +186,91 @@
       "federal": [
         {
           "date": "2027-01-01",
-          "observed": "2027-01-01",
+          "federalObserved": "2027-01-01",
           "name": "New Year's Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-01-01",
+          "closureNote": null
         },
         {
           "date": "2027-01-18",
-          "observed": "2027-01-18",
+          "federalObserved": "2027-01-18",
           "name": "Martin Luther King Jr. Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-01-18",
+          "closureNote": null
         },
         {
           "date": "2027-02-15",
-          "observed": "2027-02-15",
+          "federalObserved": "2027-02-15",
           "name": "Presidents’ Day (Washington's Birthday)",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-02-15",
+          "closureNote": null
         },
         {
           "date": "2027-05-31",
-          "observed": "2027-05-31",
+          "federalObserved": "2027-05-31",
           "name": "Memorial Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-05-31",
+          "closureNote": null
         },
         {
           "date": "2027-06-19",
-          "observed": "2027-06-18",
+          "federalObserved": "2027-06-18",
           "name": "Juneteenth National Independence Day",
-          "stateOfficesClosed": false
+          "stateOfficesClosed": false,
+          "stateOfficesCloseOn": null,
+          "closureNote": null
         },
         {
           "date": "2027-07-04",
-          "observed": "2027-07-05",
+          "federalObserved": "2027-07-05",
           "name": "Independence Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-07-05",
+          "closureNote": null
         },
         {
           "date": "2027-09-06",
-          "observed": "2027-09-06",
+          "federalObserved": "2027-09-06",
           "name": "Labor Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-09-06",
+          "closureNote": null
         },
         {
           "date": "2027-10-11",
-          "observed": "2027-10-11",
+          "federalObserved": "2027-10-11",
           "name": "Columbus Day / Indigenous Peoples’ Day",
-          "stateOfficesClosed": false
+          "stateOfficesClosed": false,
+          "stateOfficesCloseOn": null,
+          "closureNote": null
         },
         {
           "date": "2027-11-11",
-          "observed": "2027-11-11",
+          "federalObserved": "2027-11-11",
           "name": "Veterans Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-11-11",
+          "closureNote": null
         },
         {
           "date": "2027-11-25",
-          "observed": "2027-11-25",
+          "federalObserved": "2027-11-25",
           "name": "Thanksgiving Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-11-25",
+          "closureNote": null
         },
         {
           "date": "2027-12-25",
-          "observed": "2027-12-24",
+          "federalObserved": "2027-12-24",
           "name": "Christmas Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": null,
+          "closureNote": "Falls on a Saturday: no office closure; employees receive holiday credit instead (Gov. Code 19853)."
         }
       ],
       "stateHolidays": [
@@ -212,6 +279,8 @@
           "weekday": "Wednesday",
           "name": "Cesar Chavez Day",
           "rule": "fixed:03-31",
+          "stateOfficesCloseOn": "2027-03-31",
+          "closureNote": null,
           "note": "On CalHR 2026 list (Tue Mar 31, 2026)."
         },
         {
@@ -219,6 +288,8 @@
           "weekday": "Friday",
           "name": "Day after Thanksgiving",
           "rule": "dayAfterThanksgiving",
+          "stateOfficesCloseOn": "2027-11-26",
+          "closureNote": null,
           "note": "On CalHR 2026 list (Fri Nov 27, 2026)."
         }
       ],
@@ -253,6 +324,12 @@
           "name": "Native American Day (optional holiday credit)",
           "kind": "optional",
           "note": "Fourth Friday in September; same personal-holiday swap."
+        },
+        {
+          "date": "2027-10-29",
+          "name": "Diwali (optional holiday credit)",
+          "kind": "optional",
+          "note": "Gov. Code 19853(e): employees may elect 8 hours of holiday credit for this day in lieu of personal holiday credit. Not an automatic day off."
         }
       ],
       "electionDay": null
@@ -262,69 +339,91 @@
       "federal": [
         {
           "date": "2028-01-01",
-          "observed": "2027-12-31",
+          "federalObserved": "2027-12-31",
           "name": "New Year's Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": null,
+          "closureNote": "Falls on a Saturday: no office closure; employees receive holiday credit instead (Gov. Code 19853)."
         },
         {
           "date": "2028-01-17",
-          "observed": "2028-01-17",
+          "federalObserved": "2028-01-17",
           "name": "Martin Luther King Jr. Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-01-17",
+          "closureNote": null
         },
         {
           "date": "2028-02-21",
-          "observed": "2028-02-21",
+          "federalObserved": "2028-02-21",
           "name": "Presidents’ Day (Washington's Birthday)",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-02-21",
+          "closureNote": null
         },
         {
           "date": "2028-05-29",
-          "observed": "2028-05-29",
+          "federalObserved": "2028-05-29",
           "name": "Memorial Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-05-29",
+          "closureNote": null
         },
         {
           "date": "2028-06-19",
-          "observed": "2028-06-19",
+          "federalObserved": "2028-06-19",
           "name": "Juneteenth National Independence Day",
-          "stateOfficesClosed": false
+          "stateOfficesClosed": false,
+          "stateOfficesCloseOn": null,
+          "closureNote": null
         },
         {
           "date": "2028-07-04",
-          "observed": "2028-07-04",
+          "federalObserved": "2028-07-04",
           "name": "Independence Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-07-04",
+          "closureNote": null
         },
         {
           "date": "2028-09-04",
-          "observed": "2028-09-04",
+          "federalObserved": "2028-09-04",
           "name": "Labor Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-09-04",
+          "closureNote": null
         },
         {
           "date": "2028-10-09",
-          "observed": "2028-10-09",
+          "federalObserved": "2028-10-09",
           "name": "Columbus Day / Indigenous Peoples’ Day",
-          "stateOfficesClosed": false
+          "stateOfficesClosed": false,
+          "stateOfficesCloseOn": null,
+          "closureNote": null
         },
         {
           "date": "2028-11-11",
-          "observed": "2028-11-10",
+          "federalObserved": "2028-11-10",
           "name": "Veterans Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-11-10",
+          "closureNote": null
         },
         {
           "date": "2028-11-23",
-          "observed": "2028-11-23",
+          "federalObserved": "2028-11-23",
           "name": "Thanksgiving Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-11-23",
+          "closureNote": null
         },
         {
           "date": "2028-12-25",
-          "observed": "2028-12-25",
+          "federalObserved": "2028-12-25",
           "name": "Christmas Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-12-25",
+          "closureNote": null
         }
       ],
       "stateHolidays": [
@@ -333,6 +432,8 @@
           "weekday": "Friday",
           "name": "Cesar Chavez Day",
           "rule": "fixed:03-31",
+          "stateOfficesCloseOn": "2028-03-31",
+          "closureNote": null,
           "note": "On CalHR 2026 list (Tue Mar 31, 2026)."
         },
         {
@@ -340,6 +441,8 @@
           "weekday": "Friday",
           "name": "Day after Thanksgiving",
           "rule": "dayAfterThanksgiving",
+          "stateOfficesCloseOn": "2028-11-24",
+          "closureNote": null,
           "note": "On CalHR 2026 list (Fri Nov 27, 2026)."
         }
       ],
@@ -374,6 +477,12 @@
           "name": "Native American Day (optional holiday credit)",
           "kind": "optional",
           "note": "Fourth Friday in September; same personal-holiday swap."
+        },
+        {
+          "date": "2028-10-17",
+          "name": "Diwali (optional holiday credit)",
+          "kind": "optional",
+          "note": "Gov. Code 19853(e): employees may elect 8 hours of holiday credit for this day in lieu of personal holiday credit. Not an automatic day off."
         }
       ],
       "electionDay": null

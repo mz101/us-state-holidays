@@ -12,6 +12,13 @@
   "confidence": "high",
   "verified": true,
   "weekendRule": "Sat->Fri, Sun->Mon for operations scheduled Mon-Fri (Sat/Sun operations observe the actual date)",
+  "weekendShift": {
+    "federal": {
+      "sat": "fri",
+      "sun": "mon"
+    }
+  },
+  "additionalSources": [],
   "renamedFederalHolidays": [],
   "excludedConfederateHolidays": [],
   "years": {
@@ -20,69 +27,91 @@
       "federal": [
         {
           "date": "2026-01-01",
-          "observed": "2026-01-01",
+          "federalObserved": "2026-01-01",
           "name": "New Year's Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-01-01",
+          "closureNote": null
         },
         {
           "date": "2026-01-19",
-          "observed": "2026-01-19",
+          "federalObserved": "2026-01-19",
           "name": "Martin Luther King Jr. Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-01-19",
+          "closureNote": null
         },
         {
           "date": "2026-02-16",
-          "observed": "2026-02-16",
+          "federalObserved": "2026-02-16",
           "name": "Presidents’ Day (Washington's Birthday)",
-          "stateOfficesClosed": false
+          "stateOfficesClosed": false,
+          "stateOfficesCloseOn": null,
+          "closureNote": null
         },
         {
           "date": "2026-05-25",
-          "observed": "2026-05-25",
+          "federalObserved": "2026-05-25",
           "name": "Memorial Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-05-25",
+          "closureNote": null
         },
         {
           "date": "2026-06-19",
-          "observed": "2026-06-19",
+          "federalObserved": "2026-06-19",
           "name": "Juneteenth National Independence Day",
-          "stateOfficesClosed": false
+          "stateOfficesClosed": false,
+          "stateOfficesCloseOn": null,
+          "closureNote": null
         },
         {
           "date": "2026-07-04",
-          "observed": "2026-07-03",
+          "federalObserved": "2026-07-03",
           "name": "Independence Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-07-03",
+          "closureNote": null
         },
         {
           "date": "2026-09-07",
-          "observed": "2026-09-07",
+          "federalObserved": "2026-09-07",
           "name": "Labor Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-09-07",
+          "closureNote": null
         },
         {
           "date": "2026-10-12",
-          "observed": "2026-10-12",
+          "federalObserved": "2026-10-12",
           "name": "Columbus Day / Indigenous Peoples’ Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-10-12",
+          "closureNote": null
         },
         {
           "date": "2026-11-11",
-          "observed": "2026-11-11",
+          "federalObserved": "2026-11-11",
           "name": "Veterans Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-11-11",
+          "closureNote": null
         },
         {
           "date": "2026-11-26",
-          "observed": "2026-11-26",
+          "federalObserved": "2026-11-26",
           "name": "Thanksgiving Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-11-26",
+          "closureNote": null
         },
         {
           "date": "2026-12-25",
-          "observed": "2026-12-25",
+          "federalObserved": "2026-12-25",
           "name": "Christmas Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2026-12-25",
+          "closureNote": null
         }
       ],
       "stateHolidays": [
@@ -91,6 +120,8 @@
           "weekday": "Friday",
           "name": "Good Friday",
           "rule": "goodFriday",
+          "stateOfficesCloseOn": "2026-04-03",
+          "closureNote": null,
           "note": "Full day. Fri Mar 26, 2027."
         },
         {
@@ -98,6 +129,8 @@
           "weekday": "Tuesday",
           "name": "Primary Election Day",
           "rule": "firstTueAfterFirstMon:05",
+          "stateOfficesCloseOn": "2026-05-05",
+          "closureNote": null,
           "note": "Paid state holiday every year (Governor's 2027 holiday memo: Tue May 4, 2027)."
         },
         {
@@ -105,6 +138,8 @@
           "weekday": "Tuesday",
           "name": "General Election Day",
           "rule": "electionDay",
+          "stateOfficesCloseOn": "2026-11-03",
+          "closureNote": null,
           "note": "State holiday (every year)."
         },
         {
@@ -112,6 +147,8 @@
           "weekday": "Friday",
           "name": "Lincoln's Birthday",
           "rule": "dayAfterThanksgiving",
+          "stateOfficesCloseOn": "2026-11-27",
+          "closureNote": null,
           "note": "Indiana's 'Lincoln's Birthday' is observed on the Friday after Thanksgiving: Fri Nov 26, 2027 (Fri Nov 27, 2026)."
         },
         {
@@ -119,6 +156,8 @@
           "weekday": "Thursday",
           "name": "Washington's Birthday (observed in December)",
           "rule": "other:weekday before Christmas Day as observed, set annually by the Governor (Thu Dec 24, 2026; Thu Dec 23, 2027)",
+          "stateOfficesCloseOn": "2026-12-24",
+          "closureNote": null,
           "note": "State-law holiday moved off the February Presidents' Day date; in 2027 it is Thu Dec 23, next to Christmas observed Fri Dec 24."
         }
       ],
@@ -135,69 +174,91 @@
       "federal": [
         {
           "date": "2027-01-01",
-          "observed": "2027-01-01",
+          "federalObserved": "2027-01-01",
           "name": "New Year's Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-01-01",
+          "closureNote": null
         },
         {
           "date": "2027-01-18",
-          "observed": "2027-01-18",
+          "federalObserved": "2027-01-18",
           "name": "Martin Luther King Jr. Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-01-18",
+          "closureNote": null
         },
         {
           "date": "2027-02-15",
-          "observed": "2027-02-15",
+          "federalObserved": "2027-02-15",
           "name": "Presidents’ Day (Washington's Birthday)",
-          "stateOfficesClosed": false
+          "stateOfficesClosed": false,
+          "stateOfficesCloseOn": null,
+          "closureNote": null
         },
         {
           "date": "2027-05-31",
-          "observed": "2027-05-31",
+          "federalObserved": "2027-05-31",
           "name": "Memorial Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-05-31",
+          "closureNote": null
         },
         {
           "date": "2027-06-19",
-          "observed": "2027-06-18",
+          "federalObserved": "2027-06-18",
           "name": "Juneteenth National Independence Day",
-          "stateOfficesClosed": false
+          "stateOfficesClosed": false,
+          "stateOfficesCloseOn": null,
+          "closureNote": null
         },
         {
           "date": "2027-07-04",
-          "observed": "2027-07-05",
+          "federalObserved": "2027-07-05",
           "name": "Independence Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-07-05",
+          "closureNote": null
         },
         {
           "date": "2027-09-06",
-          "observed": "2027-09-06",
+          "federalObserved": "2027-09-06",
           "name": "Labor Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-09-06",
+          "closureNote": null
         },
         {
           "date": "2027-10-11",
-          "observed": "2027-10-11",
+          "federalObserved": "2027-10-11",
           "name": "Columbus Day / Indigenous Peoples’ Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-10-11",
+          "closureNote": null
         },
         {
           "date": "2027-11-11",
-          "observed": "2027-11-11",
+          "federalObserved": "2027-11-11",
           "name": "Veterans Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-11-11",
+          "closureNote": null
         },
         {
           "date": "2027-11-25",
-          "observed": "2027-11-25",
+          "federalObserved": "2027-11-25",
           "name": "Thanksgiving Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-11-25",
+          "closureNote": null
         },
         {
           "date": "2027-12-25",
-          "observed": "2027-12-24",
+          "federalObserved": "2027-12-24",
           "name": "Christmas Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-12-24",
+          "closureNote": null
         }
       ],
       "stateHolidays": [
@@ -206,6 +267,8 @@
           "weekday": "Friday",
           "name": "Good Friday",
           "rule": "goodFriday",
+          "stateOfficesCloseOn": "2027-03-26",
+          "closureNote": null,
           "note": "Full day. Fri Mar 26, 2027."
         },
         {
@@ -213,6 +276,8 @@
           "weekday": "Tuesday",
           "name": "Primary Election Day",
           "rule": "firstTueAfterFirstMon:05",
+          "stateOfficesCloseOn": "2027-05-04",
+          "closureNote": null,
           "note": "Paid state holiday every year (Governor's 2027 holiday memo: Tue May 4, 2027)."
         },
         {
@@ -220,6 +285,8 @@
           "weekday": "Tuesday",
           "name": "General Election Day",
           "rule": "electionDay",
+          "stateOfficesCloseOn": "2027-11-02",
+          "closureNote": null,
           "note": "State holiday (every year)."
         },
         {
@@ -227,6 +294,8 @@
           "weekday": "Friday",
           "name": "Lincoln's Birthday",
           "rule": "dayAfterThanksgiving",
+          "stateOfficesCloseOn": "2027-11-26",
+          "closureNote": null,
           "note": "Indiana's 'Lincoln's Birthday' is observed on the Friday after Thanksgiving: Fri Nov 26, 2027 (Fri Nov 27, 2026)."
         },
         {
@@ -234,6 +303,8 @@
           "weekday": "Thursday",
           "name": "Washington's Birthday (observed in December)",
           "rule": "other:weekday before Christmas Day as observed, set annually by the Governor (Thu Dec 24, 2026; Thu Dec 23, 2027)",
+          "stateOfficesCloseOn": "2027-12-23",
+          "closureNote": null,
           "note": "State-law holiday moved off the February Presidents' Day date; in 2027 it is Thu Dec 23, next to Christmas observed Fri Dec 24."
         }
       ],
@@ -250,69 +321,91 @@
       "federal": [
         {
           "date": "2028-01-01",
-          "observed": "2027-12-31",
+          "federalObserved": "2027-12-31",
           "name": "New Year's Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2027-12-31",
+          "closureNote": null
         },
         {
           "date": "2028-01-17",
-          "observed": "2028-01-17",
+          "federalObserved": "2028-01-17",
           "name": "Martin Luther King Jr. Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-01-17",
+          "closureNote": null
         },
         {
           "date": "2028-02-21",
-          "observed": "2028-02-21",
+          "federalObserved": "2028-02-21",
           "name": "Presidents’ Day (Washington's Birthday)",
-          "stateOfficesClosed": false
+          "stateOfficesClosed": false,
+          "stateOfficesCloseOn": null,
+          "closureNote": null
         },
         {
           "date": "2028-05-29",
-          "observed": "2028-05-29",
+          "federalObserved": "2028-05-29",
           "name": "Memorial Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-05-29",
+          "closureNote": null
         },
         {
           "date": "2028-06-19",
-          "observed": "2028-06-19",
+          "federalObserved": "2028-06-19",
           "name": "Juneteenth National Independence Day",
-          "stateOfficesClosed": false
+          "stateOfficesClosed": false,
+          "stateOfficesCloseOn": null,
+          "closureNote": null
         },
         {
           "date": "2028-07-04",
-          "observed": "2028-07-04",
+          "federalObserved": "2028-07-04",
           "name": "Independence Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-07-04",
+          "closureNote": null
         },
         {
           "date": "2028-09-04",
-          "observed": "2028-09-04",
+          "federalObserved": "2028-09-04",
           "name": "Labor Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-09-04",
+          "closureNote": null
         },
         {
           "date": "2028-10-09",
-          "observed": "2028-10-09",
+          "federalObserved": "2028-10-09",
           "name": "Columbus Day / Indigenous Peoples’ Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-10-09",
+          "closureNote": null
         },
         {
           "date": "2028-11-11",
-          "observed": "2028-11-10",
+          "federalObserved": "2028-11-10",
           "name": "Veterans Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-11-10",
+          "closureNote": null
         },
         {
           "date": "2028-11-23",
-          "observed": "2028-11-23",
+          "federalObserved": "2028-11-23",
           "name": "Thanksgiving Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-11-23",
+          "closureNote": null
         },
         {
           "date": "2028-12-25",
-          "observed": "2028-12-25",
+          "federalObserved": "2028-12-25",
           "name": "Christmas Day",
-          "stateOfficesClosed": true
+          "stateOfficesClosed": true,
+          "stateOfficesCloseOn": "2028-12-25",
+          "closureNote": null
         }
       ],
       "stateHolidays": [
@@ -321,6 +414,8 @@
           "weekday": "Friday",
           "name": "Good Friday",
           "rule": "goodFriday",
+          "stateOfficesCloseOn": "2028-04-14",
+          "closureNote": null,
           "note": "Full day. Fri Mar 26, 2027."
         },
         {
@@ -328,6 +423,8 @@
           "weekday": "Tuesday",
           "name": "Primary Election Day",
           "rule": "firstTueAfterFirstMon:05",
+          "stateOfficesCloseOn": "2028-05-02",
+          "closureNote": null,
           "note": "Paid state holiday every year (Governor's 2027 holiday memo: Tue May 4, 2027)."
         },
         {
@@ -335,6 +432,8 @@
           "weekday": "Tuesday",
           "name": "General Election Day",
           "rule": "electionDay",
+          "stateOfficesCloseOn": "2028-11-07",
+          "closureNote": null,
           "note": "State holiday (every year)."
         },
         {
@@ -342,6 +441,8 @@
           "weekday": "Friday",
           "name": "Lincoln's Birthday",
           "rule": "dayAfterThanksgiving",
+          "stateOfficesCloseOn": "2028-11-24",
+          "closureNote": null,
           "note": "Indiana's 'Lincoln's Birthday' is observed on the Friday after Thanksgiving: Fri Nov 26, 2027 (Fri Nov 27, 2026)."
         },
         {
@@ -349,6 +450,8 @@
           "weekday": null,
           "name": "Washington's Birthday (observed in December)",
           "rule": "other:weekday before Christmas Day as observed, set annually by the Governor (Thu Dec 24, 2026; Thu Dec 23, 2027)",
+          "stateOfficesCloseOn": null,
+          "closureNote": "Date set each year by the Governor; not announced yet.",
           "note": "State-law holiday moved off the February Presidents' Day date; in 2027 it is Thu Dec 23, next to Christmas observed Fri Dec 24."
         }
       ],
