@@ -6,6 +6,7 @@ authors:
   - name: "The Calendar (the-calendar.net)"
     website: "https://the-calendar.net/"
 url: "https://the-calendar.net/holidays/by-state/"
+repository-code: "https://github.com/mz101/us-state-holidays"
 license: CC-BY-4.0
 date-released: "2026-11-13"
 keywords:
