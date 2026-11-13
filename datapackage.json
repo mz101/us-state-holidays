@@ -3,7 +3,7 @@
   "title": "US federal and state holidays, 2025–2028 (state-employee paid holidays, verified per state)",
   "description": "US federal holidays 2025–2028 and, for all 50 states, the paid holidays of state government employees 2026–2028: which federal holidays state offices observe, additional state holidays, floating days, local and partial days, with the official source per state. Maintained by the-calendar.net.",
   "homepage": "https://the-calendar.net/holidays/by-state/",
-  "version": "2026.10.14",
+  "version": "2026.11.13",
   "licenses": [
     {
       "name": "CC-BY-4.0",
@@ -48,6 +48,13 @@
       "format": "csv",
       "mediatype": "text/csv",
       "description": "Ranking of states by paid holidays for state employees in 2027."
+    },
+    {
+      "name": "state-long-weekends-2027",
+      "path": "data/rankings/state-long-weekends-2027.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Long weekends (three days or longer) and bridge days for state employees in every state, 2027, built from the closure days."
     }
   ]
 }

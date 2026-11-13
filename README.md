@@ -17,6 +17,7 @@ Maintained by [the-calendar.net](https://the-calendar.net/) · License: [CC BY 4
 | [`data/states/state-holidays-2026-2028.csv`](data/states/state-holidays-2026-2028.csv) | one row per state × year × holiday: `holiday_date`, `type` federal/state, `paid_state_holiday` yes/no, `state_offices_close_on` (weekday offices close), `note` |
 | `data/states/<state>.json` | full profile per state: source, weekend rule, renamed federal days, extra holidays, floating days, local/partial days, election days |
 | [`data/rankings/state-paid-holidays-2027.csv`](data/rankings/state-paid-holidays-2027.csv) | states ranked by paid holidays in 2027 (range 9–14) — see the [interactive map](https://the-calendar.net/holidays/by-state/most-paid-holidays/) |
+| [`data/rankings/state-long-weekends-2027.csv`](data/rankings/state-long-weekends-2027.csv) | long weekends and bridge days for state employees in 2027 (range 7–12; JSON with every weekend and its closure days) — see the [map](https://the-calendar.net/holidays/by-state/long-weekends-2027/) |
 | `datapackage.json` | [Frictionless Data](https://frictionlessdata.io/) descriptor |
 
 ### Live versions (always current)
@@ -33,6 +34,7 @@ Maintained by [the-calendar.net](https://the-calendar.net/) · License: [CC BY 4
 - **Confederate-era holidays** are excluded from calendars and the ranking by editorial policy; where they still close state offices they are documented under `excludedConfederateHolidays`.
 - **Dates:** `holiday_date` is the calendar date of the holiday; `state_offices_close_on` is the weekday on which the state's own offices close. They differ when a holiday falls on a weekend or a state uses its own date (e.g. New Jersey observes Juneteenth on the third Friday in June). The closing day can fall in the previous year: New Year's Day 2028 (a Saturday) is observed on Friday, December 31, 2027 in most states and is listed under 2028.
 - **Weekend rules** (`weekendShift` per state, text in `weekendRule`): most states close on the Friday before a Saturday holiday and the Monday after a Sunday holiday. Exceptions: Rhode Island moves both to Monday; California, Massachusetts, New York and Wisconsin give holiday credit instead of closing on Friday; Texas does not move weekend holidays. An empty `state_offices_close_on` with a note means no weekday closure (or a day not set yet). A holiday without a weekday closure still counts as a paid holiday.
+- **Long weekends** (`state-long-weekends-*`): a run of at least three consecutive days off that includes a weekend day and at least one weekday on which state offices close for a paid holiday. A **bridge day** is one working weekday between two days off; taking it as vacation gives four days or more. Floating, half, local and Confederate-era days are not used. New Year's Day of the next year, observed on December 31, counts as a closure day of the earlier year here (the paid-holiday ranking counts it for the next year).
 - Collective bargaining agreements can give specific bargaining units different days; the data reflects each state's general schedule.
 
 ## Sources
